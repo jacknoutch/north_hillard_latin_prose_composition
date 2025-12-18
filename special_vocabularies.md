@@ -1,6 +1,6 @@
 # Special Vocabularies
 
-N.B. In these Vocabularies the principal parts of Irregular Verbs are given where they first occur, out are not as a rule repeated afterwards. Verbs of the First Conjugation art distinguished from verbs of the Third by the mark I. Where the construction is not given verbs govern the accusative.
+- N.B. In these Vocabularies the principal parts of Irregular Verbs are given where they first occur, out are not as a rule repeated afterwards. Verbs of the First Conjugation art distinguished from verbs of the Third by the mark I. Where the construction is not given verbs govern the accusative.
 
 ## Exercise 2
 
@@ -291,3 +291,165 @@ N.B. In these Vocabularies the principal parts of Irregular Verbs are given wher
 - give up, surrender, trado, -ěre, -didi, -ditum.
 - summon, call, arcesso, -ere, arcessivi, arcessitum ; convoco, I.
 - collect, colligo, -ěre, -lēgi, -lectum.
+
+## Exercise 25.
+
+- state, cīvītas, tātis, f.
+- drive out, expel, expello.
+- elect, creo, I.
+- demand, posco, -ěre, poposci;
+- impěro, I.
+- bring (of persons), duco; (of things), fèro.
+- chief, princeps, ipis.
+- seize, răpio, -ěre, răpui, raptum.
+- set on fire, ūro, -ěre, ussi, ustum; incendo, -ěre, -di, sum.
+- set free, libero, I.
+
+## Exercise 26.
+
+- stumble, lābor, -i, lapsus.
+- fall down, collabor.
+- attack, aggrědior, i, -gressus; adorior, -iri, ortus; (of a city, camp, etc.), oppugno, I.
+- advance, progredior.
+- enter, march in, ingredior.
+- return, regredior, rědeo (like eo).
+- go out, egredior ; exeo (like eo).
+- be afraid, vereor.
+- die, morior, -i, mortuus, Fut. Part. moriturus.
+- delay, moror, I.
+- exhort, hortor, I.
+- gate, porta.
+- halt, consisto, -ěre, -stiti.
+- mile. mille passus ; two miles, duo milia passuum.
+- reach, pervenio ad.
+- take by storm, expugno, I.
+
+## Exercise 27.
+
+- open, aperio, -ire, aperui, apertum.
+- call to, appello, I.
+- appropach, appropinquo, I.
+- winter, hiems, hiemis, f.
+- winter beginning, ineunte hieme.
+- at my house, apud me.
+- sleep, dormio.
+- early, mane [lit. in the morning].
+- bring an answer, responsum refero.
+- call/for, appello, I.
+
+## Exercise 28.
+
+- wood, silva.
+- small, parvus.
+- youth, jŭvěnis.
+- rampart, vallum.
+- fortify, munio.
+- resist, rěsisto, ·ěre, -stiti, dat.; sustineo, ere, tinui, tentum, acc.
+
+## Exercise 29.
+
+- silence, silentium.
+- lead out, educo.
+- town, oppidum.
+
+## Exercise 30.
+
+- gladly, libenter.
+- save, conservo, I.
+- foot, pēs, pědis, m.
+- at the king's feet, ad pedes rēgis.
+- found (a city), condo, -ere, -didi, -ditum. From the foundation of Rome, ab urbe condita.
+- spring, ver, -is, n.
+- bury sepelio, -ire, -ii, or ivi, sepultum.
+
+## Exercise 31.
+
+- some, nonnulli.
+- lead back, reduco.
+- pursue, sequor.
+
+## Exercise 32.
+
+- at a distance, procul.
+- await, exspecto, I.
+
+## Exercise 33.
+
+- eat, ědo, ěre, ēdi, ēsum.
+- keep, servo, I.
+- wounded, saucius, vulneratus.
+- only, solum, modo, tantum.
+- give up, dēdo, -ěre, -dīdi, ditum.
+- soon, mox, brěvi (sc, tempore).
+- take away, aufero. (See 18.)
+- from (out.of), ex; (away from), ab;
+- (down from), de.
+
+## Exercise 34.
+
+- break down (trans.), rescindo, -ěre, -scidi, -scissum.
+- bridge, pons, -tis, m.
+- arrival, adventus, -ūs, m.
+- immediately, statim, extemplo.
+- therefore, Itaque (first word),
+- igitur (second word).
+- come down, descendo, ere, -di, -sum.
+- seek, pěto, -ěre, -ivi, -ītum.
+- corn, frumentum.
+- repair, rěfício.
+
+## Exercise 35.
+
+- scout, explorator, speculator.
+- slowly, gradatim, lente.
+- tell (=announce), refero, nuntio, I.
+- to the other side of, across, trans.
+- provisions, commeatus, -ūs, m. ;
+- food, cibus, -i, m.
+- strong, firmus, validus.
+
+## Exercise 36.
+
+- country (as opposed to town), rus, rūris, n.
+- Athens, Athenae, f. pl.
+- Syracuse, Syrācūsae, f. pl.
+- Carthage, Carthago, -inis, f.
+- summer, aestas, -tatis, f.
+- next, proximus.
+- month, mensis, -is, m.
+
+## Exercise 37.
+
+- long, longus.
+- Sicily, Sicilia.
+- Greece, Graecia.
+- new, novus.
+- Corinth, Corinthus, -i, f.
+
+## Exercise 38.
+
+- severe, grăvis.
+- within, intra, act
+- help, auxilium.
+- delay, cunctor, I. ; moror, I.
+- sail, nāvīgo, I.
+- set sail, navem solvo, -ere, solvi, sölūtum.
+- perish, pereo, -ire, -ii, -itum.
+- farm, fundus, -i, m.
+- wage war, bellum gero, -ěre, gessi, gestum.
+- harbour, portus, -us, m.
+- Florence, Florentia.
+- dawn, prima lux.
+
+## Exercise 39.
+
+- beautiful, pulcher, -ra, -rum.
+- sunset, solis occasus, -us, m.
+- companion, comes, -Itis.
+- on the following day, postero die, postrīdie.
+- about, adv., circiter.
+- evening, vesper, -ěri, m. (Locative vesperi or e).
+- be distant, absum.
+- broad, latas.
+- deep, altus.
+- from which, whence, unde.
