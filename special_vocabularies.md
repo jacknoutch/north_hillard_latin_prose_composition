@@ -453,3 +453,161 @@
 - broad, latas.
 - deep, altus.
 - from which, whence, unde.
+
+## Exercise 40.
+
+- road, via.
+- for a short time, paulisper.
+- shore, öra, litus, -ris, n.
+- every day, quotīdie.
+- beginning, initium.
+
+## Exercise 41.
+
+- shout, clamor.
+- by day, interdiu.
+- song, cantus, -ūs, m.
+- explore, explõro, I.
+- yard, passus, -us, 17.
+- come between, intercedo, -ere, -cessi, -cessum.
+- accordingly, Igitur, [second word].
+- dark, obscürus.
+- boat, linter, -tris, f.
+- get ready, equip, paro, I.
+- up the river, adverso flūmine.
+- without the knowledge of-use inscius.
+
+## Exercise 42.
+
+- The following words govern the ablative:
+- get possession of, potior, 4.
+- enjoy, fruor, -i, fruitus.
+- perform, fungor, -i, functus.
+- use, utor, i, usus.
+- feed on, vescor, -i.
+- lean on, nītor, -i, nixus (nisus in the sense of striving).
+- relying on, frētus.
+- contented with, contentus.
+- endowed with, praeditus.
+- worthy of, dignus.
+- unworthy of, indignus.
+- there is no need of, opus est.
+- I have need of help, opus est mihi auxilio.
+- booty, praeda.
+- disease, morbus, -i, m,
+- body, corpus, -oris, n.
+- weak, infirmus.
+- lot, sors, -tis, f.
+- duty, officium.
+- undertake, suscipio.
+- difficulty, difficultas, -tatis, f.
+- tall, altus.
+- wing, ala.
+
+## Exercise 43.
+
+- like, sīmilis.
+- build, aedifico, I.
+- height, altitūdo, -ĩnis, f.
+- on the march, ex or in itinere.
+- beat, caedo, -ere, cěcīdi, caesum.
+- Babylon, Babylon, -onis, f.
+- wise, săpiens.
+- wisdom, săpientia.
+- bow, arcus, -ūs, m.
+- Rhone, Rhodănus, -i, m.
+- many times (with comp.), multis partibus.
+
+## Exercise 44.
+
+- Verbs followed by Acc. and Inf.
+- think, puto, I.; existimo, I.; arbitror, I .; reor, reri, ratus.
+- believe, credo.
+- be sure, pro certo hăbeo.
+- perceive, sentio, -ire, sensi, sensum.
+- understand, intellego, -ere, -lexi, lectum.
+- notice, observe, animadverto, -ere, -verti.
+- learn, ascertain, cognosco, -ěre, -novi, -nitum.
+- know, scio.
+- not to know, nescio
+- hear, audio.
+- say, dico.
+- assert, declare, affirmo, I.
+- inform, tell, certiorem facio. See p. 43, note 2.
+- announce, report, nuntio, I., refero.
+- relate, narro, I.
+- cry out, clamo, I.
+- deny, say not, nego, I.
+- reply, respondeo, -ēre, -spondi, -sponsum.
+- pretend, simulo, I.
+- men say, it is said, ferunt.
+- it is agreed, well known, constat.
+- promise, promitto, polliceor.
+- hope, spēro, I.
+- threaten, minor, I.
+
+- strike a camp, castra moveo.
+- ready, părātus.
+
+## Exercise 45.
+
+- be at hand, adsum.
+- yield, cedo, -ere, cessi, cessum.
+- disaster, clades, -is, f.
+- sustain (=receive), accipio.
+- a Gaul, Gallus.
+- Gaul, Gallia.
+
+## Exercise 47.
+
+- deceive, dēcipio, fallo, -ěre, fěfelli, falsum.
+- arrival, adventus, -ūs, m.
+
+## Exercise 48.
+
+- state, civitas, -tatis, f.
+- attack, charge, impětus.
+- charge, impetum facio.
+- finish, conficio.
+- leader, dux, ducis.
+
+## Exercise 49.
+
+- as soon as possible, quam primum.
+- traitor, prodītor, -oris, m.
+- rightiy, jūrě.
+- prisoner, captivus, -i.
+- legion, legio, -onis, f.
+
+## Exercise 50.
+
+- come up, arrive, advěnio.
+- reward, praemium.
+- surround, cingo, -ěre, cinxi, cinctum; circumvěnio.
+- ago. See p. 32.
+
+## Exercise 51.
+
+- old man, sěnex, sěnis.
+- complain, queror, -i, questus.
+- wife, uxor, -oris.
+- field, ager, -ri, m.
+- sit, sědeo, -ēre, sēdi, sessum.
+- supper, cēna.
+- be hungry, ēsŭrio, 4.
+
+## Exercise 52.
+
+- run out, procurro. Perf. -curri or -cucurri.
+- pass, saltus, -is, m.; angustiae, f. pl.
+- purposely, de industria.
+- abandon, relinquo.
+- uilty, nocens, -entis.
+- Fat the same time, simul.
+- kingdom, regnum.
+- forum, főrum.
+
+## Exercise 53.
+
+- besiege, beset, blockade, obsideo, -ere, -sedi, -sessum
+- fail, deficio.
