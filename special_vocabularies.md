@@ -1312,19 +1312,8 @@
 
 ## Exercise 109.
 
-- it concerns.
-- 
-- These take a Genitive of the
-- person concerned. But instead
-- of the Gen. of pronouns they
-- take mea, tul, etc. They may
-- also be qualified by a Gen. of
-- value or neuter adjective :
-- maximi interest
-- { multum interest=it is of
-- the greatest importance.
-- They can be followed both by
-- infinitive and indirect question.
+- it concerns, interest; refert.
+*These take a Genitive of the person concerned. But instead of the Gen. of pronouns they take mea, tul, etc. They may also be qualified by a Gen. of value or neuter adjective: e.g. maximi interest, multum interest = it is of the greatest importance. They can be followed both by infinitive and indirect question.*
 - family, household, familia.
 - property, bona, n. pl.
 - evident, manifestus.
@@ -1336,78 +1325,60 @@
 
 ## Exercise 110.
 
-- Interrogative words.
-- who? what? quis, quid (adj. qui,
-- quae, quod). Also quisnam.
+*Interrogative words.*
+- who? what? quis, quid (adj. qui, quae, quod). Also quisnam.
 - which of two? uter, -tra, -trum.
 - of what sort? qualis.
 - how great? quantus.
 - how many? quot.
-- how often ? quoties.
+- how often? quoties.
 - how ? (with adj. and adv.) quam.
-- how? (=in what manner?) quo-
-- modo, quemadmodum.
+- how? (=in what manner?) quomodo, quemadmodum.
 - how long? quamdiu.
-- why ? cur, quare, quamobrem.
-- when ? quando.
-- where? ubi, qu .
-- whence? where from ? unde.
+- why? cur, quare, quamobrem.
+- when? quando.
+- where? ubi, qua.
+- whence? where from? unde.
 - whither? where to? quo.
-- 
-- interest
-- refert
-- 
-- e.g.
-- 
-- increase, trans., augeo, -ere, auxi,
-- auctum.
-- intrans., cresco, -ere, crevi
-- cretum.
+
+- increase, trans., augeo, -ere, auxi, auctum.
+- intrans., cresco, -ere, crevi, cretum.
 - regard as, habeo, duco.
-- cunning, n. sollertia.
-- adj. sollers.
+- cunning, n. sollertia. adj. sollers.
 - panic, pavor.
 - terms, conditiores.
 - worthy, dignus.
 
 ## Exercise 112.
 
-- Words introducing indirect
-- questions.
-- ask, rogo; interrogo; quaero,
-- -ere, quaesivi, quaesitum (ex).
+*Words introducing indirect questions.*
+- ask, rogo; interrogo; quaero, -ere, quaesivi, quaesitum (ex).
 - know, scio.
 - not to know, nescio.
-- it is doubtful, incertum, dubium
-- est.
+- it is doubtful, incertum, dubium est.
 - to be doubtful, to doubt, dubito, I.
 - to ascertain, cognosco.
-- to deliberate, consult, delibero, 1.,
-- consulo.
-- to consider, c gito, I., reputo, I.
-- to be of importance, make a differ-
-- ence, interest, refert. (See Voc.
-- 109.)
-- it matters a great deal, multum or
-- magni interest.
+- to deliberate, consult, delibero, I., consulo.
+- to consider, cogito, I., reputo, I.
+- to be of importance, make a difference, interest, refert. (See Voc. 109.)
+- it matters a great deal, multum or magni interest.
 
 ## Exercise 113.
  
-- on purpose, de industria,
+- on purpose, de industria.
 
 ## Exercise 114.
 
 - old, senex, -is.
-- happy, felix, beatus.
-- understand, intellego, -ere, -lexi,
-- -lectum.
-- young, juvenis,
+- happy, fēlix, beatus.
+- understand, intellego, -ere, -lexi, -lectum.
+- young, juvenis.
 
 ## Exercise 115.
  
 - to-morrow, cras.
 - intend, in animo habeo.
-- late.at night, multa nocte.
+- late at night, multa nocte.
 - what news? quid novi?
 - regiment, cohors, -ortis, f.
 - quite, admodum.
@@ -1419,21 +1390,16 @@
 
 ## Exercise 118.
 
-- vates, i
-- piece (of gold), nummus, -i, m1.
+- prophet, prophetess, vates, is
+- piece (of gold), nummus, -i, m.
 - once more, rursus.
 - price, pretium.
 
 ## Exercise 119.
 
 - wonder, miror.
-- offer, offero, offerre, obtuli, ob-
-- latum.
-- show, ostendo, -ere, -di, -sum, or
-- -tum.
-- 
-- prophet.
-- prophetess
+- offer, offero, offerre, obtuli, oblatum.
+- show, ostendo, -ere, -di, -sum, or -tum.
 
 ## Exercise 120.
 
@@ -1441,8 +1407,7 @@
 - moved (by anger), commotus.
 - sign, signum,
 - rather, potius.
-- cut in two, discindo, -ere, scidi,
-- scissum.
+- cut in two, discindo, -ere, scidi, scissum.
 - augur, augur, -uris.
 
 ## Exercise 121.
@@ -1450,16 +1415,14 @@
 - following, next, proximus.
 - recover, trans., recipio.
 - rising ground, editus locus.
-- 
 - trick, dolus, -i, m.
 - most of them, plerique.
-- encamp, consido, -ere, -sedi,
-- sessum.
+- encamp, consido, -ere, -sedi, sessum.
 
 ## Exercise 122.
 
 - indeed, quidem.
-- once, formerly,  lim, quondam.
+- once, formerly,  olim, quondam.
 - by means of, per.
 - overcome (by fear), perculsus.
 - whereupon, quo facto
@@ -1467,24 +1430,20 @@
 ## Exercise 123.
 
 - celebrated, praeclarus.
-- catch sight of, conspicio, -ere,
-- -spexi, -spectum; conspicor, I.
+- catch sight of, conspicio, -ere, -spexi, -spectum; conspicor, I.
 - somedaysafter, aliquotpost diebus.
 - door, janua.
 - in astonishment, attonitus.
-- be mad, furo, -ere (no Perfect).
-- adj. insanus, amens.
+- be mad, furo, -ere (no Perfect). adj. insanus, amens.
 - exclaim, clamo, I.
 
 ## Exercise 124.
 
-- custom, m s, m ris, m.
+- custom, mos, moris, m.
 - schoolmaster, magister, -tri.
-- without the knowledge of. Use
-- inscius.
+- without the knowledge of. Use inscius.
 - former ... latter, ille. .. hic.
-- commit to one's care, mando, I.,
-- acc. and dat.
+- commit to one's care, mando, I., acc. and dat.
 - rod, virga.
 - such ... as, talis ... qualis.
 - drive, ago.
@@ -1495,70 +1454,56 @@
 
 - panic, pavor.
 - in silence, silentio.
-- decree, decerno, -ere, -crevi, -cr -
-- tum
-- clothe, vestio:
-- stroke, mulceo, mulsi, mulsum,
+- decree, decerno, -ere, -crevi, -cretum
+- clothe, vestio.
+- stroke, mulceo, mulsi, mulsum.
 - beard, barba.
-- strike, percutio, -ere, -cussi, -cus-
-- sum.
+- strike, percutio, -ere, -cussi, -cussum.
 
 ## Exercise 126.
 
-- visit, viso, -ere, -si, -sum,
+- visit, viso, -ere, -si, -sum.
 - unlike, dissimilis.
 - discuss, dissero, -ere, ui, -tum (de).
 - fortunate, felix.
 - happy, beatus.
-- whoever, whatever, quisquis, quic-
-- quid, or quicunque, quaecun-
-- que, quodcunque.
+- whoever, whatever, quisquis, quicquid, or quicunque, quaecunque, quodcunque.
 
 ## Exercise 127.
 
-- piety, duty(naturalaffection),pietas.
+- piety, duty (natural affection), pietas.
 - ox, bos, bovis, c.
-- drag, draw, trho, -ere, traxi,
-- tractum.
-- cart, carrus, -i, 1/1.
+- drag, draw, trho, -ere, traxi, tractum.
+- cart, carrus, -i, m.
 - both, ambo.
 - prove, demonstro, I.
 - liable to, obnoxius, dat.
 - misfortune, res adversae.
-- honorable (of things), honestus.
-- (of persons), probus.
+- honorable (of things), honestus. (of persons), probus.
 - indeed, revera.
 
 ## Exercise 128.
 
-- Impersonal Verbs.
+*Impersonal Verbs.*
 - A.
-- me miseret, I pity.
-- me taedet, I am tired of.
-- me pdet, I am ashamed of.
-- me paenitet, I am sorry for, I
-- repent.
-- The above "verbs of feeling"
-- maytakea Genitive for a further
-- object ; e.g. me paenitet cru-
-- delitatis, I am sorry for my
-- cruelty.
-- 
+ - me miseret, I pity.
+ - me taedet, I am tired of.
+ - me pudet, I am ashamed of.
+ - me paenitet, I am sorry for, I repent.
+
+*The above "verbs of feeling" may take a Genitive for a further object; e.g. me paenitet crudelitatis, I am sorry for my cruelty.*
+
 - B.
-- me decet, it is becoming to me.
-- me oportet, it is my duty, I ought.
+ - me decet, it is becoming to me.
+ - me oportet, it is my duty, I ought.
+
 - C.
-- mihi placet, I am pleased, it seems
-- good to me, I am resolved.
-- mihi licet, I am allowed, I may.
-- mihi accidit, it happens to me.
-- mihi, contingit, it happens to me
-- (generally of good fortune).
-- All the verbs B and C may be
-- followed by an Infinitive. C
-- may be followed by a Sub-
-- junctive.
-- (For interest, retert, see Voc. 109.)
+ - mihi placet, I am pleased, it seems good to me, I am resolved.
+ - mihi licet, I am allowed, I may.
+ - mihi accidit, it happens to me.
+ - mihi, contingit, it happens to me (generally of good fortune).
+
+*All the verbs B and C may be followed by an Infinitive. C may be followed by a Subjunctive. (For interest, retert, see Voc. 109.)*
 
 ## Exercise 129.
 
@@ -1570,25 +1515,20 @@
 
 - cowardice, ignavia.
 - kind, benignus.
-- kindness, benignitas, bene-
-- volentia, beneficium (=act
-- of kindness).
+- kindness, benignitas, benevolentia, beneficium ( = act of kindness).
 - towards (of feelings), erga, acc.
-- staff (=officers), legati.
+- staff ( = officers), legati.
 
 ## Exercise 131.
 
-- Words followed by genitive.
-- remember, memini(sometimes acc.).
-- forget, obliviscor (sometimes acc ).
-- recall, recollect, reminiscor (some-
-- times acc.).
+*Words followed by genitive.*
+- remember, memini (sometimes acc.).
+- forget, obliviscor (sometimes acc).
+- recall, recollect, reminiscor (sometimes acc.).
 - remind, admoneo, acc. and gen.
 - accuse, accuso, I., acc and gen.
 - pity, misereor.
-- mindful, memor ..
-- 
-- D.
+- mindful, memor.
 - forgetful, immemor.
 - ignorant of, inscius, imperitus.
 - skilled in, peritus.
@@ -1596,63 +1536,45 @@
 - anxious to, desirous of, cupidus.
 - eager for, avidus.
 - unaccustomed to, insuetus.
-- recollection, remembrance, mem-
--  ria.
+- recollection, remembrance, memoria.
 - skill, peritia.
 - desire, cupido, studium,
-- knowledge (of things), cognitio
-- (of persons), acquaintance, con-
-- suetudo, -inis, f.
-- 
+- knowledge (of things), cognitio (of persons), acquaintance, consuetudo, -inis, f.
 - belonging to other people, alienus.
 - address, alloquor, -i, -locutus.
 - absent, absens.
 - necessary, necessarius.
 - past, praeteritus.
-- for the sake of honour, honoris
-- causa.
-- administer public affairs, rem-
-- publicam administro, I.
+- for the sake of honour, honoris causa.
+- administer public affairs, rempublicam administro, I.
 
 ## Exercise 132.
 
-- spend (life, period of time, etc.),
-- ago.
+- spend (life, period of time, etc.), ago.
 - treachery, proditio.
 - powerful, potens.
 - design, consilium.
-- give up, abandon, relinquo, acc. ;
-- desisto, abl.
+- give up, abandon, relinquo, acc.; desisto, abl.
 - swim, nato, I.
 
 ## Exercise 133.
 
-- now, moreover (continuing a narra-
-- tive), autem (second word).
+- now, moreover (continuing a narrative), autem (second word).
 - ship of war, longa navis.
 - several, aliquot, complures.
-- 
-- turn back (especially with object
-- unaccomplished), revertor.
+- turn back (especially with object unaccomplished), revertor.
 - proud, superbus.
-- looks, expression, face, vultus, -us,
-- 772.
-- -dress, attire, ornatus, -us.
+- looks, expression, face, vultus, -us, m.
+- dress, attire, ornatus, -us.
 - splendid, insignis.
-- come on board, embark, (in) navem
-- conscendo.
-- embark (trans.), impono
-- (milites, etc.).
-- land, disembark (intr.), egredior e
-- navi; (trans.) expono (milites,
-- etc.).
+- come on board, embark, (in) navem conscendo.
+- embark (trans.), impono (milites, etc.).
+- land, disembark (intr.), egredior e navi; (trans.) expono (milites, etc.).
 - by chance, forte, casu.
 
 ## Exercise 134.
 
-- need, egeo, indigeo, abl. or gen.
-- he needs money, opus est ei
-- pecunia.
+- need, egeo, indigeo, abl. or gen. he needs money, opus est ei pecunia.
 - be without, lack, careo, abl.
 - kindly, benigne.
 - hold on course, cursum tenere.
@@ -1660,14 +1582,10 @@
 ## Exercise 135.
 
 - lately, nuper.
-- -inhabitant (of country), incola.
-- (of city), civis.
-- (of town), oppidanus.
-- garment, vestis, -is, f .; vesti-
-- mentum.
+- inhabitant (of country), incola. (of city), civis. (of town), oppidanus.
+- garment, vestis, -is, f .; vestimentum.
 - stream, rivus, -i.
-- a certain (= Indefinite Article),
-- quidam.
+- a certain (= Indefinite Article), quidam.
 - want, cupio.
 - flow, fluo.
 - rise, orior.
@@ -1677,10 +1595,8 @@
 ## Exercise 136.
 
 - with the intention of, eo consilio ut.
-- wreck (of ship), frango, -ere, fregi,
-- fractum.
-- to be shipwrecked, ejicior in litus
-- (or litore).
+- wreck (of ship), frango, -ere, fregi, fractum.
+- to be shipwrecked, ejicior in litus (or litore).
 
 ## Exercise 137.
 
@@ -1692,8 +1608,7 @@
 
 ## Exercise 138.
 
-- recognise, agnosco, -ere, -novi,
-- -nitum.
+- recognise, agnosco, -ere, -novi, -nitum.
 - mob, turba, multitudo.
 - in no wise, haudquaquam.
 - drag, traho.
@@ -1704,30 +1619,27 @@
 
 - sister, soror.
 - village, vicus.
-- entrance, os (oris), n., ostium, -- insolence, arrogantia.
-- aditus, -us, n.
+- entrance, os (oris), n., ostium, aditus, -us, n.
 - cavern, spelunca.
 - limb, membrum.
-- form, forma, fig ra.
+- form, forma, figura.
 - colour, color.
 - skin, cutis, -is, f.
 - tinge, tingo, -ere, tinxi, tinctum.
 - green, viridis.
 - set before, offero, propono.
 - touch, tango, -ere, tetigi, tactum.
-- torment, torture, cr cio, I.
+- torment, torture, crucio, I.
 - sad, gloomy, tristis.
 - tear, lacrima.
 
 ## Exercise 140.
 
-- -accustomed to, assuetus ad, assue-
-- factus ad.
+- accustomed to, assuetus ad, assuefactus ad.
 - healthy, sanus.
 - light, lux, lucis, f.
 - flock, grex, gregis, m.
-- sound, sonus, -i, m. ; s nitus, - s,
-- 
+- sound, sonus, -i, m.; sonitus, -us, m.
 - wander, vagor, I.
 - stupefied, stupefactus.
 - excessive, nimius.
@@ -1744,8 +1656,7 @@
 - quiet, tranquillus.
 - set, post, dispono; colloco, I.
 - chosen, picked, delectus.
-- fall on, incido, ere, -cidi, -casum
-- (in).
+- fall on, incido, ere, -cidi, -casum (in).
 
 ## Exercise 143.
 
@@ -1755,11 +1666,11 @@
 
 - refuse, recuso, I.
 - theft, furtum.
-- -put in prison, in vincula conjicio.
+- put in prison, in vincula conjicio.
 - admit, admitto.
 - fit to, dignus qui, subj.
-- -launch, deduco.
-- patiently, aeqno animo.
+- launch, deduco.
+- patiently, aequo animo.
 
 ## Exercise 145.
 
@@ -1767,36 +1678,32 @@
 
 ## Exercise 146.
 
-- suitable, Idoneus.
+- suitable, idoneus.
 - rashly, temere.
 - towards evening, sub vesperum.
 - take place of, relieve, succedo, dat.
 - disabled, confectus.
 - ladder, scala.
 - scale, ascendo.
-- elephant, elephantus, -i, 1.
+- elephant, elephantus, -i, m.
 - in front of, pro.
 - bring up, admoveo.
 
 ## Exercise 147.
 
 - prepared to, paratus, Inf.
-- oppose, bar way of, hinder, obsto,
-- obsisto, dat .; impedio, acc .;
-- pr hibeo, acc.
+- oppose, bar way of, hinder, obsto, obsisto, dat.; impedio, acc.; prohibeo, acc.
 - build, aedifico, I.
 - in two days, biduo,
 - for two days, biduum.
 - opposite bank, altera ripa,
 - landing, egressus, -us.
-- up the river, in adversum flumen,
-- adverso flumine.
+- up the river, in adversum flumen, adverso flumine.
 
 ## Exercise 148.
 
-- Carthaginian, Poenus(adj. Punicus)
-- cold, frigidus.
-- (noun), frigus, -oris, n.
+- Carthaginian, Poenus (adj. Punicus)
+- cold, frigidus. (noun), frigus, -oris, n.
 - desolate, desertus.
 - especially, praesertim.
 - want, inopia.
@@ -1808,12 +1715,9 @@
 
 ## Exercise 149.
 
-- see to (undertake), the building of a
-- house, curare (suscipere) aedi-
-- ficandam domum.
-- accuse of, accuso, I. (with Gen. of
-- crime).
-- treachery, pr ditio.
+- see to (undertake), the building of a house, curare (suscipere) aedificandam domum.
+- accuse of, accuso, I. (with Gen. of crime).
+- treachery, proditio.
 
 ## Exercise 150.
 
@@ -1821,32 +1725,28 @@
 
 ## Exercise 151.
 
-- delay, moror, I .; cunctor, I.
+- delay, moror, I.; cunctor, I.
 - winter quarters, hiberna, n. pl.
-- hold a levy, delectum (4th. decl.)
-- habeo.
+- hold a levy, delectum (4th. decl.) habeo.
 
 ## Exercise 153.
 
 - get out, evado, -ere, -si, -sum.
-- pass, defile, saltus, -us, m .; angus-
-- tiae, fauces, f.
+- pass, defile, saltus, -us, m .; angustiae, fauces, f.
 - narrow, angustus.
 - in vain, frustra, nequicquam.
 - both, uterque.
 - clothes, vestis, -is, f.
 - open, apertus.
-- plain, campus, -i, .. , planities, f. 5.
-- still (=even), etiam.
+- plain, campus, -i, m., planities, f. 5.
+- still ( = even), etiam.
 
 ## Exercise 154.
 
 - fair terms, aequae conditiones.
-- send under the yoke, sub jugum
-- mitto.
+- send under the yoke, sub jugum mitto.
 - treaty, foedus, -eris, n.
-- clothes, vestis, -is, f., vestitus,
-- -us, mn.
+- clothes, vestis, -is, f., vestitus, -us, m.
 
 ## Exercise 156.
 
