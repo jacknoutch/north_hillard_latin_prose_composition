@@ -585,77 +585,77 @@ N.B. In these Vocabularies the principal parts of Irregular Verbs are given wher
 ## Exercise 51.
 
 - old man, sĕnex, sĕnis.
-- complain, queror, -i, questus.
-- wife, uxor, -oris.
-- field, ager, -ri, m.
+- complain, quĕror, -i, questus.
+- wife, uxor, -ōris.
+- field, ăger, -ri, m.
 - sit, sĕdeo, -ēre, sēdi, sessum.
 - supper, cēna.
 - be hungry, ēsŭrio, 4.
 
 ## Exercise 52.
 
-- run out, procurro. Perf. -curri or -cucurri.
-- pass, saltus, -is, m.; angustiae, f. pl.
-- purposely, de industria.
-- abandon, relinquo.
-- uilty, nocens, -entis.
-- Fat the same time, simul.
+- run out, prōcurro. Perf. -curri or -cucurri.
+- pass, saltus, -ūs, m.; angustiae, f. pl.
+- purposely, de industriā.
+- abandon, rĕlinquo.
+- uilty, nŏcens, -entis.
+- Fat the same time, sĭmul.
 - kingdom, regnum.
-- forum, főrum.
+- forum, fŏrum.
 
 ## Exercise 53.
 
-- besiege, beset, blockade, obsideo, -ere, -sedi, -sessum
-- fail, deficio.
-- greatly, magnopĕre.
+- besiege, beset, blockade, obsĭdeo, -ēre, -sēdi, -sessum
+- fail, defĭcio.
+- greatly, magnŏpĕre.
 - order, jussum.
-- territories, fines, -ium, m. [finis, in singular = boundary].
-- nevertheless, tamen [usually not first word].
-- withdraw, discedo.
+- territories, fīnes, -ium, m. [finis, in singular = boundary].
+- nevertheless, tămen [usually not first word].
+- withdraw, discēdo.
 
 ## Exercise 54.
 
 - engage in battle, join battle, proelium committo.
 - dismiss, disband, dīmitto.
-- draw up in line of battle, instruo -ere, -struxi, -structum.
+- draw up in line of battle, instruo -ĕre, -struxi, -structum.
 - withstand, sustineo.
-- line of battle, acies, f., 5.
-- escape, n., fuga.
+- line of battle, ăcies, f., 5.
+- escape, n., fŭga.
 - all to a man, omnes ad unum.
 
 ## Exercise 55.
 
-- review an army, recenseo, -ere, -ui.
+- review an army, recenseo, -ēre, -ui.
 - thick, densus.
-- cloud, nubes, -is, f.
+- cloud, nūbes, -is, f.
 - any (in negative sentences), ullus.
 - mortal, mortālis.
-- by name [called], nomine.
-- appear, videor.
-- capital, căput, -itis, n.
+- by name [called], nōmĭne.
+- appear, vĭdeor.
+- capital, căput, -ĭtis, n.
 - world, orbis terrarum.
-- practise, studeo.
-- art of war, ars militaris.
-- speak the truth, vera loquor.
+- practise, stŭdeo.
+- art of war, ars milĭtāris.
+- speak the truth, vēra lŏquor.
 
 ## Exercise 56.
 
-- clever, callidus.
+- clever, callĭdus.
 - offence, noxa, delictum.
-- give evidence, testimonium dīco.
-- accuser, accusator.
-- anger, ira.
-- make angry, lăcesso, -ere, -ivi, -itum.
+- give evidence, testĭmōnium dīco.
+- accuser, accūsātor.
+- anger, īra.
+- make angry, lăcesso, -ere, -ivi, -ītum.
 - swear, jūro, I.
 
 ## Exercise 57.
 
-- value, think worth, aestimo, I.
-- liberty, libertas.
-- cheap, worthless, vilis.
-- at a low price, vili.
-- at a high price, highly, magni.
-- of no value, nìhili.
+- value, think worth, aestĭmo, I.
+- liberty, lībertas.
+- cheap, worthless, vīlis.
+- at a low price, vīli.
+- at a high price, highly, magnī.
+- of no value, nĭhĭli.
 - cost, stare (dat. of person).
 - sesterce, sestertius, -i, m.
 - care a straw for, flocci facio.
@@ -666,28 +666,28 @@ N.B. In these Vocabularies the principal parts of Irregular Verbs are given wher
 ## Exercise 59.
 
 - waste time, tempus tĕro, -ĕre, -trīvi, trītum.
-- confidence, fiducia.
-- too much, nimis, adv. ; nimius, adj.
-- too little, very little, parum, adv.
-- boldness, audacia.
+- confidence, fīdūcia.
+- too much, nĭmis, adv. ; nĭmius, adj.
+- too little, very little, părum, adv.
+- boldness, audācia.
 - loss, dētrīmentum.
-- surrender (intrans.), se tradere, dedere ; in deditionem venire.
-- strength, robur, -oris, n.
+- surrender (intrans.), se trādere, dēdere; in dēdĭtionem vĕnire.
+- strength, rōbur, -ŏris, n.
 - still, adhuc.
 - keep, conservo, I.
 - old (of former times), antīquus. (living or lasting long), vĕtus, -ĕris.
 - most, plērique.
 - show (of qualities), praesto, -stare, -stiti.
-- where in the world, ubi gentium.
-- live (=dwell), habito, I.
+- where in the world, ŭbi gentium.
+- live (=dwell), hăbĭto, I.
 
 ## Exercise 60.
 
-- eloquence, eloquentia.
+- eloquence, ēlŏquentia.
 - nation, gens, gentis, f.
-- lose, amitto.
+- lose, āmitto.
 - hope, spes, f., 5.
-- country (native land), patria. (district), rĕgio, fines. (land), terra. (opp. to town), rus.
+- country (native land), patria. (district), rĕgio, fīnes. (land), terra. (opp. to town), rus.
 - send to help, submitto, acc. and dat .; *e.g. copias Caesari submittit.*
 
 ## Exercise 61.
