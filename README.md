@@ -31,6 +31,8 @@ My workaround is to use [AutoHotkey](https://www.autohotkey.com/) with the follo
 
 But this works enough for me to type in the browser and edit the files on Github.
 
+The shortcuts work as follows: type the letter (upper or lowercase) then `=` for a macron or `+` for a breve. Eg. `a+` becomes `ă` and `O=` becomes `Ō`.
+
 ```
 #Requires AutoHotkey v2.0
 
