@@ -4,60 +4,59 @@
 
 ## Exercise 2
 
-- go, eo, ire, ivi, itum.
+- go, eo, ire, ivi, ĭtum.
 - city, urbs, urbis, f.
-- buy, ěmo, eměre, ēmi, emptum.
+- buy, ĕmo, emĕre, ēmi, emptum.
 - bread, pānis, -is, m.
-- see, video, -ere, vīdi, visum.
-- home, domus, -us, f.
-- friend, amicus, -i.
-- ask for, rogo, I.
-- peace, pax, pacis, f.
-- send, mitto, mittere, misi, missum.
-- run, curro, -ěre, căcurri, cursum.
-- fast, quick, celer; adv. celěriter.
-- catch, take, capture, căpio, -ěre, cēpi, captum
-- horse, ěquus, -i, m.
-- tired, weary, fessus, defessus.
+- see, vĭdeo, -ēre, vīdi, vīsum.
+- home, dŏmus, -us, f.
+- friend, amīcus, -i.
+- ask for, rŏgo, I.
+- peace, pax, pācis, f.
+- send, mitto, mittĕre, misi, missum.
+- run, curro, -ĕre, cŭcurri, cursum.
+- fast, quick, cĕler; adv. cĕlĕrĭter.
+- catch, take, capture, căpio, -ĕre, cēpi, captum
+- horse, ĕquus, -i, m.
+- tired, weary, fessus, dēfessus.
 - sword, glădius, -i, m.
-- kill, put to death, interficio, -ere, -feci, fectum; occido, -ere, occīdi, occisum.
-- give, do, dăre, dědi, dătum.
+- kill, put to death, interfĭcio, -ĕre, -fēci, fectum; occīdo, -ĕre, occīdi, occīsum.
+- give, do, dăre, dĕdi, dătum.
 - king, rex, rēgis.
-- son, filius, -i.
+- son, fīlius, -i.
 
 ## Exercise 3
 
-- retreat, se rěcipěre, -cepi, ceptum; pědem rěferre, rettuli or rētuli, relatum.
+- retreat, se rĕcĭpĕre, -cēpi, ceptum; pĕdem rĕferre, rettuli or rētuli, relatum.
 - avoid, vīto, I.
 - battle, pugna, proelium.
-- hinder, impedio, 4.
-- march, n. iter, itineris, 1.
-- march, v. iter facio; contendo, -ere, -di, -tum
-- learn (=discover), cognosco, -ěre, -novi, -nitum.
-- plan, consilium, 1.
-- advance, pro-gredior, -i, -gressus, procedo, -ere, -cessi, -cessum (so conjungate cedo and all its compounds)
+- hinder, impĕdio, 4.
+- march, n. ĭter, ĭtĭnĕris, 1.
+- march, v. ĭter făcio; contendo, -ĕre, -di, -tum
+- learn (=discover), cognosco, -ĕre, -nōvi, -nĭtum.
+- plan, consĭlium, 1.
+- advance, prō-grĕdior, -i, -gressus, prōcedo, -ĕre, -cessi, -cessum (so conjungate cēdo and all its compounds)
 - camp, castra, -orum, n. pl.
-- accuse, accuso, I.
+- accuse, accūso, I.
 - work, v. lăbōro, I.
-- work, n. lăbor, -öris, m .; opus,
-- -eris, #.
-- become, fio, fieri, factus sum.
-- rich, dives, -itis.
+- work, n. lăbor, -ōris, m.; ŏpus, -eris, n.
+- become, fīo, fĭĕri, factus sum.
+- rich, dīves, -ĭtis.
 - arms, arma, n. pl.
-- think, puto, I.
-- coward, ignavus.
-- brave, strong, fortis, vălidus.
+- think, pŭto, I.
+- coward, ignāvus.
+- brave, strong, fortis, vălĭdus.
 - poor (a poor man), pauper, -eris.
 - consul, consul, -ŭlis.
-- ought, debeo.
+- ought, dēbeo.
 - praise, laudo, I.
 
 ## Exercise 4.
 
-- help, jŭvo, -are, jūvi, jūtum, acc.; subvenio, -ire, -veni, .ventum, dat.
+- help, jŭvo, -are, jūvi, jūtum, acc.; subvenio, -ire, -veni, -ventum, dat.
 - sick, aeger, -ra, -rum.
 - suffer, pătior, -i, passus.
-- pain, dolor, -oris, m.
+- pain, dŏlor, -ōris, m.
 - plain, campus, -i, m.
 
 ## Exercise 5.
@@ -65,32 +64,32 @@
 - safe, tūtus.
 - stay, remain, măneo, -ere, mansi, mansum.
 - save, servo, I.
-- whole, totus, omnis.
+- whole, tōtus, omnis.
 
 ## Exercise 6.
 
 - so great, tantus.
 - such, tālis.
 - so many, tot (an indecl. adj.).
-- so often, toties,
+- so often, tŏties,
 - so (with adv. and adj.), tam.
-- so (=in such a way), ita.
+- so (=in such a way), ĭta.
 - so (=to such an extent), ădeo.
-- conquer, defeat, vinco, -ěre, vīci, victum.
-- be afraid, fear, timeo.
+- conquer, defeat, vinco, -ĕre, vīci, victum.
+- be afraid, fear, tĭmeo.
 - our men, nostri [omit men].
-- escape, effŭgio, -ěre, -fugi.
-- fierce, ferox; adv. ferociter.
-- danger, pěrīcălum.
-- ship, navis, -is, f.
+- escape, effŭgio, -ĕre, -fūgi.
+- fierce, fĕrox; adv. fĕrōciter.
+- danger, pĕrīcŭlum.
+- ship, nāvis, -is, f.
 - deep, high, altus,
-- river, flūmen, -inis, n .; fluvius, -i, m.
-- cross, transeo, -ire, -ii, -itum.
-- despise, despicio, -ěre, -spexi, -spectum.
-- fear, mětus, -ūs, m .; timor, -oris, m.
-- dare, audeo, -ere, ausus.
-- storm, tempestas, -tatis, f.
-- arise, co-orior, -iri, -ortus.
+- river, flūmen, -ĭnis, n .; flŭvius, -i, m.
+- cross, transeo, -ire, -ii, -ĭtum.
+- despise, despĭcio, -ĕre, -spexi, -spectum.
+- fear, mĕtus, -ūs, m.; tĭmor, -ōris, m.
+- dare, audeo, -ēre, ausus.
+- storm, tempestas, -tātis, f.
+- arise, co-ŏrior, -iri, -ortus.
 
 ## Exercise 7.
 
@@ -101,24 +100,24 @@
 - tree, arbor, -oris, f.
 - fall, cădo, ere, cecidi, cāsum.
 - lie, jaceo, -ere, jăcui.
-- return, rědeo, ire, -ii, -Itum.
+- return, rĕdeo, ire, -ii, -Itum.
 - courage, virtus, tūtis, f.
-- climb, ascendo, -ěre, -di, -sum.
+- climb, ascendo, -ĕre, -di, -sum.
 - follow, sequor, -i, secūtus.
 
 ## Exercise 8.
 
-- arrive, advěnio, -ire, -vēni, -ventum.
+- arrive, advĕnio, -ire, -vēni, -ventum.
 - full, plēnus.
 - seâ, măre, -is, n.
 - book, liber, -ri, m.
-- fly, fügio, -ěre, fūgi, fügitum.
+- fly, fügio, -ĕre, fūgi, fügitum.
 - again, rursus.
 - idle, cowardly, ignāvus.
 
 ## Exercise 9.
 
-- leave, relinquo, -ěre, -līqui, -lictum.
+- leave, relinquo, -ĕre, -līqui, -lictum.
 - home, homewards, acc. of domus, -ūs, f.
 
 ## Exercise 10.
@@ -145,10 +144,10 @@
 ## Exercise 12.
 
 - weapon, telum.
-- throw, jacio, -ěre, jēci, jactum.
+- throw, jacio, -ĕre, jēci, jactum.
 - place, locus, -i, m.
 - shield, scūtum.
-- repel, rěpello, -ěre, reppli, rěpulsum.
+- repel, rĕpello, -ĕre, reppli, rĕpulsum.
 - call, appello, I.
 
 ## Exercise 13.
@@ -160,25 +159,25 @@
 
 - mule, mūlus, i, m.
 - lead, dūco, -ere, duxi, ductum.
-- laden, öněratus.
+- laden, önĕratus.
 - gold, aurum.
 - long (of time), diu; longer, diutius.
-- burden, onus, -ěris, n.
-- compel, côgo, -ěre, coēgi, coactum.
+- burden, onus, -ĕris, n.
+- compel, côgo, -ĕre, coēgi, coactum.
 - carry, porto, I.
 - by chance, casu, forte.
-- follow, sequor, -i; sěcūtus.
+- follow, sequor, -i; sĕcūtus.
 - admire, miror, I.
-- kindness, beněficentia, hūmānitas, -tatis, f.
+- kindness, benĕficentia, hūmānitas, -tatis, f.
 - try, conor, I. followed by Inf.
 
 ## Exercise 15.
 
 - hardly, vix.
 - reinforcements, supplementum, novae copiae.
-- resolve, constituo, -ěre, -ui, -ūtum.
-- resist, rěsisto, -ěre, -stīti, dat.
-- attack (onset, charge), impětus, -us, m.
+- resolve, constituo, -ĕre, -ui, -ūtum.
+- resist, rĕsisto, -ĕre, -stīti, dat.
+- attack (onset, charge), impĕtus, -us, m.
 - almost, paene, prope.
 - at length, tandem.
 - joy, gaudium, laetitia.
@@ -204,23 +203,23 @@
 
 ## Exercise 18.
 
-- banish, expello, -ěre, -pŭli, -pulsum.
-- bring, affěro, afferre, attŭli, allatum (of persons), adduco.
+- banish, expello, -ĕre, -pŭli, -pulsum.
+- bring, affĕro, afferre, attŭli, allatum (of persons), adduco.
 - táke away, aufero, auferre, abstuli, ablatum.
-- money, pěcūnia.
+- money, pĕcūnia.
 - friendship, amīcitia.
-- sell, vendo, venděre, vendīdi, venditum.
-- buy, ěmo.
+- sell, vendo, vendĕre, vendīdi, venditum.
+- buy, ĕmo.
 - silver, argentum.
 
 ## Exercise 19.
 
 - Greek, Graecus.
-- general, dux, dcis; impěrātor, oris.
+- general, dux, dcis; impĕrātor, oris.
 - betray, prodo, -ere, -dīdi, -dītum.
 - present, donum.
 - tempt, tempto, I.
-- receive, accipio, -ěre, -cēpi, -ceptum.
+- receive, accipio, -ĕre, -cēpi, -ceptum.
 - reward, praemium.
 - upright, probus.
 - send back, reddo (like prodo).
@@ -236,7 +235,7 @@
 - wish, am willing, volo, velle, volui.
 - not to wish, be unwilling, nolo, nolle, nolui.
 - prefer, malo, malle, malui.
-- desire, cupio, cpěre, -ivi, -ītum.
+- desire, cupio, cpĕre, -ivi, -ītum.
 - determine, stătuo, constituo.
 - begin, incipio ; coepi, -isse.
 - cease, desino, desinere [for perfect use destiti].
@@ -249,14 +248,14 @@
 - Also passives of all verbs of saying, thinking, take prolate Infinitives.
 - hope, spēro, I.
 - believe, crēdo, -ere, -didi, -dītum.
-- command, impěro, I., dat.
+- command, impĕro, I., dat.
 - obey, pareo, dat.
 - country (=native land), patria.
 - for, on behalf of, pro, abl.
 - true, vērus.
 - pitch a camp, castra pono, -ere, posui, positum; or castra munio.
 - lie, mentior, -iri, mentitus.
-- go to the help of, subvěnio, dat.
+- go to the help of, subvĕnio, dat.
 
 ## Exercise 21.
 
@@ -270,10 +269,10 @@
 
 ## Exercise 22.
 
-- complain, quěror, -i, questus.
+- complain, quĕror, -i, questus.
 - useless, inūtilis.
 - of (=concerning), de, abl.
-- rule, rěgo, regno, I.
+- rule, rĕgo, regno, I.
 - difficult, hard, difficilis.
 - man (as opposed to boy or woman), vir.
 
@@ -288,38 +287,38 @@
 ## Exercise 24.
 
 - army, exercitus, -us, m.
-- give up, surrender, trado, -ěre, -didi, -ditum.
+- give up, surrender, trado, -ĕre, -didi, -ditum.
 - summon, call, arcesso, -ere, arcessivi, arcessitum ; convoco, I.
-- collect, colligo, -ěre, -lēgi, -lectum.
+- collect, colligo, -ĕre, -lēgi, -lectum.
 
 ## Exercise 25.
 
 - state, cīvītas, tātis, f.
 - drive out, expel, expello.
 - elect, creo, I.
-- demand, posco, -ěre, poposci;
-- impěro, I.
+- demand, posco, -ĕre, poposci;
+- impĕro, I.
 - bring (of persons), duco; (of things), fèro.
 - chief, princeps, ipis.
-- seize, răpio, -ěre, răpui, raptum.
-- set on fire, ūro, -ěre, ussi, ustum; incendo, -ěre, -di, sum.
+- seize, răpio, -ĕre, răpui, raptum.
+- set on fire, ūro, -ĕre, ussi, ustum; incendo, -ĕre, -di, sum.
 - set free, libero, I.
 
 ## Exercise 26.
 
 - stumble, lābor, -i, lapsus.
 - fall down, collabor.
-- attack, aggrědior, i, -gressus; adorior, -iri, ortus; (of a city, camp, etc.), oppugno, I.
+- attack, aggrĕdior, i, -gressus; adorior, -iri, ortus; (of a city, camp, etc.), oppugno, I.
 - advance, progredior.
 - enter, march in, ingredior.
-- return, regredior, rědeo (like eo).
+- return, regredior, rĕdeo (like eo).
 - go out, egredior ; exeo (like eo).
 - be afraid, vereor.
 - die, morior, -i, mortuus, Fut. Part. moriturus.
 - delay, moror, I.
 - exhort, hortor, I.
 - gate, porta.
-- halt, consisto, -ěre, -stiti.
+- halt, consisto, -ĕre, -stiti.
 - mile. mille passus ; two miles, duo milia passuum.
 - reach, pervenio ad.
 - take by storm, expugno, I.
@@ -341,10 +340,10 @@
 
 - wood, silva.
 - small, parvus.
-- youth, jŭvěnis.
+- youth, jŭvĕnis.
 - rampart, vallum.
 - fortify, munio.
-- resist, rěsisto, ·ěre, -stiti, dat.; sustineo, ere, tinui, tentum, acc.
+- resist, rĕsisto, ·ĕre, -stiti, dat.; sustineo, ere, tinui, tentum, acc.
 
 ## Exercise 29.
 
@@ -356,7 +355,7 @@
 
 - gladly, libenter.
 - save, conservo, I.
-- foot, pēs, pědis, m.
+- foot, pēs, pĕdis, m.
 - at the king's feet, ad pedes rēgis.
 - found (a city), condo, -ere, -didi, -ditum. From the foundation of Rome, ab urbe condita.
 - spring, ver, -is, n.
@@ -375,28 +374,28 @@
 
 ## Exercise 33.
 
-- eat, ědo, ěre, ēdi, ēsum.
+- eat, ĕdo, ĕre, ēdi, ēsum.
 - keep, servo, I.
 - wounded, saucius, vulneratus.
 - only, solum, modo, tantum.
-- give up, dēdo, -ěre, -dīdi, ditum.
-- soon, mox, brěvi (sc, tempore).
+- give up, dēdo, -ĕre, -dīdi, ditum.
+- soon, mox, brĕvi (sc, tempore).
 - take away, aufero. (See 18.)
 - from (out.of), ex; (away from), ab;
 - (down from), de.
 
 ## Exercise 34.
 
-- break down (trans.), rescindo, -ěre, -scidi, -scissum.
+- break down (trans.), rescindo, -ĕre, -scidi, -scissum.
 - bridge, pons, -tis, m.
 - arrival, adventus, -ūs, m.
 - immediately, statim, extemplo.
 - therefore, Itaque (first word),
 - igitur (second word).
 - come down, descendo, ere, -di, -sum.
-- seek, pěto, -ěre, -ivi, -ītum.
+- seek, pĕto, -ĕre, -ivi, -ītum.
 - corn, frumentum.
-- repair, rěfício.
+- repair, rĕfício.
 
 ## Exercise 35.
 
@@ -436,7 +435,7 @@
 - set sail, navem solvo, -ere, solvi, sölūtum.
 - perish, pereo, -ire, -ii, -itum.
 - farm, fundus, -i, m.
-- wage war, bellum gero, -ěre, gessi, gestum.
+- wage war, bellum gero, -ĕre, gessi, gestum.
 - harbour, portus, -us, m.
 - Florence, Florentia.
 - dawn, prima lux.
@@ -448,7 +447,7 @@
 - companion, comes, -Itis.
 - on the following day, postero die, postrīdie.
 - about, adv., circiter.
-- evening, vesper, -ěri, m. (Locative vesperi or e).
+- evening, vesper, -ĕri, m. (Locative vesperi or e).
 - be distant, absum.
 - broad, latas.
 - deep, altus.
@@ -510,7 +509,7 @@
 - build, aedifico, I.
 - height, altitūdo, -ĩnis, f.
 - on the march, ex or in itinere.
-- beat, caedo, -ere, cěcīdi, caesum.
+- beat, caedo, -ere, cĕcīdi, caesum.
 - Babylon, Babylon, -onis, f.
 - wise, săpiens.
 - wisdom, săpientia.
@@ -527,7 +526,7 @@
 - perceive, sentio, -ire, sensi, sensum.
 - understand, intellego, -ere, -lexi, lectum.
 - notice, observe, animadverto, -ere, -verti.
-- learn, ascertain, cognosco, -ěre, -novi, -nitum.
+- learn, ascertain, cognosco, -ĕre, -novi, -nitum.
 - know, scio.
 - not to know, nescio
 - hear, audio.
@@ -560,13 +559,13 @@
 
 ## Exercise 47.
 
-- deceive, dēcipio, fallo, -ěre, fěfelli, falsum.
+- deceive, dēcipio, fallo, -ĕre, fĕfelli, falsum.
 - arrival, adventus, -ūs, m.
 
 ## Exercise 48.
 
 - state, civitas, -tatis, f.
-- attack, charge, impětus.
+- attack, charge, impĕtus.
 - charge, impetum facio.
 - finish, conficio.
 - leader, dux, ducis.
@@ -575,24 +574,24 @@
 
 - as soon as possible, quam primum.
 - traitor, prodītor, -oris, m.
-- rightiy, jūrě.
+- rightiy, jūrĕ.
 - prisoner, captivus, -i.
 - legion, legio, -onis, f.
 
 ## Exercise 50.
 
-- come up, arrive, advěnio.
+- come up, arrive, advĕnio.
 - reward, praemium.
-- surround, cingo, -ěre, cinxi, cinctum; circumvěnio.
+- surround, cingo, -ĕre, cinxi, cinctum; circumvĕnio.
 - ago. See p. 32.
 
 ## Exercise 51.
 
-- old man, sěnex, sěnis.
+- old man, sĕnex, sĕnis.
 - complain, queror, -i, questus.
 - wife, uxor, -oris.
 - field, ager, -ri, m.
-- sit, sědeo, -ēre, sēdi, sessum.
+- sit, sĕdeo, -ēre, sēdi, sessum.
 - supper, cēna.
 - be hungry, ēsŭrio, 4.
 
@@ -611,7 +610,7 @@
 
 - besiege, beset, blockade, obsideo, -ere, -sedi, -sessum
 - fail, deficio.
-- greatly, magnopěre.
+- greatly, magnopĕre.
 - order, jussum.
 - territories, fines, -ium, m. [finis, in singular = boundary].
 - nevertheless, tamen [usually not first word].
@@ -669,7 +668,7 @@
 
 ## Exercise 59.
 
-- waste time, tempus těro, -ěre, -trīvi, trītum.
+- waste time, tempus tĕro, -ĕre, -trīvi, trītum.
 - confidence, fiducia.
 - too much, nimis, adv. ; nimius, adj.
 - too little, very little, parum, adv.
@@ -679,7 +678,7 @@
 - strength, robur, -oris, n.
 - still, adhuc.
 - keep, conservo, I.
-- old (of former times), antīquus. (living or lasting long), větus, -ěris.
+- old (of former times), antīquus. (living or lasting long), vĕtus, -ĕris.
 - most, plērique.
 - show (of qualities), praesto, -stare, -stiti.
 - where in the world, ubi gentium.
@@ -691,28 +690,28 @@
 - nation, gens, gentis, f.
 - lose, amitto.
 - hope, spes, f., 5.
-- country (native land), patria. (district), rěgio, fines. (land), terra. (opp. to town), rus.
+- country (native land), patria. (district), rĕgio, fines. (land), terra. (opp. to town), rus.
 - send to help, submitto, acc. and dat .; *e.g. copias Caesari submittit.*
 
 ## Exercise 61.
 
 *The following couples of verbs, one governing Dat. and the other Acc., are especially to be noted:*
-- help, support, succurro,-ere, -curri, -cursum (dat.), subvěnio (dat.), jŭvo (acc.).
+- help, support, succurro,-ere, -curri, -cursum (dat.), subvĕnio (dat.), jŭvo (acc.).
 - please, plăceo (dat.), jŭvo (acc.).
 - advise, suadeo, suasi, suāsum (dat.), moneo (acc.).
-- command, impěro (dat.), jŭbeo, (acc.).
-- hurt, harm, noceo (dat.), laedo, -ěre, laesi, laesum (acc.).
-- heal, mědeor (dat.), sāno, I. (acc.).
-- marry (woman as subject), nubo, -ěre, nupsi, nuptum (dat.). (man as subject), duco (acc.).
+- command, impĕro (dat.), jŭbeo, (acc.).
+- hurt, harm, noceo (dat.), laedo, -ĕre, laesi, laesum (acc.).
+- heal, mĕdeor (dat.), sāno, I. (acc.).
+- marry (woman as subject), nubo, -ĕre, nupsi, nuptum (dat.). (man as subject), duco (acc.).
 
 *The following govern the Dative:*
 - believe, trust, credo.
 - obey, pareo.
-- spare,parco,-ěre, pěperci, parsum.
-- pardon, ignosco, -ěre, -nōvi, -notum.
+- spare,parco,-ĕre, pĕperci, parsum.
+- pardon, ignosco, -ĕre, -nōvi, -notum.
 - envy, invideo.
 - to be angry with, irascor, iratus.
-- restrain, tempěro, I.
+- restrain, tempĕro, I.
 - to be devoted to, studeo.
 - favour, făveo, favi, autum.
 
@@ -734,7 +733,7 @@
 - prefer, antepono (acc. and dat.); e.g. anteponit rus urbi.
 - throw in the way cf, objicio (acc. and dat.).
 - threaten, minor, I. ; e.g. mortem mihi minatur.
-- hold out against, resist, rěsisto.
+- hold out against, resist, rĕsisto.
 
 - wealth, riches, divitiae.
 - cause, causa.
@@ -745,7 +744,7 @@
 ## Exercise 62.
 
 - French, Galli.
-- legion, lěgio.
+- legion, lĕgio.
 - countryien (=fellow-countrymen, fellow-citizens), cives.
 - judge, jūdex, -icis.
 - torture, crciatus, -ūs, m.
@@ -767,7 +766,7 @@
 
 - form a plan, consilium căpio or ineo.
 - secretly, clam, adv.
-- rout, fundo, -ěre, fūdi, fūsum.
+- rout, fundo, -ĕre, fūdi, fūsum.
 
 ## Exercise 65.
 
@@ -787,26 +786,26 @@
 
 ## Exercise 67.
 
-- crop, sěgěs, -ětis, f.f
+- crop, sĕgĕs, -ĕtis, f.f
 - ripen, maturesco.
 - ripe, ready (early), matūrus.
 - guide, dux.
-- horseman, ěques, -Itis.
+- horseman, ĕques, -Itis.
 - take prisoner, căpio, captīvum facio.
-- on the march, ex/in itiněre.
-- discover, find (find what one is looking for), rěpěrio, -ire, repperi, repertum. (find by chance), invenio. (find out, learn, of facts), cognosco.
-- children, līběri.
-- midnight, mědia nox.
+- on the march, ex/in itinĕre.
+- discover, find (find what one is looking for), rĕpĕrio, -ire, repperi, repertum. (find by chance), invenio. (find out, learn, of facts), cognosco.
+- children, lībĕri.
+- midnight, mĕdia nox.
 - German, Germanus.
 - in safety, incolŭmis, adj.
-- cattle, pěcus, -oris, n.
+- cattle, pĕcus, -oris, n.
 - marsh, pălus, -udis, f.
 
 ## Exercise 68.
 
 - letter, litterae, f. pl.
 - hold, occupy, occupo, I.
-- recall, rěvoco, I.
+- recall, rĕvoco, I.
 - order, jussum.
 - cruel, saevus, crūdēlis.
 - cruelty, saevitia, crūdēlitas.
@@ -826,7 +825,7 @@
 - iron (adj.), ferreus.
 - club, clāva, fustis, -is, m,
 - by this means, hoc modo.
-- shed, effundo,-ěre, fūdi, -fūsum.
+- shed, effundo,-ĕre, fūdi, -fūsum.
 - blood, sanguis, -Inis, m1.
 - blow, ictus, -us, m1.
 - violence, vis, f.
@@ -1132,7 +1131,7 @@
 
 ## Exercise 95.
 - Sicily, Sicilia.
-- meanwhile, interea, intěrim.
+- meanwhile, interea, intĕrim.
 - attack (of a disease), afficio, -ere, -feci, -fectum.
 - carry off (=destroy), deleo, -ere, -ēvi, -ētum; conficio.
 - sustain, encourage, confirmo, I.
@@ -1140,7 +1139,7 @@
 - in every way, omni modo.
 - tent, tăbernāculum.
 - abandon a siege, raise a siege,
-- obsidionem rělinquo, obsidione dēsisto.
+- obsidionem rĕlinquo, obsidione dēsisto.
 - feel, sentio, -ire, sensi, sensum.
 
 ## Exercise 96.
@@ -1148,13 +1147,13 @@
 - give up hope, spem abjicio.
 - rush out, effundor, -i, -fusus.
 - to meet, obviam, dat.
-- win a victory, victoriamrěporto, I., rem prospěre gěro.
+- win a victory, victoriamrĕporto, I., rem prospĕre gĕro.
 - temple, tempium.
 - great quantity of, multus.
 
 ## Exercise 97.
 - scarcely, vix.
-- sow, sěro, -ěre, sēvi, sătum.
+- sow, sĕro, -ĕre, sēvi, sătum.
 - autumn, auctumnus, -i, m.
 - gather, colligo, -ere, -legi, -lectum.
 - harvest, messis, -is, f.
