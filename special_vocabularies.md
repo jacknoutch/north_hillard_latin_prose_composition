@@ -143,62 +143,62 @@ N.B. In these Vocabularies the principal parts of Irregular Verbs are given wher
 
 ## Exercise 12.
 
-- weapon, telum.
-- throw, jacio, -ĕre, jēci, jactum.
-- place, locus, -i, m.
+- weapon, tēlum.
+- throw, jăcio, -ĕre, jēci, jactum.
+- place, lŏcus, -i, m.
 - shield, scūtum.
-- repel, rĕpello, -ĕre, reppli, rĕpulsum.
+- repel, rĕpello, -ĕre, reppŭli, rĕpulsum.
 - call, appello, I.
 
 ## Exercise 13.
 
 - few, pauci.
-- bear, fero, ferre, tūli, lātum.
+- bear, fĕro, ferre, tŭli, lātum.
 
 ## Exercise 14.
 
 - mule, mūlus, i, m.
-- lead, dūco, -ere, duxi, ductum.
-- laden, önĕratus.
+- lead, dūco, -ĕre, duxi, ductum.
+- laden, ŏnĕratus.
 - gold, aurum.
-- long (of time), diu; longer, diutius.
-- burden, onus, -ĕris, n.
-- compel, côgo, -ĕre, coēgi, coactum.
+- long (of time), diu; longer, diūtius.
+- burden, ŏnus, -ĕris, n.
+- compel, cōgo, -ĕre, coēgi, coactum.
 - carry, porto, I.
-- by chance, casu, forte.
-- follow, sequor, -i; sĕcūtus.
-- admire, miror, I.
-- kindness, benĕficentia, hūmānitas, -tatis, f.
-- try, conor, I. followed by Inf.
+- by chance, cāsu, forte.
+- follow, sĕquor, -i; sĕcūtus.
+- admire, mīror, I.
+- kindness, bĕnĕfĭcentia, hūmānitas, -tātis, f.
+- try, cōnor, I. followed by Inf.
 
 ## Exercise 15.
 
 - hardly, vix.
-- reinforcements, supplementum, novae copiae.
-- resolve, constituo, -ĕre, -ui, -ūtum.
-- resist, rĕsisto, -ĕre, -stīti, dat.
-- attack (onset, charge), impĕtus, -us, m.
-- almost, paene, prope.
+- reinforcements, supplēmentum, nŏvae cōpiae.
+- resolve, constĭtuo, -ĕre, -ui, -ūtum.
+- resist, rĕsisto, -ĕre, -stĭti, dat.
+- attack (onset, charge), impĕtus, -ūs, m.
+- almost, paene, prŏpe.
 - at length, tandem.
-- joy, gaudium, laetitia.
+- joy, gaudium, laetĭtia.
 - temple, templum, aedes, f. [sing. only].
-- gift, donum.
+- gift, dōnum.
 - go, se conferre.
 - god, deus, dei.
 
 ## Exercise 16.
 
 - hill, collis, -is, m.
-- throw away, abjicio, -ere, -jēci, -jēctum.
+- throw away, abjĭcio, -ĕre, -jēci, -jēctum.
 - some ... others, ălii ... ălii.
-- exhausted, confectus labore.
+- exhausted, confectus lăbōre.
 - hide, cēlo, I.
 
 ## Exercise 17.
 
-- hostage, obses, -idis, c.
-- near, prope, acc.
-- army, exercitus, -ūs, m.
+- hostage, obses, -ĭdis, c.
+- near, prŏpe, acc.
+- army, exercĭtus, -ūs, m.
 - night, nox, noctis, f.
 
 ## Exercise 18.
@@ -207,55 +207,55 @@ N.B. In these Vocabularies the principal parts of Irregular Verbs are given wher
 - bring, affĕro, afferre, attŭli, allatum (of persons), adduco.
 - táke away, aufero, auferre, abstuli, ablatum.
 - money, pĕcūnia.
-- friendship, amīcitia.
-- sell, vendo, vendĕre, vendīdi, venditum.
+- friendship, ămīcĭtia.
+- sell, vendo, vendĕre, vendĭdi, vendĭtum.
 - buy, ĕmo.
 - silver, argentum.
 
 ## Exercise 19.
 
 - Greek, Graecus.
-- general, dux, dcis; impĕrātor, oris.
-- betray, prodo, -ere, -dīdi, -dītum.
-- present, donum.
+- general, dux, dŭcis; impĕrātor, oris.
+- betray, prōdo, -ĕre, -dĭdi, -dĭtum.
+- present, dōnum.
 - tempt, tempto, I.
 - receive, accipio, -ĕre, -cēpi, -ceptum.
 - reward, praemium.
-- upright, probus.
+- upright, prŏbus.
 - send back, reddo (like prodo).
 - punish, pūnio.
 
 ## Exercise 20.
 
 - Words which take prolate Infinitive.
-- be able, possum, posse, potui.
-- ought, debeo.
-- be accustomed, soleo, solere, sölitus.
-- dare, audeo, audere, ausus.
-- wish, am willing, volo, velle, volui.
-- not to wish, be unwilling, nolo, nolle, nolui.
-- prefer, malo, malle, malui.
-- desire, cupio, cpĕre, -ivi, -ītum.
-- determine, stătuo, constituo.
-- begin, incipio ; coepi, -isse.
-- cease, desino, desinere [for perfect use destiti].
-- try, conor, I.
-- teach, döceo, -ēre, docui, doctum.
-- learn, disco, discre, didici.
-- compel, force, cogo.
-- allow, sino, -ere, sīvi, situm.
-- seem, videor.
+ - be able, possum, posse, potui.
+ - ought, dēbeo.
+ - be accustomed, sŏleo, sŏlēre, sŏlitus.
+ - dare, audeo, audēre, ausus.
+ - wish, am willing, vŏlo, velle, vŏlui.
+ - not to wish, be unwilling, nōlo, nolle, nōlui.
+ - prefer, mālo, malle, mālui.
+ - desire, cŭpio, cŭpĕre, -ivi, -ītum.
+ - determine, stătuo, constĭtuo.
+ - begin, incĭpio; coepi, -isse.
+ - cease, desĭno, desĭnĕre [for perfect use destiti].
+ - try, cōnor, I.
+ - teach, dŏceo, -ēre, dŏcui, doctum.
+ - learn, disco, discĕre, dĭdĭci.
+ - compel, force, cōgo.
+ - allow, sĭno, -ere, sīvi, sĭtum.
+ - seem, vĭdeor.
 - Also passives of all verbs of saying, thinking, take prolate Infinitives.
-- hope, spēro, I.
-- believe, crēdo, -ere, -didi, -dītum.
-- command, impĕro, I., dat.
-- obey, pareo, dat.
-- country (=native land), patria.
-- for, on behalf of, pro, abl.
-- true, vērus.
-- pitch a camp, castra pono, -ere, posui, positum; or castra munio.
-- lie, mentior, -iri, mentitus.
-- go to the help of, subvĕnio, dat.
+ - hope, spēro, I.
+ - believe, crēdo, -ĕre, -dĭdi, -dĭtum.
+ - command, impĕro, I., dat.
+ - obey, pāreo, dat.
+ - country (=native land), patria.
+ - for, on behalf of, pro, abl.
+ - true, vērus.
+ - pitch a camp, castra pōno, -ĕre, pŏsui, pŏsĭtum; or castra mūnio.
+ - lie, mentior, -iri, mentītus.
+ - go to the help of, subvĕnio, dat.
 
 ## Exercise 21.
 
