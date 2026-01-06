@@ -2,6 +2,8 @@
 
 The transcribed document derives from [archive.org](https://archive.org/details/north-m.-hilladr-a.-latin-prose-composition-1913/page/n1/mode/1up).
 
+Submit a pull request if any errors are found.
+
 ## Description
 
 ### Special Vocabularies
