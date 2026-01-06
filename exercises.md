@@ -243,6 +243,137 @@ Pyrrhus, the Greek, gave money to Fabricius, the Roman general, that he might be
 11. Were you not compelled to leave your home?
 12. They do not allow us to remain in the city.
 
+## Exercise 21[A].
+
+1.  It is (the part) of good citizens to try to help the poor.
+2.  Learning is easier than teaching.
+3.  If soldiers are unwilling to march they are punished.
+4.  He desires to benefit himself alone.
+5.  The barbarians are said to be very brave.
+6.  They determined to follow the enemy into the city.
+7.  It is pleasant to help those who can help themselves.
+8.  All men ought to think it disgraceful to lie.
+9.  Some men are accustomed to rule, others to obey.
+10. Those who are accustomed to command others ought to learn to obey.
+11. They think it foolish to die for their country.
+12. All men ought to praise those who seem to be wise.
+
+## Exercise 22[B].
+
+1.  I used to learn more quickly than I can learn now.
+2.  To complain is useless.
+3.  He never ceases to complain of his friends.
+4.  We have decided to remain in the plain.
+5.  He seemed to me to be very brave.
+6.  Ruling is more difficult than being ruled.
+7.  If we try to help others, they are willing to help us.
+8.  I prefer to remain, you to depart.
+
+## Exercise 23[B].
+
+1.  You ought not to desire to be a man.
+2.  The general determined to set out against the enemy.
+3.  Speaking is easier than persuading.
+4.  You ought never to cease to learn.
+5.  If we desire to learn we can always have masters.
+6.  Not helping our friends is the same as hurting them.
+7.  Punish him if he is unwilling to learn.
+8.  We decided to defend the city.
+9.  We have been compelled to buy many things which  
+    do not seem to be useful.
+10. You force me to speak against my will.
+
+## Exercise 24[A].
+
+1.  The army having been defeated the general fled.
+2.  Regulus having been given up to the enemy was put to death.
+3.  Having conquered the enemy the general returned home.
+4.  Having summoned the citizens he spoke as follows.
+5.  The soldiers having been captured gave up their arms.
+6.  Having collected his forces he led them against the enemy.
+7.  The Gauls having thrown away their arms were taken by the Romans.
+8.  Having taken the messenger they put him to death.
+9.  Having killed his brother he fled into the woods.
+10. The enemy having captured the messengers put them to death.
+
+## Exercise 25[B].
+
+1.  Having been made king he tried to benefit the state.
+2.  Kings having been driven out consuls were elected.
+3.  The soldiers, throwing away their arms, fled from the battle.
+4.  Caesar having conquered the Gauls demanded hostages.
+5.  Our men having taken the chiefs brought them to Caesar.
+6.  Seizing his sword he tried to kill his enemy.
+7.  Having taken the camp we set it on fire.
+8.  Having conquered the enemy the soldiers wished to return home.
+9.  Having set the prisoners free he sent them home.
+10. The Gauls having been defeated asked for peace.
+
+## Exercise 26[A].
+
+1.  My horse having stumbled I was caught.
+2.  Having said these things the messenger departed.
+3.  Having come to the gate of the city they halted.
+4.  Having advanced ten miles our men reached the river.
+5.  Having seen the enemy’s forces our men retreated.
+6.  Our men being afraid, the general retreated.
+7.  Having halted we pitched a camp.
+8.  Being about to die he called his sons.
+9.  The enemy having set out we retreated.
+10. The Gauls having attacked the walls the city was taken by storm.
+
+## Exercise 27[B].
+
+1.  Having reached the gates our men tried to open them.
+2.  Having opened the gates our men marched in.
+3.  Having attacked the walls the Gauls took the city by storm.
+4.  My house having fallen down I went to Caius’ house.
+5.  Having entered the house I called to Caius.
+6.  Night approaching we pitched a camp.
+7.  Winter beginning we retreated across the river.
+8.  His father being about to die he returned home.
+9.  Having slept in the house he went away early.
+10. The messenger having returned brought this answer.
+
+## Exercise[28].
+
+1.  On having the wood we saw the camp of the enemy.
+2.  We departed after saying these words.
+3.  Saying these words he left the camp.
+4.  The Greeks returned home after the capture of Troy.
+5.  When Romulus was ruling Rome was a small city.
+6.  The youth was killed while fighting for his country.
+7.  The enemy took the messenger and put him to death.
+8.  They pitched their camp, and fortified it with a rampart.
+9.  They collected an army and marched against the enemy.
+10. Not being able to resist us the Gauls threw away their arms and fled.
+
+## Exercise 29[A].
+
+1.  Having made silence he spoke as follows.
+2.  He died while sleeping.
+3.  On the death of Remus Romulus became king alone.
+4.  Seeing the great walls of the city we did not attack it.
+5.  Having received reinforcements we were able to resist the enemy.
+6.  During the consulship of Crassus there was peace.
+7.  He exhorted his soldiers and led them out.
+8.  After burning the town we departed.
+9.  After killing his brother he fled into the woods.
+10. Being followed by the enemy we did not halt.
+
+## Exercise 30[B].
+
+1.  On their return home they were received gladly by their friends.
+2.  Having gone out of the city the soldiers returned to the camp.
+3.  He was killed while trying to save his friend.
+4.  On the approach of night we left the camp and advanced against the enemy.
+5.  On hearing this the general resolved to retreat.
+6.  Saying this he threw himself at the king’s feet.
+7.  This is the tenth year from the foundation of Rome.
+8.  Having killed the Gaul he buried him in a wood.
+9.  Having set out at the approach of spring they marched against the enemy.
+10. He took these presents and gave them to his son.
+
 ## Notes
 
 [^1]: The Historic Present may be regarded either as a Primary or as a Historic tense. The Imperative is always followed by a Primary tense.
