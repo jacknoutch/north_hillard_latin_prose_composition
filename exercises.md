@@ -204,6 +204,45 @@ In the following sentences Latin requires the dependent verb to be in the Subjun
 9. I am accused by so many men that I dare not defend myself.
 10. In order never to be conquered never be afraid.
 
+## Exercise 14[A].
+
+A poor soldier was one day leading a mule laden with gold which had been sent to Alexander the Great. The mule was so tired that it could no longer bear the burden, and the soldier was compelled to carry the gold himself. But by chance Alexander himself was following the man, and he admired his kindness so much that he said, “My friend, try to carry the gold home, for I give it all to you.”
+
+## Exercise 15[A].
+
+The enemy advanced quickly to capture the city. There were so few soldiers in the city that they were hardly able to defend the walls. But reinforcements were advancing, and they resolved to resist bravely, that these might arrive and defeat the enemy. The attack was so fierce that the walls were almost taken, but at length the fresh forces arrived, and the enemy retreated. So great was the joy of the citizens that they went to the temples, and gave many gifts to the gods.
+
+## Exercise 16[A].
+
+The soldiers, who had been marching all day, were so tired that they could scarcely climb the hill. Some, in order to march quickly, threw away their arms; others were so exhausted that their friends carried them. But their courage was so great that at last they came to the top of the hill, and saw the enemy’s camp. Here they hid themselves that they might not be seen by the enemy.
+
+## Exercise 17[B].
+
+They had been so often defeated by Caesar that they sent messengers to him and asked for peace. In order that they might not wish to fight again, Caesar asked them for hostages, which they gave him. But the army of the Gauls was so great that Caesar was not willing to remain near them, and he went away. Lest the enemy should follow he led his soldiers very quickly, and before night they came into their camp.
+
+## Exercise 18[B].
+
+A Persian, who had been banished from Persia, came to the city of Athens to see Cimon. He brought much gold and silver, in order by presents to make Cimon his friend. “Do you bring this money to buy my friendship?” asked Cimon. “I wish to make you my friend,” replied the Persian. “Take away the money,” Cimon said, “lest I should think you an enemy. Friendship is not bought and sold.”
+
+## Exercise 19[B].
+
+Pyrrhus, the Greek, gave money to Fabricius, the Roman general, that he might betray the Roman army. But no present was great enough to tempt Fabricius. A Greek came to the Roman camp that he might receive a reward, and then kill the king. But so upright was Fabricius that he sent the man back to the king to be punished by him.
+
+## Exercise 20[A].
+
+1. Hoping is easier than believing.
+2. Those who wish to command ought to learn to obey.
+3. He was thought to be a good general.
+4. It is the duty of all soldiers to be willing to die for their country.
+5. Cease to be idle, and learn to work.
+6. We have determined to go to the help of our friends.
+7. These men are not accustomed to fight.
+8. Did they seem to you to be true friends?
+9. The general decided to pitch his camp on a hill.
+10. They did not dare to lie.
+11. Were you not compelled to leave your home?
+12. They do not allow us to remain in the city.
+
 ## Notes
 
 [^1]: The Historic Present may be regarded either as a Primary or as a Historic tense. The Imperative is always followed by a Primary tense.
