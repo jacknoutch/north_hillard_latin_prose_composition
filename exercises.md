@@ -374,6 +374,170 @@ Pyrrhus, the Greek, gave money to Fabricius, the Roman general, that he might be
 9.  Having set out at the approach of spring they marched against the enemy.
 10. He took these presents and gave them to his son.
 
+## Exercise 31 [B].
+
+1. They were attacked by the enemy while fortifying a camp.
+2. Some having already gone out of the camp it was attacked by the enemy.
+3. The enemy attacked some of them when they had gone out of the camp.
+4. Caesar having arrived in the camp the soldiers resisted the attacks of the enemy more bravely.
+5. With these exhortations he left his men.
+6. Having betrayed the town they went away.
+7. Leading back the army into the city he demanded hostages.
+8. After the banishment of the kings the Romans had consuls.
+9. They left the sick in the camp and pursued the foe.
+10. He was killed while pursuing the foe.
+
+## Exercise 32 [A].
+
+The enemy being now defeated, the general led his men back to the camp, which had been fortified by a rampart. The lieutenant having been left in the camp, had not heard about the battle. When he saw the army at a distance, he went to the top of the rampart to await them. As they approached, he went out and asked them about the fight. But they were so tired that they would tell him nothing, but threw away their arms and went to their tents.
+
+## Exercise 33 [A].
+
+The bread being now all eaten, we were dying of1 hunger. But the general, calling us together, gave us the bread which he had kept hidden in his house; then, opening the gates, he and the soldiers escaped through the enemy's camp. The wounded only being left [behind] in the city, we gave ourselves up to the enemy. They soon left us, taking away much gold and silver from the city.
+
+## Exercise 34 [B].
+
+Seeing the enemy the Gauls crossed the river, and breaking down the bridge waited for Caesar's arrival. Caesar did not wish to fight immediately as his men2 were wearied. Marching therefore into the hills he pitehed a camp, then came down against the enemy when they had gone out of the camp and were seeking corn. Having conquered them he sold those whom he had captured, and after repairing the bridge returned to the city.
+
+## Exercise 35 [B].
+
+Returning to the top of the hill the scout saw the enemy slowly advancing across the plain. Coming to the camp he told these things to the general. Immediately our camp was moved, and we set out to the other side of the river. Having broken down. the bridge, so that the enemy might not follow us, we marched the whole day through the woods, and as night approached reached the city of Spoletium. Here we determined to collect provisions and defend ourselves. The walls and gates of the city having been made by the Romans were very strong.
+
+## Exercise 36 [A].
+
+1. In the country. At home. From Asia. From Athens. In summer. In the night. All night.
+2. He sent the forces to Labienus in the camp.1
+3. Augustus died at Nola (when) 70 years old.
+4. Cicero was consul a few years before.
+5. I will go into the country next summer.
+6. Ten years I stayed at your house.
+7. In three days you will reach Athens.
+8. I went to Syracuse in winter. The snow was two feet deep.
+9. I saw my friend at Carthage three months ago.
+10. The snow was deeper in the country than in the city.
+
+## Exercise 37 [A].
+
+1. The new ship is fifty feet long.
+2. At Messana. At Carthage. At Saguntum. In Sicily. From Florentia. To Pisae.
+3. We shall remain at Athens or Corinth for three years.
+4. On that day on which the battle was fought.
+5. Nine years afterwards in the night I came home.
+6. I shall come back to Carthage in nine days.
+7. Do you not wish to go and see your friends in Italy?
+8. Setting out from Sicily he went to Brundusium, and afterwards to Greece.
+9. Will you be at home?
+10. Ten days ago I came back to the city from the country.
+    
+## Exercise 38 [B].
+
+1. The Romans were severely defeated at Cannae.
+2. For five days the army advanced.
+3. Within 14 days help will come to the city.
+4. While marching to Athens he delayed at Corinth.
+5. Sailing from Asia to Brundisium he perished in a storm.
+6. I am going to the country to see my farm.
+7. Hannibal waged war in Italy for 14 years.
+8. Three days afterwards he was killed by his brother.
+9. On the fifth day a storm arose and compelled us to go to the harbour of Tarentum.
+10. Will you come to see my house at Florence?
+11. I am now 19 years old, and have never gone to Athens.
+12. The enemy having attacked us at dawn we were fighting the whole day.
+
+## Exercise 39 [B].
+
+1. Out of Spain. To Rome. At Florentia. From Alba. Into France. To Zama.
+2. The city was so beautiful that I remained in it for many years.
+3. I have not seen my friends for many years.
+4. They stayed in the country all the summer, and on the approach of winter returned to the city.
+5. My friends came from Athens to see me at Corinth.
+6. He left the camp at sunset and went to the nearest town with one companion.
+7. 7. On the following day he pitched his camp about seven miles from the enemy.
+8. In the evening they reached the river Allia, which is about eleven miles distant from Rome.
+9. This river is thirty feet broad and ten feet deep.
+10. On that day he returned to his country, from which he had set out (when) fifteen years old.
+
+## Exercise 40 [A].
+
+Three days after we crossed a river 45 feet broad. From this river we marched along a good road1 for four days, and came to Carthage. For a short time we stayed in the city but for fear of the citizens soon left it and made a camp upon the seashore. Food was brought to the camp from the country every day. At the beginning of spring we marched to Utica; a town which2 had been eaptured by the Romans five years before.
+
+## Exercise 41 [B]
+
+For many days we remained within our camp awaiting the enemy's attack. All night we heard their shouts and songs, but by day we did not see them, nor did we dare to go out to explore. Their camp seemed to be pitched about six hundred yards from us, and there was a river between about twenty feet broad. At last we resolved to escape by this river. Aceordingly on a dark night we left the camp, and a large boat having been got ready we began to advance up the river without the knowledge of the enemy.
+
+## Exercise 42 [A].
+1. Having gained possession of the enemies' camp, he gave the booty to the soldiers,
+2. More citizens were dying of hunger than of disease.
+3. My brother was a man of weak body.
+4. The wise man is contented with his Jot, and performs his duties well.
+5. I never saw a house more beautiful than this.
+6. Being a man of great courage he remained.
+7. Hercules undertook twelve labours of great difficulty.
+8. The army, which he has equipped, is much larger than ours.
+9. Relying on his wings Mereurius had no need of a ship.
+10. He was killed by the arrow which had been shot by the soldier.
+11. War was waged much oftener by sea than by land.
+12. My brother is two feet taller than I am.
+
+## Exercise 43 [B].
+
+1. Let us feed on the same food asI the soldiers.
+2. He is much more like you than Caesar (is).
+3. Solon, a man of great wisdom, gave laws to Athens.
+4. The walls, which have been built by Balbus, are of great height.
+5. We shall be saved more by courage than by our walls.
+6. On the march we saw more friends than enemies.
+7. No walls are higher than those of? Babylon.
+8. I admire this house much more than that.
+9. The enemy's forces are a little smaller than ours.
+10. We were attacked by the enemy with a shower of darts.
+11. He was beaten by the bows which the soldiers used.
+12. We crossed a river many feet deeper than the Rhone.
+13. Our city is many times larger than yours.
+
+## Exercise 44 [A].
+
+1. We know that forces will arrive.
+2. They say the king is dead.
+3. We have heard that peace has been made.
+4. It was reported that the enemy had struck their camp.
+5. Messengers say that the city has been taken.
+6. We perceived that the king would be killed.
+7. It is agreed that the citizens are cowardly.
+8. Tell your friend that I am ready.
+9. We promised to give Caesar arms.
+10. Do you not know that the arms will be taken?
+
+## Exercise 45 [B].
+
+1. We promised to give hostages.
+2. It was announced that the city had been taken.
+3. They say that fresh forces are at hand.
+4. We hope that our men will not yield.
+5. It is well known that the Gauls are good soldiers.
+6. It is announced that a great disaster has been sustained by our men.
+7. It was announced that Caesar had defeated the Gauls.
+8. We hope Caesar will be defeated by Ariovistus.
+9. They perceived that the camp had been taken by Ariovistus.
+10. Did you not think that your friends would come?
+
+## Exercise 46.
+
+In the following sentences translate only the pronouns in italics :
+
+1. Cato slew _himself_ with _his own_ hand.
+2. Lentulus _himself_ was put to death.
+3. He _himself_ knows best.
+4. Come with me _yourselves_.
+5. I sent for _them themselves_.
+6. They gave the greatest share to _themselves_.
+7. He said _he_ did not know _them_.
+8. _I myself_ told them that _they_ would be punished.
+9. The king said _he_ should set _them_ free.
+10. The judges replied that _they_ did not fix the penalty, but the laws _themselves_.
+11. Cato told _his_ men that _they_ would escape.
+12. Who said _he_ would give me the money?
+
 ## Notes
 
 [^1]: The Historic Present may be regarded either as a Primary or as a Historic tense. The Imperative is always followed by a Primary tense.
