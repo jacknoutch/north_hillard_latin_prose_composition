@@ -1217,6 +1217,397 @@ The king, who wondered why she had returned so often, now asked his senate wheth
 
 The story is told of King Tarquin that he once determined to add new companies to the Roman knights. Attius the augur said it could not be done. Moved by anger the king demanded that he should show by a sign what the gods wished. Attius replied that he would tell the king what he had in his mind. But Tarquin said, “Tell me rather whether that which I have in my mind can be done.” “It can be done,” said Attius. Then the king bade him cut a whetstone in two, for he said he was thinking of that. Without any delay (so they relate) Attius cleft it with a razor.
 
+## Exercise 121 [B]
+
+In the following year Cleon was sent to Macedonia to recover the cities which had been taken by the Spartans. He first marched to Amphipolis, and encamped on rising ground near the city. In the meanwhile Brasidas, the Spartan general, who knew what sort of man Cleon was, resolved to deceive him by a trick. He ordered his men not to show themselves on the wall, but to conceal themselves behind the ramparts. Meanwhile he sent out spies to discover how large the forces of Cleon were, and if reinforcements were coming. These men brought back word that the army of the enemy was small, and was not drawn up carefully. Then Brasidas ordered his men to throw open the gates and attack the enemy at once. The Athenians, who did not trust their general, took to flight, and most of them were killed.
+
+## Exercise 122 [B]
+
+The prisoner was brought before the king, who asked him where he had concealed his money. To this the man replied that he had indeed been rich once, but that now all his money had been taken away from him by the soldiers, and that nothing was left. The king asked the soldiers if this was true, but they all declared that they had not taken the gold, and did not know where the prisoner kept it. Then the king said that he would discover by means of tortures who was telling the truth; but the prisoner, being overcome by fear, asked if the king would pardon him when the money was given up. The king promised to do this, whereupon the prisoner said he would show them at once where he had carried the money.
+
+## Exercise 123 [B]
+
+I once went to the house of a celebrated man, who had formerly been a friend of mine, to ask if he would help me in a matter which I had in hand. The servant said he was not at home, but as I had caught sight of my friend, I knew the fellow lied. Some days after the great man came to my house, and I, having no servant, opened the door to him myself. On seeing him I exclaimed, with unmoved countenance, “He is not at home.” In astonishment my friend asked whether I was mad. To which I replied, “I believed your servant when he told lies about you. Are you not willing to believe me when I speak about myself?”
+
+## Exercise 124 [A]
+
+It was the custom of the Falisci to send their children to a schoolmaster to live with him. When the Romans were waging war with the Falisci, this schoolmaster thought that he would please the Romans if he gave them these children as hostages. He therefore purposely led them, without the knowledge of the citizens, to the Roman camp, and offered them to the general. The latter, however, asked him how he had dared to betray children who had been committed to his care, and threatened him with severe punishment. Then he told the children to take such rods as their master was himself accustomed to use, and with these to drive him to the city.
+
+## Exercise 125 [A]
+
+The news reached Rome that their army had been defeated, and that of the two consuls who were in command one had been killed and the other was a fugitive. At first the whole city was full of panic and grief. But soon the Senate assembled to take measures for the safety of the State. They decreed that those who were able to fight should go with the women and children to the capitol; but they declared that they themselves, who were old men and unable to bear arms, would remain in the city. The Gauls found these old men sitting in silence, and clothed in their state robes. At first they wondered greatly, but finally they approached the Senators, and a soldier stroked the long beard of one of them with his hand. The Senator, being enraged, struck the man, whereupon the rest of the Gauls slew all the Senators.
+
+## Exercise 126 [B]
+
+Solon, the wisest of the Athenians, went once to visit Croesus at Sardis. You have all heard how these two men became friends, and discussed many things together. But the story is worthy of being told again. Croesus considered that that man was most fortunate who had great power and riches, and who could do whatever he wished; and he thought that he himself was such a man. He therefore showed Solon all his gold and silver, and told him how many nations he ruled. He then asked him whom he considered the happiest of mortals. He was sure that Solon would answer that he who ruled the city of Sardis and such a great kingdom was the happiest. But Solon replied that two young men, Cleobis and Biton, were the most happy.
+
+## Exercise 127 [B]
+
+Croesus said he had never heard of these men, and asked Solon who they were. The latter replied that they were two youths of great piety, whose mother was a priestess; that when she wished to go to the temple the oxen which used to draw her cart had died, and that her two sons had drawn her there instead of the oxen; that therefore she had prayed to the gods to give them their best gift, and in the night they had both died. By this story Solon wishes to prove that those who are alive must not be accounted happy, since all are liable to misfortune; but that those who have met an honourable death are indeed the happiest.
+
+## Exercise 128 — Impersonal Verbs  
+
+1. In using oportet there is the same difficulty as in using debeo. In English we say, "I ought to have come," expressing the Perfect tense in the Infinitive. In Latin the tense must be expressed in the modal verb, not in the following Infinitive; e.g. Debui venire or oportuit me venire. Tlere is the same difference in the use of possum ; e.g. Potui hoc facere = I might have done this.
+2. Remember that se refers to the subject of the sentence. An impersonal verb has no subject, and therefore cannot be followed directly by se; e.g. He was ashamed=eum puduit. If, however, the impersonal is used in an indirect statement se must be used for the third person, because it refers to the subject of the verb of saying; e.g. Dixit se pudere = He said he was ashamed. See Rule 7, p. 40.
+
+
+- I repented of my crime.
+- Do you pity the prisoner?
+- They are weary of life.
+- He was ashamed of his deed.
+- It becomes us to do this.
+- You ought to speak.
+- You ought to have spoken.
+- It is lawful for us to use arms.
+- Do not repent of your deed.
+- You may go away.
+- You might have gone away.
+- We are resolved to banish the kings.
+- It happened that the king was killed.
+- It is the lot of all men to die.
+- You ought not to be ashamed of your friend.
+- You might have pleased the gods.
+- It is our duty to fight.
+- I happened to be present.
+
+## Exercise 129 [A]
+
+1. I am sorry for your grief.
+2. I am ashamed of my country.
+3. It seemed good to the judge to put the prisoners to death.
+4. He said le pitied me.
+5. I believe you repent of your crime.
+6. He replied that he was tired of living in the city.
+7. Every man has not the good luck to go to Corinth.
+8. You ought to know what you are doing.
+9. You ought to have done this of your own accord.
+10. It is becoming to children to obey their parents.
+11. Do not be ashamed of such a deed.
+
+## Exercise 130 [B]
+
+1. Do not get tired of living in the country.  
+2. He said we ought to leave our home.  
+3. A man who runs away in battle soon repents of his cowardice.  
+4. We happened to be present at that time.  
+5. I was sorry for his sufferings.  
+6. He said he was ashamed of his deed.  
+7. I do not think you ought to have done that.  
+8. Do not repent of your kindness to us.  
+9. It happened that the general was present with his staff.  
+10. You might have escaped before the battle.  
+11. Why do you repent of saving the state?
+
+## Exercise 131 [A].
+
+1. Through fear of death the bravest men forget their courage.  
+2. He is ignorant of many things which he ought to be skilled in.  
+3. Looking after other people’s affairs is difficult.  
+4. I pitied them all as they came back from the battle.  
+5. Skill in addressing his soldiers was necessary for a Roman general.  
+6. The remembrance of his past life brings one man joy, another pain.  
+7. Your care for me reminds me of my father.  
+8. I am anxious to thank you for your kindness, which I shall never forget.  
+9. He is skilled in every labour which you demand of him.  
+10. I am sure he will be mindful of us in our absence.  
+11. Under the emperors Romans were made consuls for the sake of honour, not for the sake of administering public affairs.  
+12. My knowledge of Caesar made me eager for his friendship.
+
+## Exercise 132 [B]
+
+1. No one will repent of a life well spent.  
+2. You have a chief mindful of others, forgetful of self.  
+3. Pity a man suffering undeservedly.  
+4. He was charged with treachery.  
+5. His love for his country is more powerful than his fear of death.  
+6. The best men are fonder of doing than of speaking.  
+7. Out of pity for the woman he gave up his design.  
+8. He is unaccustomed to swimming.  
+9. They were unaccustomed to toil, but despised danger.  
+10. I hope you will not forget your country through your eagerness to see new things.  
+11. Caesar’s friendship for me I value very highly.  
+12. These barbarians seem skilled in making bridges.
+
+## Exercise 133 [A]
+
+Now when they had sailed for several days, it chanced that they caught sight of a ship of war approaching them. Some were afraid, and wished to turn back, but the captain said that he was ashamed to turn back, “For,” said he, “brave men ought to meet an enemy boldly, and I do not believe that by flight we shall escape from so large a vessel.” As the ship came near they saw that there were on board many soldiers, one of whom, by his proud looks and splendid dress, seemed to be the king. This man called out to them to come on board his ship. And when they had done this he asked them where they came from, and why they had left their homes.
+
+## Exercise 134 [A]
+
+On hearing their answer he asked them to sail with him, and promised to give them lands in his country, because they seemed to be good soldiers, and because he pitied them for their misfortunes. But they declared that they wished to discover what fortune the gods would give them in distant regions. Then the king replied that he was sorry for this resolve, but that he would no longer try to persuade them to follow him. He asked them if they needed gold or provisions; and when they said that they had no need of such things, he dismissed them kindly, and held on his course.
+
+## Exercise 135 [A]
+
+I have lately with much care found out and written in a book the strange stories which the inhabitants of this district believe. Among other things they believe that a man who throws a garment into the stream which flows near our town will be free from disease for a year. I have asked why they believe this, and they say that a god dwells in the stream; but why the god of a river wants such gifts they do not understand. They also believe that a certain spring which rises outside the town is able to make rich the man who visits it on a certain night in the summer; but on which of all the nights of summer one ought to visit the spring no man can tell, and I have never found a man made rich in this way.
+
+## Exercise 136 [A]
+
+The gallant Brutus, who had been blockaded for a long time, wished to know when the reinforcements would arrive. Accordingly he sent away two ships, under the command of his lieutenant, with the intention of informing the Roman commander in what great danger he was. But these ships being wrecked, the enemy surrounded them, and asked the lieutenant who they were and where they came from. On learning that they were Romans, they promised to spare their lives, and be their guides. But when they had led them two miles they surrounded and slew them. The Roman commander, on hearing of this through his scouts, decided not to delay any longer, but to send forward two legions as soon as possible.
+
+## Exercise 137 [B]
+
+When the king of France was besieging Amsterdam the citizens were greatly terrified, and summoned a council to consider what they ought to do. Most of them said that there was no hope of holding out any longer against the enemy, and advised that the keys of the city should be given up to the king. But they observed that one of the elders was asleep, and had not given his opinion. So they woke him up, and asked him what he advised about giving up the keys. He enquired if the king had demanded them; and when they said that he had not done so, he replied, “Then let us wait at least till he be pleased to ask for them.” It is said that these words saved the city.
+
+## Exercise 138 [B]
+
+The soldier, thus recognized, was soon surrounded by a mob of citizens asking who he was, where he came from, where he was going, for what purpose he was in the town, and why he had not come through the gates, but had climbed over the wall in the night time. In no wise terrified, he replied that neither could he answer so many things at once, nor was it the business of private citizens to know what was his name or what he came for. On which he was dragged with much violence to the magistrates, who questioned him again as to his purposes. As he would not speak, they were deliberating whether they ought to detain him or set him free; but there came up a soldier who pretended to recognize the prisoner, and asked whether he had not been seen in the rebels’ camp.
+
+## Exercise 139 [B]
+
+A boy and his sister were once found by the inhabitants of a village, near the entrance of a cavern. They were in form like other men, but they were different in the colour of their skin, which was tinged with a green colour. No one could understand what they said. When they were brought to the house of a certain knight they wept bitterly. Food being set before them they refused to touch it, though it was clear that they were tormented by great hunger. At length, when some beans were brought into the house, they asked by signs that these should be given them. They fed on these with great delight, and for a long time would eat no other food. The boy, however, was always languid and sad, and died in a short time.
+
+## Exercise 140 [B]
+
+The girl, however, becoming accustomed to various kinds of food at length lost that green colour. For many years she remained with the knight to whom she and her brother had first been brought. Being frequently asked about her country, she declared that the inhabitants were of a green colour, and that they saw no sun, but enjoyed such a light as we see after sunset. Being asked how she came into this country, she replied that as they were following their flocks they came to a certain cavern, where they heard a delightful sound of bells. Led on by this they wandered for a long time through the cavern, and at last reached its mouth. When they came out of it they said they were stupefied by the excessive heat of the sun, and were thus caught by the inhabitants of the village.
+
+## Exercise 141 [A]
+
+1. Caesar has sent out scouts to discover where his reinforcements are.  
+2. These men are here to give an answer.  
+3. Hannibal left part of his army to blockade Tarentum.  
+4. They carried food with them, so that they might march the quicker.  
+5. I have few men to send.  
+6. Send cavalry, so that we may the more easily check the enemy.  
+7. To become wiser, read many books.  
+8. He promises to send books for me to read.
+
+## Exercise 142 [B]
+
+1. In order that the flight might be shorter he drew up his line near the camp.  
+2. I have no one to trust.  
+3. On the next day men were sent to kill Cicero.  
+4. There are guards in the streets to restrain the multitude.  
+5. He went into the country to live more quietly.  
+6. To make your son better you ought to live better yourself.  
+7. Caesar set chosen men in the woods to fall on the enemy when fighting.  
+8. He left Labienus to command the camp.
+
+## Exercise 143 [A]
+
+1. He is not a man to rejoice even at his enemy’s death.  
+2. He deserves to be put to death.  
+3. The consul is doing things that do not benefit the state.  
+4. Shall I find a soldier brave enough to go with me?  
+5. There were some who were willing to give Caesar large sums of money.  
+6. There is no one who could endure such insolence.  
+7. Does he deserve to receive so great a reward?  
+8. Is he a man to be trusted with money?
+
+## Exercise 144 [B]
+
+1. I am not the man to refuse money to my own brother.  
+2. Send such troops as can help me.  
+3. There are men who accuse him of theft.  
+4. We did not deserve to be put in prison.  
+5. Men are not easily found who can endure pain patiently.  
+6. Is he a man to be admitted into my house?  
+7. There were some who could run faster.  
+8. The ships are not fit to be launched.
+
+## Exercise 145 [A]
+
+1. No one was found to face death for him.  
+2. I am not the man to shirk danger.  
+3. They sent five priests to consult the god at Delphi.  
+4. I will say such things as may persuade him.  
+5. Five men have to-night entered the camp to announce that the city will be surrendered.  
+6. Caesar left his baggage at Ravenna in order to reach Rome more quickly.  
+7. He is worthy of being made a Roman.  
+8. There are some men who do not desire riches.  
+9. He led out the tenth legion to attack the enemy in the rear.  
+10. He drew up his line in this way in order that his forces might appear greater.
+
+## Exercise 146 [B]
+
+1. Men were sent by the general to choose a suitable place for a camp.  
+2. The more easily to cross the river he gave orders for making a bridge.  
+3. He was not the man to bring his soldiers rashly into danger.  
+4. Towards evening fresh men arrived to take the place of those who were disabled by wounds.  
+5. There are some who think that we ought to strike the camp and advance to higher ground.  
+6. Men who free their country from slavery deserve to be praised by all.  
+7. A mound was made, and ladders brought up that we might the more easily scale the walls.  
+8. “I am not the sort of man,” he said, “to wish to avoid danger.”  
+9. Spies were sent to see if the enemy’s troops were advancing.  
+10. There were some who advised the general not to summon a council.  
+11. These barbarians are not men whom we ought to despise.  
+12. He placed elephants in front of his line of battle to strike more terror into the enemy.
+
+## Exercise 147 [A]
+
+Hannibal first crossed the Pyrenees with an army of fifty thousand foot soldiers and nine thousand horse, without any difficulty. No Roman army appeared to hinder his march. He reached the Rhone safely, and found no Romans to oppose him. The Gauls, however, were prepared to bar his way, and Scipio, the Roman general, had arrived at Massilia; so Hannibal determined to cross the river without delay. He ordered such boats as were ready to be brought to him, and trees to be cut down from which to build others. In two days the boats were ready, but the Gauls were drawn up on the opposite bank to prevent the landing. Accordingly Hannibal sent a large number of his men some miles up the river, ordering them to cross and attack the Gauls in the rear upon a given signal.
+
+## Exercise 148 [B]
+
+The Carthaginians had now reached the highest point of the mountains; they encamped on a large plateau where they could rest for some days. But it was a cold and desolate place, and not one where they could remain long, especially as winter was approaching. Many had been left behind on the march, overcome with want and hardships; and the cold was terrible to men who came from Spain and Africa. But Hannibal encouraged them, and pointed out that from this place the road led downwards, and that it would soon lead them to a country where they would find friends. “There lies Italy,” cried he; “yonder is the way to Rome.”
+
+## Exercise 149 [A]
+
+1. We must set out at once, and you must guard the camp.  
+2. Caesar had to do everything at the same time.  
+3. It is agreed by all that the laws must be obeyed.  
+4. All good citizens must obey the laws.  
+5. Crassus was ordered to see to the repairing of the fleet.  
+6. We have undertaken the construction of a bridge over the Rhine.  
+7. This should not have been done.  
+8. We must not injure those who are desirous of helping us.  
+9. Caesar caused a camp to be fortified.  
+10. They must not be accused of treachery by us.
+
+## Exercise 150 [A]
+
+1. We must not remain here any longer.  
+2. Let them see to building another bridge.  
+3. I think we must choose a place for a camp.  
+4. They will have to return in fifteen days.  
+5. We must start at once and march until evening.  
+6. Caesar pointed out that hostages must be surrendered by all the states.  
+7. We must take measures for the good of the state.  
+8. Do you think Crassus ought to have done this?  
+9. He promised to undertake the repairing of the fleet.  
+10. We have to wait here for reinforcements.
+
+## Exercise 151 [B]
+
+1. We must help the poor.  
+2. The general decided that he must not delay any longer.  
+3. We shall have to send forward two legions.  
+4. Caesar entrusted to Labienus the repairing of the ships.  
+5. They had to remain a long time where they were.  
+6. They had to leave their winter quarters in spring.  
+7. He should not have said that.  
+8. They promised to see to holding a levy.  
+9. They did not know where they were to pitch the camp.  
+10. We must come to the help of our allies.
+
+## Exercise 152 [B]
+
+1. We have to cross the sea.  
+2. We must not delay too long.  
+3. The soldiers were told to see to fortifying the camp.  
+4. Crassus ought not to have gone to Asia.  
+5. All of us must obey the laws.  
+6. We shall have to leave our country.  
+7. We were entrusted with holding a levy.  
+8. They ought to have helped their allies.  
+9. Hannibal caused his camp to be pitched on the top of a mountain.  
+10. We should not accuse them of treachery.
+
+## Exercise 153 [A]
+
+While the Romans were waging war against the Samnites their general Postumius tried to lead an army into Samnium through a narrow pass. There is in the midst of this pass a broad and open plain, but in order to reach it an army must enter a narrow defile, and afterwards either it must go back by the same way or must get out by a still narrower defile into Samnium. The Romans reached the open plain, but attempting to proceed they could not escape, for meanwhile the Samnites had blocked both the defiles. To escape they had to climb the mountains, and having tried to do this many times in vain they had to fortify a camp where they were.
+
+## Exercise 154 [B]
+
+Accordingly Postumius sent ambassadors to ask for fair terms. Pontius the Samnite replied that they must give hostages and surrender their arms, and must themselves be sent under the yoke. At length these disgraceful conditions were accepted, and the Romans were allowed to depart. To reach home they had to pass through the country of their Campanian allies, and even ask them for food and clothes. The Roman Senate refused to accept the treaty, and sent back the consul to surrender himself to the Samnites.
+
+## Exercise 155
+
+1. I am afraid to do this.  
+2. I am afraid he will do this.  
+3. I was afraid you would not do this.  
+4. I am afraid he is dead.  
+5. I was afraid he had not seen me.  
+6. Do not fear to return.  
+7. Are you afraid of speaking?  
+8. We were afraid of being seen.  
+9. I am afraid lest they should see us.  
+10. I am afraid they will not see us.  
+11. They were afraid not to tell the truth.  
+12. I fear that he has lied.
+
+## Exercise 156 [A]
+
+1. As they were afraid to follow me, I went away alone.  
+2. The soldiers were afraid that the enemy would surround them.  
+3. As the camp was not yet fortified, they were afraid of being attacked by the barbarians.  
+4. Though he was not afraid to die, he wished to live as long as possible.  
+5. Fearing that the ships would not be able to keep on their course they returned to the harbour.  
+6. He was afraid that his plans had been discovered by the enemy.  
+7. Fearing to advance farther, they took up their position ten miles from the town.  
+8. Though the city had walls one hundred feet high, the inhabitants feared they could not resist an assault.  
+9. They were afraid that they would not be able to conceal their departure from their enemies.  
+10. He was afraid of being betrayed by his own men, and therefore resolved to kill himself.  
+11. They loved their country so much that for its sake they were not afraid of dying.  
+12. I am afraid the prisoners have escaped.
+
+## Exercise 157 [B]
+
+1. You ought not to be afraid to tell the truth.  
+2. I am afraid that you have not told the truth.  
+3. Our men were afraid of being surrounded by the enemy.  
+4. Most men are afraid of dying.  
+5. I am afraid they will not be able to follow the standards.  
+6. The general was afraid to give the signal for advance.  
+7. Were you not afraid that the soldiers would seize and kill your son.  
+8. Fearing that they would be taken prisoners they fled for refuge into the woods.  
+9. The general told his men not to be afraid of crossing the river.  
+10. We were afraid that the city had been taken.  
+11. I was afraid that we should not reach the camp before sunset.  
+12. They set out at daybreak, fearing that the enemy might overtake them.
+
+## Exercise 158 [A]
+
+News having been brought of Caesar’s approach, the Arverni, fearing that he would invade their territory, resolved to break down all the bridges over the river. Caesar was very anxious to cross as soon as possible, for he was afraid of being hindered all the summer by this river. He accomplished this by the following trick. He sent forward the greater part of his forces, and the enemy followed these, thinking that the whole army had set out. Thereupon Caesar, who had remained with a few men, ordered them to repair one of the bridges with all speed, fearing that they might not be able to finish the work before the return of the enemy.
+
+## Exercise 159 [B]
+
+A peasant on the point of death summoned his sons, and told them that the end of his life was near. “My sons,” he said, “I am not afraid that you will disobey my commands, or forget me when I am dead. I therefore bid you work diligently in my vineyard, for by doing this you will discover great riches.” When the old man died, his sons remembered his words, and began to dig up the soil with all their might, hoping to find great riches concealed there. Soon however they were afraid that they had been deceived, for they could find neither gold nor silver; and at first they regretted their labour. But at last they discovered what their father had intended, for by carefully digging up the ground, they made it so fertile that it produced excellent vines.
+
+## Exercise 160 [A]
+
+1. As you have heard this, you ought to announce it to all.  
+2. Under these circumstances I shall leave the city.  
+3. This being the case, no one would remain.  
+4. I am rejoiced that you have decided to come.  
+5. They declared that they had done this, because it seemed to be for the good of the state.  
+6. We were told that they had been condemned to death, because they had displeased the king.  
+7. He must be considered a coward, since he is unwilling to become a soldier.  
+8. Since night is at hand, let all depart to their tents.  
+9. In this condition of affairs it was to our interest to withdraw from the meeting.  
+10. I rejoice that you and the army are safe.  
+11. They pretended to be glad that we were safe.  
+12. I pity you greatly, because no one seems to love you.
+
+## Exercise 161 [B]
+
+1. The slave was blamed for coming too late.  
+2. You deserve praise, because you have served your country well.  
+3. Under these circumstances the general decided to sound the retreat.  
+4. They were condemned to death for setting fire to the city.  
+5. I am rejoiced that such men have been condemned to death.  
+6. He said they ought to be punished, because they had fled from the battle.  
+7. They were charged with treason, on the ground that they had threatened the king with death.  
+8. This being the case, we must advance at once.  
+9. As they have shown themselves brave soldiers, let them receive the promised reward.  
+10. Our friends declared that they rejoiced that we had returned in safety.  
+11. Since this is so, you must remain in exile.  
+12. They were brought to trial on the charge of conspiring against the state.
+
+## Exercise 162 [A]
+
+The triumph of Camillus, after the fall of Veii, was disliked by the Romans, because he showed too much pride. Amongst other things he was accused of making himself equal to the gods, because he had entered the city in a chariot drawn by four white horses, which were sacred to Jupiter and the Sun. He also made the soldiers still more angry, because he ordered them to return part of the spoils taken at Veii, that he might offer them to the god Apollo. Finally he was accused of having hidden some treasures which he ought to have given up to the people, and was obliged to go into exile.
+
+## Exercise 163 [B]
+
+Some Irishmen had been brought to trial on the charge of stirring up a revolution in their country. They asserted that they had done nothing contrary to the law of nations, since the English were oppressing their land, and they themselves were only trying to free her from an unjust dominion. Under these circumstances they declared that they by no means repented of their deed, especially because they had shown that it was not easy to govern Irishmen against their will. These words displeased many who were present; but since the prisoners were young, and had never before been accused of any crime, they were spared.
+
+## Exercise 164 [A]
+
+Now when the Delphians knew what great danger they were in, great fear fell upon them. In their terror they consulted the oracle concerning the holy treasures, and enquired if they should bury them in the ground, or carry them away to another country. The god replied that they must leave the treasures untouched. “He was able,” he said, “without help to protect his own.” So the Delphians, when they received this answer, began to deliberate how to save themselves. First of all they sent their women and children across the gulf into Achaia. After which the greater number of them climbed to the top of Parnassus, and placed their goods in a cave. In this way all the Delphians quitted the city, except sixty men and the prophet.
+
+## Exercise 165 [A]
+
+A great plague had broken out in the city, and many of the people, both rich and poor, had perished. A great number of those who survived, who had neither wives nor children, resolved to leave the city and sail away to discover new lands. They pitied those whom they were leaving behind, but they knew that they could not help them. Accordingly they set sail by night, and meeting with a favourable wind, were many miles away from the city before dawn. They did not know to what lands they would come, but they had resolved to sail towards the west.
+
+## Exercise 166 [B]
+
+The two armies had been gazing at each other a long time. At last an old man came forward, and asked that a warrior from each army should be chosen to fight for his countrymen. Accordingly Sohrab came forward from the one army and Rustum, his father, from the other; but neither of them knew who the other was. For it happened that when Sohrab was born and carried off by the Scythians, his father was absent. At first Sohrab prevailed; for Rustum hurled his spear with such violence that he slipped and fell on the ground. But quickly rising, he dealt his son a deadly wound; for Sohrab had heard Rustum, as he rushed forward, shout out his name, and knowing him to be his father, he did not even move a hand to defend himself.
+
+## Exercise 167 [B]
+
+King James’s army was far superior to Monmouth’s in numbers, but with such great carelessness did they take up their position on that night that they were almost surprised and destroyed by the rebels. By chance the guides whom Monmouth trusted had not told him that there was a ditch twenty-five feet wide which defended the king’s camp in front. Therefore when the rebels were just going to rush forward to attack the ramparts, they were stopped by this trench. The officers ordered their men to throw the waggons into it, but the guards of the other army were now aroused, and their artillery began to play upon the rebels. It is said that Monmouth, having exhorted his men to fight bravely and hold their ground, himself rode out of the fight, hoping to find some place where he might be safe.
+
+
 ## Notes
 
 [^1]: The Historic Present may be regarded either as a Primary or as a Historic tense. The Imperative is always followed by a Primary tense.
