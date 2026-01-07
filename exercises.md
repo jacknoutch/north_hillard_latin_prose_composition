@@ -733,6 +733,489 @@ The kings of England and Germany declared war against Philip,1 king of France. T
 
 The French king himself was the bravest knight in his army. He himself was wounded, and his horse was killed under him; but he rose immediately, and led his men again against the enemy. They charged a squadron of Germans, amongst whom was the emperor himself. The Germans, thinking5 that their emperor would be taken prisoner, came up to his help, and opened for him a way of escape. Thereupon Philip remarked to his men that they would only see the emperor's back on that day. After the flight of the emperor the French pursued his army, and defeated them with great slaughter.
 
+## Exercise 71 [A]
+
+1.  The rich are envied by the poor.
+2.  A fierce battle was fought at Cannae.
+3.  You will not be believed again.
+4.  You have been advised by many of us.
+5.  The enemy were resisted for almost three hours.
+6.  At Rome many criminals are pardoned.
+7.  You shall be satisfied.
+8.  I was persuaded by the majority.
+9.  Many men more ill than you have been healed.
+10. Shall such men be favoured among us?
+
+## Exercise 72 [B]
+
+1.  Is a man believed who has once lied?
+2.  The work is only hindered by such people.
+3.  Do not be persuaded by him.
+4.  Help was brought to the Romans when hard pressed.
+5.  No man is hurt by advice.
+6.  They will not be pleased.
+7.  Orders are given to an army by the general only.
+8.  What rich man is envied by the wise?
+9.  Be advised by us.
+10. You will be accused and not spared.
+
+## Exercise 73 [A]
+
+1.  Let us escape to the woods.
+2.  Follow me into the city.
+3.  Do not try to escape.
+4.  Let us go to Rome, and let us not remain here.
+5.  Let them not return to the city.
+6.  Do not remain at home, nor fear the storm.
+7.  Do this that you may be praised.
+8.  Do not give him a sword, but give him a bow and arrows.
+9.  Do not let us ask our friends for help.
+10. Hold your ground, and do not retreat.
+
+## Exercise 74 [B]
+
+1.  Take away this shield.
+2.  Do not bring cavalry, but bring infantry and archers.
+3.  Let us try to bring help to our friends.
+4.  Give me the books which I asked you for.
+5.  Come to me, and do not be afraid.
+6.  Do not let us help our enemies nor injure our friends.
+7.  Let them remain where they are.
+8.  Do not despise the poor.
+9.  Let us die for our country.
+10. Do not let slip this opportunity.
+
+## Exercise 75 [A]
+
+1.  I asked him to follow me into the streets.
+2.  I beg of you not to let him escape.
+3.  He ordered Minucius not to attempt a battle.
+4.  I will persuade them not to leave me here alone.
+5.  Caesar had encouraged his men to hold their ground.
+6.  I forbade your asking him for money.
+7.  I warn you against despising the friendship of such a man.
+8.  Caesar demanded that the Germans should not cross the Rhine, nor leave their own territories.
+9.  The Gauls begged Caesar to spare their town.
+10. The journey was so long that he told his men to leave the baggage in the town.
+11. I have persuaded him to devote himself to his books.
+12. Order the vanguard to halt.
+
+## Exercise 76 [B]
+
+1.  They have persuaded me to stay at home.
+2.  Tell your men to follow you.
+3.  We were asked to bring help to the citizens.
+4.  I told you not to leave us here alone.
+5.  They were advised not to leave their lands.
+6.  I will urge my friends to come to me at Rome.
+7.  I told the boy not to buy himself a horse.
+8.  Tell your brother not to cross the river or come into the town.
+9.  I have ordered the vanguard to halt and wait for reinforcements.
+10. He had received such a serious wound that he asked his slave to kill him.
+11. They urged their fellow‑countrymen not to surrender nor send hostages to the Romans.
+12. The people of the town begged Caesar to spare them.
+
+## Exercise 77 [A]
+
+1.  He ordered his men to break down the bridge which had been made over the Rhone.
+2.  He persuaded his men not to retreat, and warned them that the whole country was in the hands of the enemy.
+3.  Caesar told his men that he was persuaded that the Germans had crossed the Rhine.
+4.  Cicero set out with the cavalry after telling the infantry to follow him in three days.
+5.  Our men were advised to advance with great caution, that the enemy might not attack them off their guard.
+6.  The prisoners begged Caesar to spare their lives, and send them back to their friends.
+7.  You will never persuade me that Romans will be conquered by barbarians.
+8.  So great was the determination of the prisoners that no one could compel them to speak.
+9.  Were you told that our men had been ordered to lay down their arms?
+10. Thereupon he dismissed the council, and ordered them not to assemble again.
+11. They knew that Caesar had forbidden them to attack the enemy, but in his absence they began to prepare for battle.
+
+## Exercise 78 [B]
+
+1.  I have been asked to stand for the consulship.
+2.  I shall forbid their crossing to this side of the river.
+3.  I warn you that you will be punished.
+4.  Caesar exhorted the legion with many prayers not to betray him to the enemy, or throw away their last hope of safety.
+5.  We have been forbidden to plunder the houses.
+6.  Orders have been sent us to try again to storm the town.
+7.  I was advised by Caesar not to trust you, or take you with me.
+8.  Our men were incited to search for the treasure by the promised reward.
+9.  Catiline is believed to have ordered Rome to be set on fire.
+10. Persuade him that it is dangerous to cross the mountain.
+11. Divitiacus tried to persuade the Gauls to remain faithful to Caesar, and not to revolt from him.
+
+## Exercise 79 [A]
+
+Cincinnatus lived on the other side of the Tiber on a little farm, which he cultivated with his own hands. The messengers, who had been sent by the senate, found him sitting in the fields. They told him that they had come to inform him that he had been appointed dictator, and asked him to set out with them as soon as possible. Thereupon he bade his wife Racilia bring him his toga, in order that he might not displease the messengers of the senate. When it had been brought, he said he was willing to obey their commands, and would go with them at once.
+
+## Exercise 80 [A]
+
+A certain king found one of his slaves sleeping and holding a letter in his hand. He read the letter, in which the boy’s mother thanked him because he had sent her money, and begged him to obey his master faithfully. The king put the letter back with gold into the boy’s hand, and then told another slave to wake him. At first the boy was frightened, when he saw the gold; but the king told him that good fortune often came to men when sleeping, and bade him give the gold to his mother, and say that the king greatly praised the mother of so good a son.
+
+## Exercise 81 [A]
+
+In the evening a spy was caught by the guards at the gate of the town. Being brought to the commander of the garrison he fell down, and besought him with tears to spare him. He said he could persuade many of the besieging army to desert, and promised to assassinate their general. But the commander said he did not wage war in that way; and he ordered the guards to conduct the man to the enemy’s camp. At the same time he sent a letter to the general, in which he advised him not to make use of traitors again—for (said he) they are always willing to betray their masters to save their own lives.
+
+## Exercise 82 [B]
+
+After this battle the Spartan commander sent a messenger to Sparta to tell the citizens that their good fortune had been lost, Mindarus slain, and that the soldiers were dying of starvation. Soon, however, Darius sent his younger son Cyrus to the coast to supply pay to the Spartan sailors. These then attacked the Athenians so suddenly that they easily beat them, and took the whole fleet. At length the Athenians, being compelled by famine, surrendered their city, and became allies of the Spartans.
+
+## Exercise 83 [B]
+
+On the next day the English advanced by forced marches with the intention of attacking the French off their guard. But the latter had already learnt by means of spies that the English were advancing, and had taken up their position on the top of a mound. When the English came within range, the archers began to shoot their arrows at the enemy. But the French general told his men not to fire back, but to allow the English to approach the bottom of the mound. When they were a few paces distant, he ordered his men not to wait any longer, but to get ready their arms. Then when the signal was given the French charged with such force that the English were routed and took to flight.
+
+## Exercise 84
+
+The general vainly tried to persuade his men to follow him through the wood. He told them that the enemy had retreated, and that no one would attack them on the march. But they replied that night was approaching, and that many enemies could conceal themselves behind the trees; and they begged him to allow them to pass the night in the camp. But the general would not allow this, but said that he himself would advance at once even with a few men. The rest he advised to return to the city, and tell their friends that they had been unwilling to march against the enemy.
+
+## Exercise 85 [A]
+
+1.  I shall only be a burden to you.
+2.  To sound a retreat will serve as a signal for flight.
+3.  This negligence has brought disgrace upon him.
+4.  It was to the advantage of the Romans to banish the kings.
+5.  His punishment was the cause of his death.
+6.  Let your father’s constancy be an example to you always.
+7.  He sent money to help me while ill.
+8.  It was to my credit that you got home safely.
+9.  This will be a great disgrace to you.
+10. He ought not to be hated by you.
+11. They persuaded him that such a plan would mean destruction to the whole army.
+
+## Exercise 86 [B]
+
+1.  Avarice is a great evil to men.
+2.  This is a great proof of his courage.
+3.  He left three legions for the protection of the camp.
+4.  He ordered me to sound the signal for retreat.
+5.  I think this defeat was a great disgrace to the Romans.
+6.  Let us try to set a good example to others.
+7.  I believe this plan will prove the destruction of our army.
+8.  He was an object of hatred to all good men.
+9.  It is to your credit to have spared the prisoners.
+10. This victory was the salvation of the state.
+11. The position itself was a great help to the Gauls.
+
+## Exercise 87 [A]
+
+1.  Having been banished from his country, he said he was freed from her laws.
+2.  He was descended from kings, but he did not enjoy kingly power himself.
+3.  The exiles were compelled to depart from their land.
+4.  The king was persuaded to set free the captives from prison.
+5.  Not only was he free from fault, but he also deserved praise.
+6.  Being the son of such a father, all the people obeyed him willingly.
+7.  He lived so far from the city, that even his friends did not see him often.
+8.  The slaves could not be persuaded to speak even by tortures.
+9.  When kings were banished from Rome, the people were full of joy.
+10. Men are often injured even by praise.
+11. Not only does the island abound in fruits and flowers, but it is inhabited by a race descended from the gods.
+
+## Exercise 88 [B]
+
+1.  This victory has freed us from all fear.
+2.  The camp was pitched on a hill not far from the town.
+3.  Even good men are not always free from blame.
+4.  Being descended from a noble race, he tried to set an example to the rest of the citizens.
+5.  Not only the men, but also the women and children were banished from their country.
+6.  The soldiers were ordered to desist from the siege.
+7.  Even safety will not induce me to live far from the city.
+8.  This land abounds in all kinds of riches.
+9.  We were compelled not only to depart from the city, but also to give up all our goods.
+10. They were begged by all of us to set free the captives from prison.
+11. These people were rich both in cattle and money.
+12. He left the city in a passion.
+
+## Exercise 89 [A]
+
+1.  The troops were few in number, but they fought with great bravery.
+2.  He replied in a loud voice that he would never yield.
+3.  They were told that the enemy were advancing in great disorder.
+4.  Having armed as many men as possible, they charged the enemy with the utmost fury.
+5.  I have been wrongfully accused of treachery by my private enemies.
+6.  They said they had been accustomed to live in the fashion of their ancestors.
+7.  These traitors were rightly put to death with all speed.
+8.  He is younger than his brother, but excels him in wisdom and talents.
+9.  You, who are an Englishman by birth, ought to resist bad laws with all your power.
+10. I had not even heard that they were inferior to us in numbers.
+11. By your leave I shall ask him to come home with me as often as possible.
+12. Not even you, he said, will persuade me that Caesar was rightly killed.
+
+## Exercise 90 [B]
+
+1.  The Athenians joined battle with the utmost fury.
+2.  What he has learnt with care he values most highly.
+3.  They are superior in skill, not in courage.
+4.  He spoke this with sorrow.
+5.  In everything else they employ Greek characters.
+6.  I believe that we ought to act according to the customs of our ancestors.
+7.  With your leave I will tell the slaves to withdraw.
+8.  He seems to have been rightly punished.
+9.  To live in the fashion of rich men seems pleasant to you who are poor.
+10. He replied in great anger that his enemy had lied.
+11. The consul with a smile said, “Go home and do not come here again.”
+12. We are inferior to the enemy in numbers, but our men excel others in courage.
+
+## Exercise 91 [A]
+
+Numa being dead, Tullus Hostilius was made king. While he was king war arose between the Romans and Albans. In order that the war might be finished without great loss, the kings ordered that three Romans should fight for their fatherland against three Albans, and decide the contest. The fight lasted a long time, but at last two of the Romans were killed, and all three Albans were wounded. The third Roman, whose name was Horatius, pretended to flee, and induced the Albans to pursue him. In following him they were separated, and Horatius, turning round, killed them in turn.
+
+## Exercise 92 [A]
+
+Eurystheus then set Hercules the eleventh labour, which was harder than those which we have mentioned above. For he ordered him to take away the golden apples from the gardens of the Hesperides. These were nymphs of remarkable beauty, who lived in a distant land, and some golden apples had been entrusted to them by Juno. Many men had before this tried to take away these apples; but it was a difficult thing to do, for the garden in which the apples were was surrounded by a high wall on all sides. Moreover a dragon, which had a hundred heads, guarded the gate of the garden carefully by day and night.
+
+## Exercise 93 [A]
+
+Hearing that the Belgae were conspiring against the Romans, Caesar determined to go himself without delay to central Gaul with two legions, ordering the rest to follow in a few days. On his arrival the Remi, who live on the borders of Gaul, sent ambassadors to say that they were willing to give hostages, and help the Romans with corn. They said that the rest of the Belgae were under arms, and that the Germans had joined them. On hearing this, Caesar promised to come with all possible speed to the help of the Remi, that having joined their forces they might repel the invasion of the Germans.
+
+## Exercise 94 [A]
+
+The Romans, having set out about the third watch, advanced with great caution, for they had been informed that the enemy were close at hand. They advanced until late in the night, and then were told to pitch their camp. In the middle of the night shouts were heard on all sides, and they saw that great forces of the enemy were making an attack. So they took up their arms as quickly as possible to repel the onset. But when the enemy perceived that they had not been able to attack our men off their guard, the signal for retreat was given, and they withdrew.
+
+## Exercise 95 [B]
+
+Louis could not at this time besiege Tunis, because he had not received reinforcements from his brother Charles, King of Sicily; and meanwhile his army was attacked by a disease which carried off the greater part of his soldiers in a few days. The king himself was seized with the disease, and felt that he would die of it. But, to sustain the courage of his soldiers, he performed all the duties of a king, and attended in every way to the safety of the camp. But at last he was compelled to remain within his tent, and before long² died, after telling his men never to abandon the siege.
+
+## Exercise 96 [B]
+
+Nothing had been heard of the army for many months, and the citizens began to think that it had been defeated and all their fellow‑countrymen killed. The women used to go every day to the temples, and pray the gods to send them back safely their husbands and sons. At last, when winter was approaching, and all had begun to give up hope, a messenger was seen at a distance who was approaching the city with great speed. The citizens all rushed out to meet him, and implored him to tell them without delay about the army. So tired was the messenger by his journey that at first he could not speak; but at length he said that the army had both won many victories and taken many towns of the enemy, and that the soldiers hoped in a short time to return home with a great quantity of booty and many prisoners.
+
+## Exercise 97 [B]
+
+As the people of Veii often made incursions for the sake of plunder, the Romans were scarcely able to defend their own territories. Their soldiers went home to their fields in the spring to sow, and in the autumn to gather the harvest, at which times the Veientines did a great deal of harm to their lands. At last the Fabii promised the Senate that they would be under arms the whole year, and undertake the whole war themselves. The Senate thanked them, and going out from Rome they made a camp near the river Cremera. For a little time they checked the Veientines, but at length they were surrounded, and slaughtered to a man.
+
+## Exercise 98 [B]
+
+We set out from Moscow about the third watch, so that no disturbance might be excited by our friends. I never expected to see my brothers again. For thirty‑three days we marched along a road covered by snow a foot deep. Sometimes one of us fell down, and was unable to move further. Our guards did not try to urge him on, for they knew well that the wolves would have him for their prey before the next day. I now often envy those who were thus left on the road, and prefer death to the evils which daily press upon me. I am compelled to work, but that is the least of my ills; I am compelled to see the sufferings of the women who with us dared everything for the sake of liberty.
+
+## Exercise 99
+
+The art of writing.  
+The art of writing letters.  
+By obeying the laws.  
+By changing the laws.  
+For the sake of pleasing our friends.  
+For the sake of saving our friends.  
+In order to injure the Gauls.  
+In order to defeat the Gauls.  
+The signal for advance.
+The signal for striking the camp.  
+The desire of having riches.  
+By dying.  
+For the purpose of preserving the state.  
+For the purpose of helping the state.  
+For saving the king.  
+For serving the king.
+
+## Exercise 100 [A]
+
+1.  We have done this for the sake of helping our friends.
+2.  By teaching others we learn ourselves.
+3.  By learning letters we are able to enjoy reading.
+4.  They hastened to Rome for the purpose of defending the city.
+5.  Are you not desirous of saving your friends?
+6.  The Romans became great through their desire to obey the laws.
+7.  The art of ruling others is not easily learnt.
+8.  For the sake of winning honour we suffer much pain.
+9.  An opportunity has been offered for fighting.
+10. This seems a good opportunity for defeating the enemy.
+
+## Exercise 101 [A]
+
+1.  Caesar sent cavalry to bring help to the allies.
+2.  The officers sent their men to forage in all directions.
+3.  By obeying the laws we show that we are desirous of preserving our state.
+4.  He gave his men the signal to advance.
+5.  The signal was given to advance the standards.
+6.  The Athenians sent men to Delphi to consult the god.
+7.  For the sake of pleasing their friends the Senate did many disgraceful things.
+8.  He sent messengers to the Aedui to demand hostages from them.
+9.  No opportunity was left them for retreating.
+10. They are anxious to devote themselves to letters.
+
+## Exercise 102 [B]
+
+1.  They were led on by the hope of taking the city.
+2.  I was induced to do this for the sake of pleasing the soldiers.
+3.  We were sent to ask for help.
+4.  They were sent to bring help to the allies.
+5.  Time is often wasted in writing books.
+6.  By obeying wise laws the Roman state became great.
+7.  The people of this city seem anxious to change their laws.
+8.  Let us not let slip this opportunity of winning a victory.
+9.  I am anxious to consult your interests.
+10. Caesar was anxious to exact hostages from the Gauls.
+
+## Exercise 103 [B]
+
+1.  Let us not talk of flying, for only by holding our ground shall we conquer.
+2.  To save his country a man ought always to face death.
+3.  How many of us are fit for commanding an army?
+4.  He gave the signal for crossing the river.
+5.  In our zeal for pursuing the cavalry we advanced too far.
+6.  For learning one needs talent and a great desire of knowledge.
+7.  We were sent for to defend the king from harm.
+8.  A great cause of crime is the desire of having wealth.
+9.  Officers were ordered to enter the citadel to receive the arms which the enemy had promised to give up.
+10. For the sake of filling the ships and sailing at once they bought merchandise at a great price.
+11. They are here to ask for pardon.
+
+## Exercise 104 [A]
+
+1.  It is easy to say, but difficult to do.
+2.  They say that the city will not easily be captured.
+3.  Go out to play.
+4.  Do not always eat what is pleasant to eat.
+5.  The story is a strange one to tell.
+6.  Send him to pay the money at once.
+7.  The general told the officers to send some men to forage.
+8.  Fire is dangerous to touch.
+9.  They left Rome to found a new colony.
+10. All agree that the city will never be surrendered.
+
+## Exercise 105 [B]
+
+1.  Aeneas had gone away from the camp to ask for help.
+2.  I do not believe that the money will be paid.
+3.  It is not lawful to do this.
+4.  The mother and wife of Coriolanus were sent to him to ask pardon on behalf of the city.
+5.  I shall go to bed soon.
+6.  They often do things disgraceful to relate.
+7.  I hope the soldiers will be sent home again.
+8.  The story is easy to tell.
+9.  Send men to give an answer.
+10. He spoke with a voice difficult to hear.
+
+## Exercise 106 [A]
+
+Our men saw that they were surrounded on all sides; and no opportunity being left for retreating, they resolved to charge with all their might in the hope of striking terror into the enemy. They knew that they had been brought into these dangers by delaying too long before, and they hoped that by fighting bravely now they would force the enemy to give ground. Therefore, when the signal for advance was given, they ran forward with a loud shout against that part of the line which seemed weakest. The enemy were thrown into such confusion by this unexpected attack that their line was broken at once, and no one resisted our charge.
+
+## Exercise 107 [A]
+
+A messenger had been sent to France to ask for help, and to invite French troops to Ireland. Arms and money were promised for the purpose of assisting an Irish army. These were conveyed by a French ship, and a hundred men assembled on the shore to receive the arms which it was going to land. But in a storm two of their boats had been broken, and in repairing them time was wasted. Meanwhile, to scatter the rebels, a troop of horse had been sent out from Cork, at the sight of whom the rebels fled in all directions; and to effect their own escape the French sailors threw the arms overboard; they lie sunk in the harbour to this day.
+
+## Exercise 108 [B]
+
+The French general was unwilling to attack us at close quarters, because his troops were inexperienced in battle, and he thought they would fight best when sheltered by ramparts. Moreover, three years before his troops had been unable to resist the English hand to hand, but having been withdrawn into the town, had defended the walls obstinately. The recollection of that time and the desire to prolong the war induced him to remain where he was. However, in order to give the Belgians an opportunity of deserting us, he sent out troops of cavalry as far as our outposts. But for fear of this we employed no Belgians as sentinels. For throughout the whole year we were expecting every day they would desert us.
+
+## Exercise 109 [B]
+
+The Athenians hoped that a Spartan army would march into Boeotia, and had taken no measures to save their families and property. Therefore they saw with the utmost fear and dismay that the Barbarians were advancing with all their forces for the sake of attacking their city. It was evident that in six days Xerxes would be at Athens, and this seemed a very short time for removing the population of a whole city. But they knew that it was of the greatest importance to them to accomplish this, and before his arrival they had safely removed all who were willing to leave their homes. Some were taken to Aegina, others to Troezen; but many could not be induced to proceed farther than Salamis.
+
+## Exercise 110 [A]
+
+1.  Did you say that you would come?
+2.  Were you or your brother the first to arrive?
+3.  What sort of country do you live in?
+4.  Surely you do not hope to see him again?
+5.  Where have you come from? Where are you going to? Where have you decided to live?
+6.  Do you not believe that this loss will increase the panic?
+7.  How many books have you?
+8.  How often have you seen him, and when do you expect him to return?
+9.  Have you determined to accept these terms or not?
+10. How great is the army of the enemy, and who commands it?
+11. What plan have you formed now?
+
+## Exercise 111 [B]
+
+1.  Is it easier to command or to obey?
+2.  Have you seen the horse which I gave your brother?
+3.  How many times have you been to France?
+4.  Surely you do not think me worthy of blame?
+5.  They did not ask you to go to Rome, did they?
+6.  How large is the house in which you live?
+7.  Which of these two books do you prefer?
+8.  Why do you prefer England to France?
+9.  What plan have you formed now?
+10. How great is the army of the enemy, and who commands it?
+11. Where did you buy this horse? Where did you send the letter? Where did these ships come from?
+
+## Exercise 112 [A]
+
+1.  Tell me why you did that.
+2.  We have not been told when reinforcements will arrive.
+3.  It was doubtful if they would arrive before night.
+4.  We did not know where our friends had gone, nor where we should find them.
+5.  It is uncertain whether we shall see him again.
+6.  I was not told whether I ought to remain or go away.
+7.  Tell me where you have come from.
+8.  I do not know how I ought to do this.
+9.  Have you heard what plan the general has formed?
+10. I was told how bravely our men had fought.
+
+## Exercise 113 [A]
+
+1.  I have not heard when he arrived.
+2.  It is doubtful whether we ought to do this or not.
+3.  I do not know if he told the truth.
+4.  It is hard to say whether this was done on purpose or not.
+5.  I was not told how I ought to answer.
+6.  I cannot say how often I have been asked to come.
+7.  Nobody seems to know how great the enemies’ forces were.
+8.  It was doubtful how many soldiers would arrive.
+9.  We had not been told what sort of man he was.
+10. Can you tell me if he was rightly punished?
+
+## Exercise 114 [B]
+
+1.  Nobody knows whether he said that or not.
+2.  Have you heard which of the two was elected consul?
+3.  The soldiers did not know what plan the general had formed.
+4.  He said he did not know if Crassus had been put in command of the army.
+5.  It is uncertain how many men he is in command of, and where he has taken up his position.
+6.  We asked them who they were, where they lived, where they came from, and where they were now going.
+7.  I cannot tell you when they have promised to come.
+8.  It is doubtful how he is able to do such things.
+9.  We, who are old, understand how happy are the young.
+10. I do not know whether you deserve praise or blame.
+
+## Exercise 115 [B]
+
+1.  He wants to know what I am going to do tomorrow.
+2.  It matters a great deal whether they intend to send out cavalry or infantry.
+3.  We did not know whether the enemy were going to attack in the evening or late in the night.
+4.  It was doubtful what news the messenger would bring.
+5.  Let us ask if one regiment will be enough.
+6.  When the enemy would cross the river was quite uncertain.
+7.  Tell me if your father is dead.
+8.  It makes a great difference whether he bought the horse at a low price or not.
+9.  Have you heard if he has been persuaded to return?
+10. It is uncertain whether he will hinder us more than he will help us.
+
+## Exercise 116 [A]
+
+1.  The general tried to discover the numbers and intentions of the enemy.
+2.  Have you been able to discover his reason for doing this?
+3.  Nobody seemed to understand their object in asking for such terms.
+4.  I almost think we ought to retreat.
+5.  They had not heard the decision of the king.
+6.  It was doubtful where our friends were, and when they would come to meet us.
+7.  I rather think he has been advised to depart.
+8.  He sent me to discover the nature of the island.
+9.  It is uncertain where they started from, and when they will reach the city.
+
+## Exercise 117 [B]
+
+1.  I could not discover his reason for saying that.
+2.  We cannot find out the size of the enemy’s camp.
+3.  I did not tell him by what road we should march.
+4.  The generals did not inform the soldiers of their decision.
+5.  Spies were sent forward to learn what was going on in the enemy’s camp.
+6.  Can you tell me how many miles the town of Veii is distant from Rome?
+7.  We could not easily discover the numbers of the enemy.
+8.  Do you know the destination of these travellers?
+9.  I almost think they have been compelled to retreat.
+10. We could not discover their reason for returning home.
+
+## Exercise 118 [A]
+
+It is said that a certain prophetess brought nine books to Tarquin, king of Rome, and asked him if he wished to buy them. The king asked for what price she was willing to sell them; to which she replied that she would sell them for three hundred pieces of gold. The woman went away, but afterwards she returned with six books. Tarquin asked where she had left the others, and she replied that she had burnt them, but that she would sell him these for the same price. Tarquin would not buy them, and she again left him. But once more she returned with only three books, and asked whether he was willing to buy these at the same price or not.
+
+## Exercise 119 [A]
+
+The king, who wondered why she had returned so often, now asked his senate whether he ought to keep them. They first asked him what sort of books they were, and if the prophetess had shown them to him. The king replied that she had said nothing, but that she had burnt six books out of nine, and now offered three at the same price. It seemed doubtful to the senators what they ought to do, but at last they advised the king to buy the books. Then the woman, having received the money, advised the Romans to keep the books very carefully, and went away.
+
+## Exercise 120 [A]
+
+The story is told of King Tarquin that he once determined to add new companies to the Roman knights. Attius the augur said it could not be done. Moved by anger the king demanded that he should show by a sign what the gods wished. Attius replied that he would tell the king what he had in his mind. But Tarquin said, “Tell me rather whether that which I have in my mind can be done.” “It can be done,” said Attius. Then the king bade him cut a whetstone in two, for he said he was thinking of that. Without any delay (so they relate) Attius cleft it with a razor.
 
 ## Notes
 
