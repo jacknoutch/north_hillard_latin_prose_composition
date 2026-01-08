@@ -64,7 +64,7 @@ In the following sentences Latin requires the dependent verb to be in the Subjun
 1. The enemy retreated in order to avoid a battle.
 2. We shall send 200 men in order that we may hinder the enemy's march.
 3. They marched quickly so that the enemy might not learn their plans.
-4. We advanced to the top of the hill[^3] to see the enemy's.camp.
+4. We advanced to the top of the hill[^3] to see the enemy's camp.
 5. He is marching with Caesar so that he may not be accused by us.
 6. We work in order to become rich.
 7. They have come to ask for arms from us.
