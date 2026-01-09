@@ -1193,136 +1193,135 @@ N.B. In these Vocabularies the principal parts of Irregular Verbs are given wher
 
 ## Exercise 101.
 
-- forage, vb., pabulor, I. n. pabulum.
-- consult, consulo, -ere, -sului, -sultum, acc.
+- forage, vb., pābŭlor, I. n. pābŭlum.
+- consult, consŭlo, -ere, -sului, -sultum, acc.
 - consult interests of, consulo, dat.
 - disgraceful, turpis.
-- devote oneself to, studeo, dal.
+- devote oneself to, stŭdeo, dal.
 - in all directions, passim.
 
 ## Exercise 102.
 
-- lead on, induce, adduco.
-- waste time, tempus tero.
+- lead on, induce, addūco.
+- waste time, tempus tĕro.
 
 ## Exercise 103.
 
 - face obeo, acc.
-- fit for, aptus ad, idoneus ad.
-- harm, injury, damnum, incommodum.
-- send for, arcesso, -ere, -ivi, -itum.
-- one needs, opus est.
-- officer, legatus, praefectus.
+- fit for, aptus ad, ĭdōneus ad.
+- harm, injury, damnum, incommŏdum.
+- send for, arcesso, -ĕre, -īvi, -ītum.
+- one needs, ŏpus est.
+- officer, lēgatus, praefectus.
 - citadel, arx, arcis, f.
-- fill, compleo, -ere, -plevi, pletum.
+- fill, compleo, -ēre, -plēvī, plētum.
 - merchandise, merces, pl.
-- pardon, venia.
+- pardon, vĕnia.
 
 ## Exercise 104.
 
-- story, fabula.
-- strange, mirabilis.
+- story, făbula.
+- strange, mīrābĭlis.
 - pay, solvo.
 - found, condo.
-- colony, colonia.
+- colony, cŏlōnia.
 - all agree, constat inter omnes.
-- play, ludo, -ere, lusi, lusum.
+- play, lūdo, -ĕre, lusi, lusum.
 
 ## Exercise 105.
 
 - lawful, fas [indeclinable].
-- go to bed, cabitum eo.
+- go to bed, cŭbĭtum eo.
 - on behalf of, pro, abl.
 
 ## Exercise 106.
 
-- strike terror into, inspire with terror, injicio terrorem, dat.
-- bring into danger, in periculum adduco.
-- give ground, cedo.
-- unexpected, subitus, inopinatus.
-- break (a line), inclino, I.
+- strike terror into, inspire with terror, injĭcio terrōrem, dat.
+- bring into danger, in pĕrīcŭlum addūco.
+- give ground, cēdo.
+- unexpected, sŭbĭtus, inŏpīnatus.
+- break (a line), inclīno, I.
 
 ## Exercise 107.
 
-- invite, invito, I.
-- Ireland, Hibernia.
-- Irish, (adj.), Hibernicus.
-- scatter, dispergo, -ere, -si, -sum, trans. (For intrans, use the Passive.)
-- rebel, rebellis.
+- invite, invīto, I.
+- Ireland, Hĭbernia.
+- Irish, (adj.), Hĭbernicus.
+- scatter, dispergo, -ĕre, -si, -sum, trans. (For intrans, use the Passive.)
+- rebel, rĕbellis.
 - troop (of horse), turma.
-- effect escape, salutem fuga petere.
+- effect escape, sălūtem fŭgā pĕtĕre.
 
 ## Exercise 108.
 
-- at close quarters, comminus, adv.
-- hand to hand, comminus, adv.
-- at a distance, eminus.
-- inexperienced, imperitus, gen.
-- withdraw, deduco, trans.
-- obstinate, pertinax.
-- obstinately, obstinate.
-- obstinacy, pertinacia.
-- recollection, memoria.
-- prolong, produco, duco.
-- desert, desero (-ere, -ui, -tum), transfugio.
-- desert (=revolt from), deficio ab.
-- deserter, transfuga, perfuga.
+- at close quarters, hand to hand, commĭnus, adv.
+- at a distance, ēmĭnus.
+- inexperienced, impĕrītus, gen.
+- withdraw, dēdūco, trans.
+- obstinate, pertĭnax.
+- obstinately, obstĭnate.
+- obstinacy, pertĭnācia.
+- recollection, mĕmŏria.
+- prolong, prōduco, dūco.
+- desert, desĕro (-ĕre, -ui, -tum), transfŭgio.
+- desert (=revolt from), dēfĭcio ab.
+- deserter, transfŭga, perfŭga.
 - as far as, usque ad.
-- outposts, stationes, f.
-- for fear of this, hoc timore (lit. through this fear).
+- outposts, stătiones, f.
+- for fear of this, hoc tĭmore (lit. through this fear).
 - as, pro, abl.
-- sentinels, custodes, vigiliae.
+- sentinels, custōdes, vĭgĭliae.
 
 ## Exercise 109.
 
-- it concerns, interest; refert.
+- it concerns, interest; rēfert.
 *These take a Genitive of the person concerned. But instead of the Gen. of pronouns they take mea, tul, etc. They may also be qualified by a Gen. of value or neuter adjective: e.g. maximi interest, multum interest = it is of the greatest importance. They can be followed both by infinitive and indirect question.*
-- family, household, familia.
-- property, bona, n. pl.
-- evident, manifestus.
-- remove, transfero.
-- population, populus, multitudo.
+- family, household, fămĭlia.
+- property, bŏna, n. pl.
+- evident, mănĭfestus.
+- remove, transfĕro.
+- population, pŏpŭlus, multĭtūdo.
 - accomplish, efficio.
-- safety, tuto.
-- dismay, pavor, -oris, m.
+- safety, tūto.
+- dismay, păvor, ōris, m.
 
 ## Exercise 110.
 
 *Interrogative words.*
 - who? what? quis, quid (adj. qui, quae, quod). Also quisnam.
-- which of two? uter, -tra, -trum.
-- of what sort? qualis.
+- which of two? ŭter, -tra, -trum.
+- of what sort? quālis.
 - how great? quantus.
 - how many? quot.
-- how often? quoties.
+- how often? quŏties.
 - how ? (with adj. and adv.) quam.
-- how? (=in what manner?) quomodo, quemadmodum.
+- how? (=in what manner?) quōmŏdo, quemadmodum.
 - how long? quamdiu.
-- why? cur, quare, quamobrem.
+- why? cur, quārē, quamobrem.
 - when? quando.
-- where? ubi, qua.
-- whence? where from? unde.
+- where? ŭbi, quā.
+- whence? where from? undĕ.
 - whither? where to? quo.
 
-- increase, trans., augeo, -ere, auxi, auctum.
-- intrans., cresco, -ere, crevi, cretum.
-- regard as, habeo, duco.
+- increase, trans., augeo, -ēre, auxi, auctum.
+- intrans., cresco, -ĕre, crēvi, crētum.
+- regard as, hăbeo, dūco.
 - cunning, n. sollertia. adj. sollers.
-- panic, pavor.
-- terms, conditiores.
+- panic, păvor.
+- terms, condĭtiores.
 - worthy, dignus.
 
 ## Exercise 112.
 
 *Words introducing indirect questions.*
-- ask, rogo; interrogo; quaero, -ere, quaesivi, quaesitum (ex).
+- ask, rŏgo; interrogo; quaero, -ĕre, quaesīvi, quaesītum (ex).
 - know, scio.
 - not to know, nescio.
-- it is doubtful, incertum, dubium est.
-- to be doubtful, to doubt, dubito, I.
+- it is doubtful, incertum, dŭbium est.
+- to be doubtful, to doubt, dŭbĭto, I.
 - to ascertain, cognosco.
-- to deliberate, consult, delibero, I., consulo.
-- to consider, cogito, I., reputo, I.
+- to deliberate, consult, dēlībĕro, I., consŭlo.
+- to consider, cōgĭto, I., rĕpŭto, I.
 - to be of importance, make a difference, interest, refert. (See Voc. 109.)
 - it matters a great deal, multum or magni interest.
 
@@ -1332,96 +1331,96 @@ N.B. In these Vocabularies the principal parts of Irregular Verbs are given wher
 
 ## Exercise 114.
 
-- old, senex, -is.
-- happy, fēlix, beatus.
-- understand, intellego, -ere, -lexi, -lectum.
-- young, juvenis.
+- old, sĕnex, -is.
+- happy, fēlix, beātus.
+- understand, intellĕgo, -ĕre, -lexi, -lectum.
+- young, jŭvenis.
 
 ## Exercise 115.
  
 - to-morrow, cras.
 - intend, in animo habeo.
-- late at night, multa nocte.
-- what news? quid novi?
-- regiment, cohors, -ortis, f.
-- quite, admodum.
+- late at night, multā nocte.
+- what news? quid nŏvi?
+- regiment, cŏhors, -ortis, f.
+- quite, admŏdum.
 
 ## Exercise 117.
 
-- go on, happen, passive of ago.
-- traveller, viator.
+- go on, happen, passive of ăgo.
+- traveller, viātor.
 
 ## Exercise 118.
 
-- prophet, prophetess, vates, is
+- prophet, prophetess, vātes, is
 - piece (of gold), nummus, -i, m.
 - once more, rursus.
-- price, pretium.
+- price, prĕtium.
 
 ## Exercise 119.
 
-- wonder, miror.
-- offer, offero, offerre, obtuli, oblatum.
-- show, ostendo, -ere, -di, -sum, or -tum.
+- wonder, mīror.
+- offer, offĕro, offerre, obtŭli, oblatum.
+- show, ostendo, -ĕre, -di, -sum, or -tum.
 
 ## Exercise 120.
 
-- add, addo, -ere, -didi, -ditum.
-- moved (by anger), commotus.
+- add, addo, -ĕre, -dĭdi, -ditum.
+- moved (by anger), commōtus.
 - sign, signum,
-- rather, potius.
-- cut in two, discindo, -ere, scidi, scissum.
-- augur, augur, -uris.
+- rather, pŏtius.
+- cut in two, discindo, -ĕre, scĭdi, scissum.
+- augur, augur, -ŭris.
 
 ## Exercise 121.
 
 - following, next, proximus.
-- recover, trans., recipio.
-- rising ground, editus locus.
-- trick, dolus, -i, m.
-- most of them, plerique.
-- encamp, consido, -ere, -sedi, sessum.
+- recover, trans., rĕcĭpio.
+- rising ground, ēdĭtus lŏcus.
+- trick, dŏlus, -i, m.
+- most of them, plērique.
+- encamp, consido, -ĕre, -sedi, sessum.
 
 ## Exercise 122.
 
-- indeed, quidem.
-- once, formerly,  olim, quondam.
+- indeed, quĭdem.
+- once, formerly,  ōlim, quondam.
 - by means of, per.
 - overcome (by fear), perculsus.
 - whereupon, quo facto
 
 ## Exercise 123.
 
-- celebrated, praeclarus.
-- catch sight of, conspicio, -ere, -spexi, -spectum; conspicor, I.
-- somedaysafter, aliquotpost diebus.
-- door, janua.
-- in astonishment, attonitus.
-- be mad, furo, -ere (no Perfect). adj. insanus, amens.
-- exclaim, clamo, I.
+- celebrated, praeclārus.
+- catch sight of, conspĭcio, -ĕre, -spexi, -spectum; conspĭcor, I.
+- somedaysafter, aliquot post diebus.
+- door, jānua.
+- in astonishment, attŏnĭtus.
+- be mad, fŭro, -ĕre (no Perfect). adj. insānus, āmens.
+- exclaim, clāmo, I.
 
 ## Exercise 124.
 
-- custom, mos, moris, m.
+- custom, mōs, mōris, m.
 - schoolmaster, magister, -tri.
 - without the knowledge of. Use inscius.
 - former ... latter, ille. .. hic.
 - commit to one's care, mando, I., acc. and dat.
 - rod, virga.
 - such ... as, talis ... qualis.
-- drive, ago.
-- severe, gravis.
-- punishment, poena, supplicium.
+- drive, ăgo.
+- severe, grăvis.
+- punishment, pōena, supplicium.
 
 ## Exercise 125.
 
-- panic, pavor.
-- in silence, silentio.
-- decree, decerno, -ere, -crevi, -cretum
+- panic, păvor.
+- in silence, sĭlentio.
+- decree, dēcerno, -ĕre, -crēvi, -crētum
 - clothe, vestio.
 - stroke, mulceo, mulsi, mulsum.
 - beard, barba.
-- strike, percutio, -ere, -cussi, -cussum.
+- strike, percŭtio, -ĕre, -cussi, -cussum.
 
 ## Exercise 126.
 
