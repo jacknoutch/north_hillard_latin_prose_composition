@@ -2226,23 +2226,23 @@ N.B. In these Vocabularies the principal parts of Irregular Verbs are given wher
 
 ## Exercise 208.
 
-- lose heart, despero, animum demitto.
-- fall into hands of, in potestatem, venire.
+- lose heart, despēro, animum dēmitto.
+- fall into hands of, in pŏtestatem, venire.
 - gloriously, (cum) summa laude.
 - inflict ... on someone, aliquem afficere, abl.
 - avenger, ultor.
-- perjury, laesa fides.
-- be favourable to, faveo, dat.; sto ab aliquo.
-- violate, violo, I.
+- perjury, laesa fĭdes.
+- be favourable to, făveo, dat.; sto ab aliquo.
+- violate, viŏlo, I.
 - be offended at, aegre fero.
-- misery, suffering, dolor.
+- misery, suffering, dŏlor.
 
 ## Exercise 209.
 
-- impregnable, inexpugnabilis.
+- impregnable, inexpugnābilis.
 - steep, praeruptus.
-- lines, munitiones, munimenta.
-- siege works, opera, n. pl.
+- lines, mūnītiones, munīmenta.
+- siege works, ŏpera, n. pl.
 
 ## Exercise 210.
 
@@ -2321,7 +2321,7 @@ N.B. In these Vocabularies the principal parts of Irregular Verbs are given wher
 
 - fit out, instruo.
 - rescue, rĕdūco.
-- survivor, sŭperstes, -ĭtis, or verb superesse.
+- survivor, sŭperstes, -ĭtis, or verb sŭperesse.
 - break, frango.
 - reduce, rĕdĭgo.
 - naval, nāvālis.
