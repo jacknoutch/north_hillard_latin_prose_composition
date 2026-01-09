@@ -1610,76 +1610,76 @@ N.B. In these Vocabularies the principal parts of Irregular Verbs are given wher
 
 ## Exercise 141.
 
-- check, restrain, cohibeo.
+- check, restrain, cŏhĭbeo. 
 
 ## Exercise 142.
 
-- short, brevis.
+- short, brĕvis.
 - quiet, tranquillus.
-- set, post, dispono; colloco, I.
-- chosen, picked, delectus.
-- fall on, incido, ere, -cidi, -casum (in).
+- set, post, dispōno; collŏco, I.
+- chosen, picked, dēlectus.
+- fall on, incĭdo, -ĕre, -cĭdi, -cāsum (in).
 
 ## Exercise 143.
 
-- insolence, arrogantia.
+- insolence, arrŏgantia.
 
 ## Exercise 144.
 
-- refuse, recuso, I.
+- refuse, rĕcūso, I.
 - theft, furtum.
-- put in prison, in vincula conjicio.
+- put in prison, in vincŭla conjĭcio.
 - admit, admitto.
 - fit to, dignus qui, subj.
-- launch, deduco.
+- launch, dēdūco.
 - patiently, aequo animo.
 
 ## Exercise 145.
 
-- shirk, vito, I., detrecto, I.
+- shirk, vīto, I., detrecto, I.
 
 ## Exercise 146.
 
-- suitable, idoneus.
-- rashly, temere.
+- suitable, ĭdōneus.
+- rashly, tĕmĕre.
 - towards evening, sub vesperum.
-- take place of, relieve, succedo, dat.
+- take place of, relieve, succēdo, dat.
 - disabled, confectus.
-- ladder, scala.
+- ladder, scāla.
 - scale, ascendo.
-- elephant, elephantus, -i, m.
-- in front of, pro.
-- bring up, admoveo.
+- elephant, ĕlĕphantus, -i, m.
+- in front of, prō.
+- bring up, admŏveo.
 
 ## Exercise 147.
 
-- prepared to, paratus, Inf.
-- oppose, bar way of, hinder, obsto, obsisto, dat.; impedio, acc.; prohibeo, acc.
-- build, aedifico, I.
-- in two days, biduo,
+- prepared to, părātus, Inf.
+- oppose, bar way of, hinder, obsto, obsisto, dat.; impĕdio, acc.; prŏhĭbeo, acc.
+- build, aedĭfĭco, I.
+- in two days, bĭduo,
 - for two days, biduum.
-- opposite bank, altera ripa,
-- landing, egressus, -us.
-- up the river, in adversum flumen, adverso flumine.
+- opposite bank, altera rīpa.
+- landing, ēgressus, -us.
+- up the river, in adversum flūmen, adverso flumine.
 
 ## Exercise 148.
 
-- Carthaginian, Poenus (adj. Punicus)
-- cold, frigidus. (noun), frigus, -oris, n.
-- desolate, desertus.
+- Carthaginian, Poenus (adj. Pūnĭcus)
+- cold, frīgidus. (noun), frīgus, -ŏris, n.
+- desolate, dēsertus.
 - especially, praesertim.
-- want, inopia.
-- hardship, labor.
-- terrible, terribilis.
+- want, inŏpia.
+- hardship, lăbor.
+- terrible, terrĭbĭlis.
 - downwards, deorsum.
-- rest, se reficere.
+- rest, se rĕfĭcĕre.
 - encourage, confirmo, I.
 
 ## Exercise 149.
 
 - see to (undertake), the building of a house, curare (suscipere) aedificandam domum.
-- accuse of, accuso, I. (with Gen. of crime).
-- treachery, proditio.
+- accuse of, accūso, I. (with Gen. of crime).
+- treachery, prōdĭtio.
 
 ## Exercise 150.
 
@@ -1687,90 +1687,90 @@ N.B. In these Vocabularies the principal parts of Irregular Verbs are given wher
 
 ## Exercise 151.
 
-- delay, moror, I.; cunctor, I.
-- winter quarters, hiberna, n. pl.
-- hold a levy, delectum (4th. decl.) habeo.
+- delay, mŏror, I.; cunctor, I.
+- winter quarters, hīberna, n. pl.
+- hold a levy, dēlectum (4th. decl.) habeo.
 
 ## Exercise 153.
 
-- get out, evado, -ere, -si, -sum.
-- pass, defile, saltus, -us, m .; angustiae, fauces, f.
+- get out, evado, -ĕre, -si, -sum.
+- pass, defile, saltus, -ūs, m .; angustiae, fauces, f.
 - narrow, angustus.
-- in vain, frustra, nequicquam.
-- both, uterque.
+- in vain, frustrā, nēquicquam.
+- both, ŭterque.
 - clothes, vestis, -is, f.
 - open, apertus.
-- plain, campus, -i, m., planities, f. 5.
+- plain, campus, -i, m., plānĭties, f. 5.
 - still ( = even), etiam.
 
 ## Exercise 154.
 
-- fair terms, aequae conditiones.
-- send under the yoke, sub jugum mitto.
-- treaty, foedus, -eris, n.
-- clothes, vestis, -is, f., vestitus, -us, m.
+- fair terms, aequae condĭtiones.
+- send under the yoke, sub jŭgum mitto.
+- treaty, foedus, -ĕris, n.
+- clothes, vestis, -is, f., vestītus, -us, m.
 
 ## Exercise 156.
 
 - not yet, nondum.
 - assault (on town), oppugnatio.
-- departure, profectio.
+- departure, prŏfectio.
 
 ## Exercise 157.
 
 - standards, signa, n. pl.
-- overtake, assequor, consequor.
+- overtake, assĕquor, consĕquor.
 
 ## Exercise 158.
 
-- invade, invado, -ere, -vasi, -vasum (in acc.).
-- return, reditus, -us, m.
+- invade, invādo, -ĕre, -vāsi, -vāsum (in acc.).
+- return, rĕdĭtus, -ūs, m.
 
 ## Exercise 159.
 
-- peasant, agricola, m.
-- vineyard, vinetum.
-- digup, effodio, -ere, -fodi, -fossum.
-- deceive, decipio, fallo.
-- fertile, fertilis.
-- produce, edo, -ere, edidi, editum.
+- peasant, agrĭcŏla, m.
+- vineyard, vīnētum.
+- digup, effŏdio, -ĕre, -fōdi, -fossum.
+- deceive, dēcĭpio, fallo.
+- fertile, fertĭlis.
+- produce, ēdo, -ĕre, ēdĭdi, ēdĭtum.
 - regret, me paenitet, gen.
-- vine, vitis, -is, f.
-- excellent, egregius.
-- disobey, disregard, negligo, -ere, -lexi, -lectum.
+- vine, vītis, -is, f.
+- excellent, ēgrĕgius.
+- disobey, disregard, neglĭgo, -ĕre, -lexi, -lectum.
 
 ## Exercise 160.
 
 - because, quod, quia. [Use quia for actual cause only, and therefore with Ind., except in Indirect Statement.]
-- since, quoniam, quando, quum. [quum aiways with Subj.]
-- on the ground that, for the reason that, propterea quod.
+- since, quŏniam, quando, quum. [quum aiways with Subj.]
+- on the ground that, for the reason that, proptĕreā quod.
 - this being so, in this state of affairs, quae quum ita sint, essent.
-- rejoice, be glad, gaudeo, -ere, gavisus (quod).
-- it is for the good of, ex usu est, usui est, dat.
+- rejoice, be glad, gaudeo, -ēre, gāvīsus (quod).
+- it is for the good of, ex ūsu est, usui est, dat.
 - condemn todeath, capitis damno, I.
 
 ## Exercise 161.
 
-- late, sero, adv.
-- sound the retreat, receptui canere.
-- exile (person), exsul, -ulis.
-- exile (state), exsilium.
-- treason, majestas.
+- late, sēro, adv.
+- sound the retreat, rĕceptui cănĕre.
+- exile (person), exsul, -ŭlis.
+- exile (state), exsĭlium.
+- treason, mājestas.
 
 ## Exercise 162.
 
 - triumph, triumphus, -i, m.
-- fall (of city), use capio.
-- be disliked by, displiceo, dat.
-- pride, superbia.
-- equal, par, paris.
-- chariot, currus, -us, m.
+- fall (of city), use căpio.
+- be disliked by, displĭceo, dat.
+- pride, sŭperbia.
+- equal, pār, păris.
+- chariot, currus, -ūs, m.
 - white, albus.
-- sacred, sacer, -ra, -rum.
-- Jupiter, Juppiter, Jovis.
-- finally, postremo, denique.
-- spoils, spolia, n. pl.
-- Apollo, Apollo, -inis.
+- sacred, săcer, -ra, -rum.
+- Jupiter, Juppiter, Jŏvis.
+- finally, postrēmo, dēnĭque.
+- spoils, spŏlia, n. pl.
+- Apollo, Apollo, -ĭnis.
 - too much, nimius, nimis (with gen.).
 
 ## Exercise 163.
@@ -1778,51 +1778,51 @@ N.B. In these Vocabularies the principal parts of Irregular Verbs are given wher
 - contrary to, contra.
 - be brought to trial, put on trial, reus sum.
 - law of nations, international law, jus gentium.
-- oppress, opprimo, -ere, -pressi, -pressum.
+- oppress, opprĭmo, -ĕre, -pressi, -pressum.
 - unjust, injustus.
 - any, adj. in negative sentences, ullus.
-- govern, rego.
+- govern, rĕgo.
 
 ## Exercise 164.
 
-- fall on, capio.
-- oracle, oraculum.
-- untouched, integer, -ra, -rum.
+- fall on, căpio.
+- oracle, ōrāculum.
+- untouched, intĕger, -ra, -rum.
 - protect, servo, 1.
-- gulf, sinus, -us, m.
+- gulf, sĭnus, -ūs, m.
 - except, praeter.
-- holy, sacer, -cra, -crum.
+- holy, săcer, -cra, -crum.
 
 ## Exercise 165.
 
-- plague, pestis, pestilentia.
-- survive, supersum.
+- plague, pestis, pestĭlentia.
+- survive, sŭpersum.
 - set sail, navem solvo.
 - meet with, obtain, nanciscor, -i, nactus.
-- favourable, secundus.
-- west, occidens.
+- favourable, sĕcundus.
+- west, occĭdens.
 - towards, ad.
 
 ## Exercise 166.
 
 - gaze at, specto, I.
-- warrior, juvenis.
-- each of two, uterque [each army = uterque exercitus].
+- warrior, jŭvĕnis.
+- each of two, ŭterque [each army = ŭterque exercitus].
 - one ... other (of two), alter ... alter.
-- choose, deligo, -ere, -legi, -lectum.
-- prevail, supero, I.
+- choose, delĭgo, -ĕre, -lēgi, -lectum.
+- prevail, sŭpĕro, I.
 - spear, hasta.
-- slip, labor.
-- deadly, mortifer, funestus.
-- rush, ruo, -ere, rui, ruitum.
-- rush forward, proruo.
+- slip, lābor.
+- deadly, mortifer, fūnestus.
+- rush, rŭo, -ĕre, rui, ruitum.
+- rush forward, prōruo.
 - be born, nascor, -i, natus.
-- carry off, abripio, -ere, -ui, -reptum.
+- carry off, abripio, -ĕre, -ui, -reptum.
 
 ## Exercise 167.
 
-- carelessness, negligentia.
-- surprise, opprimo.
+- carelessness, neglĭgentia.
+- surprise, opprĭmo.
 - in front, a fronte.
 - waggon, plaustrum.
 - artillery, tormenta, n. pl.; ballistae.
@@ -1830,395 +1830,394 @@ N.B. In these Vocabularies the principal parts of Irregular Verbs are given wher
 ## Exercise 168.
 
 *Verbs and phrases to be followed by quin.*
-- non dubito quin.
-- non est dubium quin.
+- non dŭbĭto quin.
+- non est dŭbium quin.
 - quis dubitat quin ? (virtual neg.).
-- fieri non potest quin, it is impossible that ... not.
+- fiĕri non potest quin, it is impossible that ... not.
 - facere non possum quin, I cannot help ....
 - minimum abest quin, be within a very little of (always impersonal).
 - nihil praetermitto quin, leave nothing undone to.
-- nemo est quin sciat, there is nobody who does not know; everybody knows ; all the world knows.
+- nēmo est quin sciat, there is nobody who does not know; everybody knows ; all the world knows.
 
 - do wrong, pecco, I.
-- be on one's side, faveo, dat.; ab aliquo stare.
-- keep word, fidem praesto.
+- be on one's side, făveo, dat.; ab aliquo stare.
+- keep word, fĭdem praesto.
 
 ## Exercise 169.
 
-- birth, race, genus, -eris, n.
-- scorn, contemno, -ere, -tempsi, -temptum.
+- birth, race, gĕnus, -ĕris, n.
+- scorn, contemno, -ĕre, -tempsi, -temptum.
 - by force of arms, vi et armis.
-- multitude, plebs, plebis, f.
+- multitude, plebs, plēbis, f.
 
 ## Exercise 170.
 
 *Verbs of hindering and preventing, which may be followed by quominus, and when neg. by quin*
-- hinder, impedio, acc., obsto, dat.
-- prevent, prohibeo (which prefers Inf.).
+- hinder, impĕdio, acc., obsto, dat.
+- prevent, prŏhĭbeo (which prefers Inf.).
 - deter, deterreo.
-- refuse, recuso, I. (also with Inf. in Neg. sentences).
+- refuse, rĕcūso, I. (also with Inf. in Neg. sentences).
 - it was due to you that ... not, per te stetit quominus.
  
 - Alps, Alpes, pl.
-- weigh anchor, ancoras tollo.
+- weigh anchor, ancŏras tollo.
 
 ## Exercise 171.
 
-- pass a law, legem jubeo.
-- threat, minae.
-- destroy, deleo.
+- pass a law, lēgem jūbeo.
+- threat, mĭnae.
+- destroy, dēleo.
 - supply, praebeo; acc. of thing, dat. of person.
-- tribune, tribunus (plebis).
+- tribune, trĭbunus (plebis).
 
 ## Exercise 172.
 
-- hesitate, dubito, with Inf.
-- Salamis, Salamis (acc. -ina).
+- hesitate, dŭbito, with Inf.
+- Salamis, Salamis (acc. -īna).
 
 ## Exercise 173.
 
 - make an assault, oppugno, I.
-- report, refero; nuntio, I.
-- cause panic, pavorem injicio, dat.
+- report, rĕfĕro; nuntio, I.
+- cause panic, păvōrem injĭcio, dat.
 - base, turpis.
 
 ## Exercise 174.
 
 - the salvation of. Cf. Ex. 85.
-- again and again, identidem.
-- with great loss, plurimis amissis, magna strage.
-- offer a prayer to, invoke, precor, I.
-- drown, submergo, -ere, -mersi, -mersum.
-- contrary to expectation, praeter spem, opinionem.
+- again and again, ĭdentĭdem.
+- with great loss, plūrimis āmissis, magnā strāge.
+- offer a prayer to, invoke, prĕcor, I.
+- drown, submergo, -ĕre, -mersi, -mersum.
+- contrary to expectation, praeter spem, ŏpinionem.
 - repulse, repello.
 
 ## Exercise 175.
 
-- provoke, lacesso.
-- ambassador, legatus.
-- violate, violo, I.
+- provoke, lăcesso.
+- ambassador, lēgatus.
+- violate, viŏlo, I.
 - take part in, interesse, dat.
-- vow, juro, I.
+- vow, jūro, I.
 - with the help of the gods, cum dis.
 - avenge, ulciscor, -i, ultus.
 - for some time, aliquamdiu.
-- be amazed, miror, I.
+- be amazed, mīror, I.
 
 ## Exercise 176.
 
 - as many as, tot ... quot.
-- neighbour, neighbouring, vicinus.
-- to the last, ad ultimum, ad extremum.
-- shut up, claudo, -ere, -si, -sum.
+- neighbour, neighbouring, vīcīnus.
+- to the last, ad ultĭmum, ad extrēmum.
+- shut up, claudo, -ĕre, -si, -sum.
 - survive, superesse, dat.
-- independence, freedom, libertas.
+- independence, freedom, lībertas.
 
 ## Exercise 177.
 
-- greet, saluto, I.
-- stretch out, porrigo, -ere, -rexi, -rectum.
+- greet, sălūto, I.
+- stretch out, porrigo, -ĕre, -rexi, -rectum.
 - despatches, litterae.
-- read through, perlego, -legi, -lectum.
-- draw a circle round, circumscribo.
+- read through, perlĕgo, -lēgi, -lectum.
+- draw a circle round, circumscrībo.
 - red, virga.
 
 ## Exercise 178.
 
 - shed (tears), effundo.
-- jealousy, invidia.
-- hatred, odium.
+- jealousy, invĭdia.
+- hatred, ŏdium.
 - to be most important, maximi interesse (Voc. 109).
 
 ## Exercise 179.
 
-- elated, elatus.
-- departure, discessus, -us, m.; profectio.
+- elated, ēlātus.
+- departure, discessus, -ūs, m.; prŏfectio.
 - more. (See Synonyms.)
 - boast, jacto, I.
 - transfer, transfero.
 - land forces, terrestres copiae.
-- make straight for, recto cursu peto.
-- ravage, populor, I.; vasto, I.
-- unconquerable, invincible, invictus. indomitus.
+- make straight for, recto cursu pĕto.
+- ravage, pŏpŭlor, I.; vasto, I.
+- unconquerable, invincible, invictus, indŏmitus.
 
 ## Exercise 180.
 
-- a cry was raised, clamatum est.
-- reverse, incommodum.
+- a cry was raised, clāmatum est.
+- reverse, incommŏdum.
 - give battle to, proelium committere cum.
-- centre (of army), media acies.
-- wing, ala.
+- centre (of army), mĕdia ăcies.
+- wing, āla.
 - on both sides, utrimque.
-- foremost ranks, primi ordines.
-- flank, latus, -eris, n.
-- soldier of the line, legionarius miles.
+- foremost ranks, prīmi ordines.
+- flank, lătus, -ĕris, n.
+- soldier of the line, lĕgionarius miles.
 
 ## Exercise 181.
 
 - bring forward (a law), fero.
-- common people, plebs, plebis.
-- satisfy, indulgeo, -ere, -si, -tum.
+- common people, plebs, plēbis.
+- satisfy, indulgeo, -ēre, -si, -tum.
 - aim at, peto.
-- kingship, regnum, regia potestas.
-- deliver a speech before, orationem habere apud.
-- lessen, diminish, diminuo.
-- iniquitous, (unjust), iniquus.
+- kingship, regnum, rēgia pŏtestas.
+- deliver a speech before, ōrātionem hăbēre ăpud.
+- lessen, diminish, dīmĭnuo.
+- iniquitous, (unjust), inīquus.
 
 ## Exercise 182.
 
 - before, antequam, priusquam.
 - after, postquam.
 *N.B. Ante, prius, post, may be separated from quam by the principal verb and other words. See the last example.*
-- until, dum, donec, quoad.
+- until, dum, dōnec, quoad.
 - whilst, as long as, donec, quoad.
-- as so n as, simulac.
-- as often as, quoties.
+- as so n as, sĭmŭlac.
+- as often as, quŏties.
 - since, from the time when, ex quo tempore.
 
 ## Exercise 183.
 
 - man, compleo.
-- raise a shout, clamorem tollo.
+- raise a shout, clāmōrem tollo.
 - advance standards, signa fero.
 - pass, praetereo.
 
 ## Exercise 184.
 
-- finish, complete, perficio.
-- address, contionor apud.
-- take the field, exercitum educo.
+- finish, complete, perfĭcio.
+- address, contiōnor ăpud.
+- take the field, exercitum ēdūco.
 - in close order, confertus, conferto agmine.
 
 ## Exercise 185.
 
 - stand firm, resisto.
-- province, pr vincia.
-- resign the consulship, abire (se abdicare) consulatu.
-- field (of battle), acies.
-- give leave, jubeo.
-- adjourn, be dismissed, dimittor.
+- province, prōvincia.
+- resign the consulship, abire (se abdicare) consŭlatu.
+- field (of battle), ăcies.
+- give leave, jŭbeo.
+- adjourn, be dismissed, dīmittor.
 
 ## Exercise 186.
 
 - armament, classis.
-- prevail upon, persuadeo.
-- result (n.),  ventus. result (vb.), evenio.
-- unfortunate, infelix.
+- prevail upon, persuādeo.
+- result (n.), ēventus, result (vb.), evenio.
+- unfortunate, infēlix.
 - fall into confusion, perturbor, I.
 - with one another, inter se.
-- darkness, tenebrae,
-- reduce, redigo.
+- darkness, tĕnebrae,
+- reduce, rĕdĭgo.
 
 ## Exercise 187.
 
 - feign, simulo.
-- south, meridies, -ei, m.
+- south, mĕridies, -ēi, m.
 - despair, spem abjicio.
-- feast, eplor, I.
-- drink, bibo, -ere, bibi.
+- feast, ĕpŭlor, I.
+- drink, bĭbo, -ĕre, bĭbi.
 - win the day, vinco.
-- feign, simulo, I.
-- entice, elicio, -ere, -cui, -citum.
-- havoc, strages, -is, f.
-- pierce, transfigo, -ere, -fixi, fixum.
+- feign, sĭmŭlo, I.
+- entice, ēlĭcio, -ĕre, -cui, -citum.
+- havoc, strāges, -is, f.
+- pierce, transfīgo, -ĕre, -fixi, fixum.
 
 ## Exercise 189.
 
-- relief, auxilium.
+- relief, auxĭlium.
 
 ## Exercise 190.
 
-- come upon, incido in.
-- cut down, succido, -ere, -cidi, -cisum.
-- without doubt, sine dubio.
+- come upon, incĭdo in.
+- cut down, succīdo, -ĕre, -cīdi, -cīsum.
+- without doubt, sine dŭbio.
 - quietly, unobserved, clam.
-- recall, revoco, I.
-- prosper, rem gero prospere.
+- recall, rĕvŏco, I.
+- prosper, rem gĕro prospĕre.
 - treat for, ago de.
 
 ## Exercise 191.
 
-- keep, detain, retineo.
+- keep, detain, rĕtĭneo.
 - victorious, victor.
-- conspirator, conjuratus.
+- conspirator, conjūratus.
 - gather round, cingo.
 - in time, ad tempus, tempori.
-- hold a conference, colloquor.
+- hold a conference, collŏquor.
 - stealthily, furtim.
-- lead aside, deduco.
+- lead aside, dēdūco.
 
 ## Exercise 192.
 
 - raise a siege, desistere obsidione.
 - run short, fail, deficio.
 - hold out (of provisions), suppeto.
-- harass, lacesso.
-- renew, redintegro, I.; renovo, 1.
+- harass, lăcesso.
+- renew, rĕdintegro, I.; rĕnŏvo, 1.
 
 ## Exercise 193.
 
-- wander, vagor, I.; erro, I.
+- wander, văgor, I.; erro, I.
 - be annoyed at, taken ill, aegre fero.
 - repay, reddo.
-- without accomplishing anything, re infecta.
-- appease, paco, I.
+- without accomplishing anything, re infectā.
+- appease, pāco, I.
 - take part in, interesse. Cf. Ex. 61.
 - credit, laus, -dis, f.
-- fresh, integer.
-- riot, tamultus, us, t.
-- insult, injuria, contumelia.
+- fresh, intĕger.
+- riot, tŭmultus, ūs, t.
+- insult, injūria, contŭmēlia.
 - come to an agreement, consentio, -ire, -sensi, -sensum.
-- noon, meridies.
-- bring to trial, reum facio.
+- noon, mĕrīdies.
+- bring to trial, reum făcio.
 
 ## Exercise 194.
 
-- disheartened, metu commotus.
-- defeat, clades, is, f.; incommodum.
-- propose, censeo, - re, censui [acc. and inf. or subj.].
-- meet with, patior, -i, passus.
+- disheartened, mĕtu commōtus.
+- defeat, clādes, is, f.; incommŏdum.
+- propose, censeo, -ēre, censui [acc. and inf. or subj.].
+- meet with, pătior, -i, passus.
 - still, adhuc.
-- possible, translate by facio or fieri potest.
-- western part, pars quae ad occasum solis spectat.
-- interior, pars interior.
+- possible, translate by facio or fiĕri pŏtest.
+- western part, pars quae ad occāsum sōlis spectat.
+- interior, pars intĕrior.
 
 ## Exercise 195.
 
 - appoint, constituo.
-- fatal, funestus.
-- in despair, re or salute desperata; spe abjecta.
+- fatal, fūnestus.
+- in despair, re or sălūte desperata; spe abjectā.
 - for this purpose, ad hoc.
-- in two divisions, bipartito.
-- red, ruber, -bra, -brum.
-- poison, venenum.
+- in two divisions, bĭpartīto.
+- red, rŭber, -bra, -brum.
+- poison, vĕnēnum.
 - Syracuse, Syracusae.
 
 ## Exercise 196.
 
 - obstacle, difficultas.
-- surmount, supero, I.
-- so signally, tanta strage.
-- ambuscade, insidiae. In the last sentence use ex insidiis invadere.
-- open fight, pitched battle, justum proelium, acies.
-- in the guise of, more.
+- surmount, sŭpĕro, I.
+- so signally, tantā strāge.
+- ambuscade, insĭdiae. In the last sentence use ex insidiis invadĕre.
+- open fight, pitched battle, justum proelium, ăcies.
+- in the guise of, mōre.
 - warning, exemplo esse. Cf. Ex. 85.
-- make trial of, experior.
-- considering, calculating, ratus (reor).
-- rashly, temere, inconsulte.
+- make trial of, expĕrior.
+- considering, calculating, rătus (reor).
+- rashly, tĕmĕre, inconsulte.
 - slight, aspernor, I.
 - narrow, angustus, artus.
 
 ## Exercise 197.
 
-- without success, to no purpose,
-- frustra, nequicquam.
-- private citizen, privatus.
-- wholly, altogether [with neg. and virtual neg.], omnino.
-- seat of war, sedes belli.
-- assign, attribuo.
+- without success, to no purpose, frustrā, nēquicquam.
+- private citizen, prīvātus.
+- wholly, altogether [with neg. and virtual neg.], omnīno.
+- seat of war, sēdes belli.
+- assign, attrĭbuo.
 - control of campaign, chief command, totius belli summa, summa imperii
 - in triumph, victor. [Triumphus = the triumphal procession of a Roman general.]
 
 ## Exercise 198.
 
-- dawn, illucescit, illuxit.
-- break down, proruo.
-- seek refuge in, fly for refuge to, confugio ad.
-- incensed with, iratus, dat.
+- dawn, illūcescit, illuxit.
+- break down, prōruo.
+- seek refuge in, fly for refuge to, confŭgio ad.
+- incensed with, īratus, dat.
 - partly, partim.
 - hitherto, adhuc.
-- grudge, resentment, invidia.
+- grudge, resentment, invĭdia.
 
 ## Exercise 199.
 
-- dream, vb. somnio, I .; somnio video [= to see in a dream].
+- dream, vb. somnio, I.; somnio vĭdeo [= to see in a dream].
 - dream, n. somnium.
-- egg, ovum.
+- egg, ōvum.
 - hang, intr. pendeo.
 - hang, trans. suspendo.
-- mean, indicate, significo, I.
-- bed, cubile, n.
-- dig, fodio.
-- I for my part, equidem [use only with ist pers. sing.].
-- be vexed, aegre or moleste fero.
+- mean, indicate, signĭfĭco, I.
+- bed, cŭbīle, n.
+- dig, fŏdio.
+- I for my part, ĕquĭdem [use only with ist pers. sing.].
+- be vexed, aegre or mŏleste fero.
 
 ## Exercise 200.
 
-- charge, crimen, -nis, n.
-- prosperity, advantage, commodum.
-- to the best of his ability, pro virili parte.
-- devotion, studium.
-- desperate, perditus.
-- assume, usurpo, I.
-- supreme power, summa imperii.
-- crisis, discrimen.
-- wrong, injuria.
+- charge, crimen, -ĭnis, n.
+- prosperity, advantage, commŏdum.
+- to the best of his ability, pro vĭrīli parte.
+- devotion, stŭdium.
+- desperate, perdĭtus.
+- assume, ūsurpo, I.
+- supreme power, summa impĕrii.
+- crisis, discrīmen.
+- wrong, injūria.
 
 ## Exercise 201.
 
 - fit to, aptus, dignus qui (a consecutive clause).
-- governor of a province, proconsul.
-- worship, colo.
-- rob, spolio, I.; diripio.
-- offend, displiceo, dat.
-- character, m res, pl.
+- governor of a province, prōconsul.
+- worship, cŏlo.
+- rob, spŏlio, I.; dīripio.
+- offend, displĭceo, dat.
+- character, mōres, pl.
 - commit, admitto.
 - theft, furtum.
-- thief, fur, furis, m.
-- jest, jocus, -i, m.
-- justify, excuso, I.
-- cup, poculum.
-- statue, statua.
-- stretch out, extendo, porrigo.
-- benefit, beneficium.
-- now for a long time, jampridem, jamdudum.
+- thief, fūr, fūris, m.
+- jest, jŏcus, -i, m.
+- justify, excūso, I.
+- cup, pōcŭlum.
+- statue, stătua.
+- stretch out, extendo, porrĭgo.
+- benefit, bĕnĕficium.
+- now for a long time, jāmprīdem, jāmdudum.
 - cloak, pallium.
-- military cloak, sagum
+- military cloak, săgum
 - wear, pass. of induo, vestio.
-- woollen, laneus. wool, lana.
+- woollen, lāneus. wool, lāna.
 
 ## Exercise 203.
 
 - on foot, pedibus.
-- restrain, moderor, I., dat.
-- prudent, prudens.
+- restrain, mŏdĕror, I., dat.
+- prudent, prūdens.
 
 ## Exercise 204.
 
-- mock, irrideo, dat.
+- mock, irrīdeo, dat.
 - throw bridge over, pontem facio in, abl.
-- straight, recto itinere, directo.
-- subdue, subigo, in potestatem redigo.
-- none the less, nihilominus.
-- tribute, tributum, vectigal, -alis, n.
-- impose, impono.
-- prosperous, felix.
-- wrong, injuriam facio, dat.
-- revenge oneself on, poenas sumo de; ulciscor, acc.
-- bribery, ambitus, -us, m.
-- it is no advantage, minime prodest.
+- straight, recto ĭtinere, dīrecto.
+- subdue, subĭgo, in pŏtestatem rĕdĭgo.
+- none the less, nĭhĭlōmĭnus.
+- tribute, tributum, vectīgal, -ālis, n.
+- impose, impōno.
+- prosperous, fēlix.
+- wrong, injūriam facio, dat.
+- revenge oneself on, poenas sūmo de; ulciscor, acc.
+- bribery, ambĭtus, -ūs, m.
+- it is no advantage, minime prōdest.
 
 ## Exercise 205.
 
 - poet, poeta.
-- relieve, sublevo, I.
-- capitol, capitolium.
-- in former times, antiquitus.
+- relieve, sublĕvo, I.
+- capitol, căpĭtōlium.
+- in former times, antīquĭtus.
 - capable of, aptus ad.
 - false, falsus.
-- certainly, certo, sine dubio.
-- starve, fame pereo.
+- certainly, certo, sĭne dŭbio.
+- starve, făme pereo.
 
 ## Exercise 206.
 
-- take place of, succedo, dat.
-- cut down, occido.
-- front rank, prima acies.
-- remind, admoneo.
-- bill, rogatio.
-- influence, auctoritas.
-- have influence, valeo.
-- arrest, comprehendo, -ere, -di, -sum.
+- take place of, succēdo, dat.
+- cut down, occīdo.
+- front rank, prima ăcies.
+- remind, admŏneo.
+- bill, rŏgātio.
+- influence, auctōritas.
+- have influence, văleo.
+- arrest, comprehendo, -ĕre, -di, -sum.
 
 ## Exercise 207.
 
