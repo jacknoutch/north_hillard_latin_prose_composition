@@ -1424,189 +1424,189 @@ N.B. In these Vocabularies the principal parts of Irregular Verbs are given wher
 
 ## Exercise 126.
 
-- visit, viso, -ere, -si, -sum.
-- unlike, dissimilis.
-- discuss, dissero, -ere, ui, -tum (de).
-- fortunate, felix.
-- happy, beatus.
+- visit, vīso, -ĕre, -si, -sum.
+- unlike, dissĭmilis.
+- discuss, dissĕro, -ĕre, ui, -tum (de).
+- fortunate, fēlix.
+- happy, beātus.
 - whoever, whatever, quisquis, quicquid, or quicunque, quaecunque, quodcunque.
 
 ## Exercise 127.
 
-- piety, duty (natural affection), pietas.
-- ox, bos, bovis, c.
-- drag, draw, trho, -ere, traxi, tractum.
+- piety, duty (natural affection), piĕtas.
+- ox, bōs, bŏvis, c.
+- drag, draw, trăho, -ĕre, traxi, tractum.
 - cart, carrus, -i, m.
 - both, ambo.
-- prove, demonstro, I.
+- prove, dēmonstro, I.
 - liable to, obnoxius, dat.
 - misfortune, res adversae.
-- honorable (of things), honestus. (of persons), probus.
-- indeed, revera.
+- honorable (of things), hŏnestus. (of persons), prŏbus.
+- indeed, rēvērā.
 
 ## Exercise 128.
 
 *Impersonal Verbs.*
 - A.
- - me miseret, I pity.
+ - me mĭseret, I pity.
  - me taedet, I am tired of.
- - me pudet, I am ashamed of.
+ - me pŭdet, I am ashamed of.
  - me paenitet, I am sorry for, I repent.
 
 *The above "verbs of feeling" may take a Genitive for a further object; e.g. me paenitet crudelitatis, I am sorry for my cruelty.*
 
 - B.
- - me decet, it is becoming to me.
- - me oportet, it is my duty, I ought.
+ - me dĕcet, it is becoming to me.
+ - me ŏportet, it is my duty, I ought.
 
 - C.
- - mihi placet, I am pleased, it seems good to me, I am resolved.
- - mihi licet, I am allowed, I may.
- - mihi accidit, it happens to me.
+ - mihi plăcet, I am pleased, it seems good to me, I am resolved.
+ - mihi lĭcet, I am allowed, I may.
+ - mihi accĭdit, it happens to me.
  - mihi, contingit, it happens to me (generally of good fortune).
 
 *All the verbs B and C may be followed by an Infinitive. C may be followed by a Subjunctive. (For interest, retert, see Voc. 109.)*
 
 ## Exercise 129.
 
-- of one's own accord, sua sponte.
-- parent, parens.
+- of one's own accord, suā sponte.
+- parent, părens.
 - deed, factum.
 
 ## Exercise 130.
 
-- cowardice, ignavia.
-- kind, benignus.
-- kindness, benignitas, benevolentia, beneficium ( = act of kindness).
-- towards (of feelings), erga, acc.
-- staff ( = officers), legati.
+- cowardice, ignāvia.
+- kind, bĕnignus.
+- kindness, benignitas, bĕnĕvolentia, bĕnĕfĭcium ( = act of kindness).
+- towards (of feelings), ergā, acc.
+- staff ( = officers), lĕgati.
 
 ## Exercise 131.
 
 *Words followed by genitive.*
-- remember, memini (sometimes acc.).
-- forget, obliviscor (sometimes acc).
-- recall, recollect, reminiscor (sometimes acc.).
-- remind, admoneo, acc. and gen.
-- accuse, accuso, I., acc and gen.
-- pity, misereor.
-- mindful, memor.
-- forgetful, immemor.
-- ignorant of, inscius, imperitus.
-- skilled in, peritus.
+- remember, mĕmĭni (sometimes acc.).
+- forget, oblīviscor (sometimes acc).
+- recall, recollect, rĕmĭniscor (sometimes acc.).
+- remind, admŏneo, acc. and gen.
+- accuse, accūso, I., acc and gen.
+- pity, mĭsĕreor.
+- mindful, mĕmor.
+- forgetful, immĕmor.
+- ignorant of, inscius, impĕrītus.
+- skilled in, pĕrītus.
 - experienced in, expertus.
-- anxious to, desirous of, cupidus.
-- eager for, avidus.
+- anxious to, desirous of, cŭpĭdus.
+- eager for, ăvĭdus.
 - unaccustomed to, insuetus.
-- recollection, remembrance, memoria.
-- skill, peritia.
-- desire, cupido, studium,
-- knowledge (of things), cognitio (of persons), acquaintance, consuetudo, -inis, f.
-- belonging to other people, alienus.
-- address, alloquor, -i, -locutus.
+- recollection, remembrance, mĕmŏria.
+- skill, perītia.
+- desire, cŭpīdo, stŭdium.
+- knowledge (of things), cognĭtio (of persons), acquaintance, consuētūdo, -inis, f.
+- belonging to other people, ăliēnus.
+- address, allŏquor, -i, -lŏcūtus.
 - absent, absens.
-- necessary, necessarius.
-- past, praeteritus.
-- for the sake of honour, honoris causa.
-- administer public affairs, rempublicam administro, I.
+- necessary, nĕcessārius.
+- past, praetĕrĭtus.
+- for the sake of honour, hŏnōris causā.
+- administer public affairs, rempublicam admĭnistro, I.
 
 ## Exercise 132.
 
-- spend (life, period of time, etc.), ago.
-- treachery, proditio.
-- powerful, potens.
-- design, consilium.
-- give up, abandon, relinquo, acc.; desisto, abl.
-- swim, nato, I.
+- spend (life, period of time, etc.), ăgo.
+- treachery, prōdĭtio.
+- powerful, pŏtens.
+- design, consĭlium.
+- give up, abandon, rĕlinquo, acc.; desisto, abl.
+- swim, năto, I.
 
 ## Exercise 133.
 
 - now, moreover (continuing a narrative), autem (second word).
-- ship of war, longa navis.
-- several, aliquot, complures.
-- turn back (especially with object unaccomplished), revertor.
-- proud, superbus.
-- looks, expression, face, vultus, -us, m.
-- dress, attire, ornatus, -us.
+- ship of war, longa nāvis.
+- several, ălĭquot, complūres.
+- turn back (especially with object unaccomplished), rĕvertor.
+- proud, sŭperbus.
+- looks, expression, face, vultus, -ūs, m.
+- dress, attire, ornatus, -ūs.
 - splendid, insignis.
 - come on board, embark, (in) navem conscendo.
-- embark (trans.), impono (milites, etc.).
-- land, disembark (intr.), egredior e navi; (trans.) expono (milites, etc.).
-- by chance, forte, casu.
+- embark (trans.), impōno (milites, etc.).
+- land, disembark (intr.), ēgredior e navi; (trans.) expono (milites, etc.).
+- by chance, forte, cāsu.
 
 ## Exercise 134.
 
-- need, egeo, indigeo, abl. or gen. he needs money, opus est ei pecunia.
-- be without, lack, careo, abl.
-- kindly, benigne.
-- hold on course, cursum tenere.
+- need, ĕgeo, indĭgeo, abl. or gen. he needs money, opus est ei pecuniā.
+- be without, lack, căreo, abl.
+- kindly, bĕnigne.
+- hold on course, cursum tĕnēre.
 
 ## Exercise 135.
 
-- lately, nuper.
-- inhabitant (of country), incola. (of city), civis. (of town), oppidanus.
-- garment, vestis, -is, f .; vestimentum.
-- stream, rivus, -i.
+- lately, nūper.
+- inhabitant (of country), incŏla. (of city), cīvis. (of town), oppĭdānus.
+- garment, vestis, -is, f.; vestīmentum.
+- stream, rīvus, -i.
 - a certain (= Indefinite Article), quidam.
-- want, cupio.
+- want, cŭpio.
 - flow, fluo.
-- rise, orior.
-- outside, extra.
-- district, regio, -onis, f.
+- rise, ŏrior.
+- outside, extrā.
+- district, rĕgio, -onis, f.
 
 ## Exercise 136.
 
 - with the intention of, eo consilio ut.
-- wreck (of ship), frango, -ere, fregi, fractum.
-- to be shipwrecked, ejicior in litus (or litore).
+- wreck (of ship), frango, -ĕre, frēgi, fractum.
+- to be shipwrecked, ejĭcior in litus (or litŏre).
 
 ## Exercise 137.
 
-- key, clavis, -is, f.
+- key, clāvis, -is, f.
 - elders, patres.
 - give an opinion, sententiam fero.
-- wake, arouse, excito, I.
-- at least, certe, saltem.
+- wake, arouse, excĭto, I.
+- at least, certē, saltem.
 
 ## Exercise 138.
 
-- recognise, agnosco, -ere, -novi, -nitum.
-- mob, turba, multitudo.
-- in no wise, haudquaquam.
-- drag, traho.
-- magistrate, magistratus, -us.
-- detain, retineo.
+- recognise, agnosco, -ĕre, -nōvī, -nĭtum.
+- mob, turba, multitūdo.
+- in no wise, haudquāquam.
+- drag, trăho.
+- magistrate, măgistratus, -ūs.
+- detain, rĕtĭneo.
 
 ## Exercise 139.
 
-- sister, soror.
-- village, vicus.
-- entrance, os (oris), n., ostium, aditus, -us, n.
-- cavern, spelunca.
+- sister, sŏror.
+- village, vīcus.
+- entrance, ōs (ōris), n., ostium, adĭtus, -ūs, n.
+- cavern, spēlunca.
 - limb, membrum.
-- form, forma, figura.
-- colour, color.
-- skin, cutis, -is, f.
-- tinge, tingo, -ere, tinxi, tinctum.
-- green, viridis.
-- set before, offero, propono.
-- touch, tango, -ere, tetigi, tactum.
-- torment, torture, crucio, I.
+- form, forma, figŭra.
+- colour, cŏlor.
+- skin, cŭtis, -is, f.
+- tinge, tingo, -ĕre, tinxi, tinctum.
+- green, vĭrĭdis.
+- set before, offĕro, prōpōno.
+- touch, tango, -ĕre, tĕtĭgi, tactum.
+- torment, torture, crŭcio, I.
 - sad, gloomy, tristis.
-- tear, lacrima.
+- tear, lacrĭma.
 
 ## Exercise 140.
 
-- accustomed to, assuetus ad, assuefactus ad.
-- healthy, sanus.
-- light, lux, lucis, f.
-- flock, grex, gregis, m.
-- sound, sonus, -i, m.; sonitus, -us, m.
-- wander, vagor, I.
-- stupefied, stupefactus.
-- excessive, nimius.
-- heat, calor.
-- thus, sic, hoc modo.
+- accustomed to, assuētus ad, assuēfactus ad.
+- healthy, sānus.
+- light, lux, lūcis, f.
+- flock, grex, grĕgis, m.
+- sound, sŏnus, -i, m.; sŏnĭtus, -ūs, m.
+- wander, văgor, I.
+- stupefied, stŭpĕfactus.
+- excessive, nĭmius.
+- heat, călor.
+- thus, sic, hoc mŏdo.
 
 ## Exercise 141.
 
