@@ -80,8 +80,60 @@ e.g.
 
 ¹ Never write such a sentence as "Capta urbe, Graeci eam incenderunt." The Abl. Abs. is only to be used where the participle _cannot_ agree with subject or object.
 
+[page 26]
+
 1. Do not invent a Passive Participle of Intransitive Verbs. Saying "Caesare pervento" is absurd as saying "perventus est" for _he arrived_. Latin having no Perfect Part. Active, the only way to rener "Caesar having arrived" is "Caesar quum pervenisset."¹
 
 2. On the other hand remember that Deponents have Perfect Participles with an Active sense, though their form is Passive; e.g. locutus = having said, aggressus = having attacked, ratus = thinking, etc.
 
 ¹ See the first part of Rule 26, p. 144.
+
+[page 27]
+
+1. "_Saying this, he fled_" is a loose way of expressing "_Having said this he fled_"; and in Latin must be "Haec looutus fugit." The Present Participle always denotes an action going on at the same time as the action of the principle verb, whatever the tense of that verb may be; e.g. Hoc jam moriens dixit=he said this while dying.
+
+2. We must often use participles in Latin where they are not used in English.
+ 1. Where English uses two simple verbs joined by "and" or "but"; e.g. _Numa died and Tullus became king_=Mortuo Numa Tullus rex factus est; _He took him and slew him_-Captum eum interfecit.
+ 2. Where English uses phrases with prepositions or conjunctions; e.g. _He was killed while hunting_=interfectus est venans; _on the death of Numa_=mortuo Numa; _after advancing a mile_=mille passus progressus.
+ 3. Where English uses clauses denoting time, cause, etc.; e.g _When Tullus was king_=regnante Tullo; _As the soldiers would not follow, he remained_ = nolentibus sequi militibus, mansit.
+
+## Time, Place, Space
+
+**Rule 6.**
+
+### Time.
+
+To be expressed without a preposition.
+
+| Sense | Case | Example |
+|-------|------|---------|
+| Time during which | Accusative. | e.g. Triginta annos vivit. _He lived 30 years._ |
+| Time when. | Ablative. | e.g. Tricesimo anno mortuus est. _He died in the 30th year._ |
+| Time within which | Ablative. | e.g. Multis annis Romam non venit. _For many years he did not go to Rome._ |
+
+N.B.
+
+- Undeviginti annos natus. _Nineteen years old._
+- Tribus ante (post) diebus. _Three days before (after)._  
+- Abhinc tres dies. _Three days ago._
+
+### Place
+
+To be expressed with a preposition, except in the case of towns, small islands, domus, rus.
+
+| Sense | Case | Example |
+|-------|------|---------|
+| Place whither. | Accusative. | e.g. In urbem. _into the city._ Athenas, _to Athens._ |
+| Place whence. | Ablative. | e.g. Ex Italia, _out of Italy._ Romā, _from Rome._ Domo, _from home._|
+| Place where. | Ablative. | e.g. In urbe. _in the city._|
+
+But to express place where use the Locative of towns, small islands, domus, rus, humus; e.g. Romae, Athenis, Corinthi, Rhodi, ruri, humi.
+
+### Extent of Space
+
+To be expressed by the Accusative without a preposition.
+
+e.g. 
+- Tria millia passuum progressus. _Having advanced three miles._
+- Tredecim pedes altus (latus, longus). _Thirteen feet high (broad, long)._
+- Castra ab urbe aberant millia passuum ducenta. _The camp was distant from the city 200 miles._
