@@ -182,3 +182,61 @@ Infinitive must always be expressed.
 | Regrediar. _I shall return._ | Spero me regressurum esse. _I hope to return._ |
 
 ¹ For the explanation of this construction see p. 82, note 1.
+
+## Se, Ipse
+
+Latin has no Reflexive Pronoun of the 1st and 2nd Persons, but ipse may be used as an adj, in agrcement with the Pronoun (expressed or understood from the verb); e.g. tu ipse=you yourself, mihi ipsi=to me myself, vos ipsos=you yourselves.
+
+In the 3rd Person se is the Reflexive Pronoun, both Masc, and Fem., Sing. and Plu. It has no Nom., and for 'he himself,' 'they themselves' we must use ipse, ipsi in agreement with the subject.
+
+**Rule 7.** In simple sentences "se" refers to the subject of its own clause. In Indirect Statement (Acc. with Inf.) use
+se with reference to the subject of the principal verb; i.e. the verb of 'saying.' 'Eum,' 'eos' must not be used for the speaker.
+
+The adj. suus follows the same rule, and ejus must not be used for it.
+
+### Examples
+
+- Ad eum discedite (vos) ipsi. _Go to him yourselves._
+- Se sua pecunia liberavit. _He freed himself with his own money._
+- Ariovistus respondet non sese iis sed eos sibi bellum intulisse. _Ariovistus replied that he had not waged war on them (the Gauls), but they on him._
+
+## Tenses of the Infinitive in Indirect Statement
+
+**Rule 8.** If the time referred to by the Infinitive is the same as the time of the verb of saying or thinking, the Present must be used. Otherwise use the Perfect or Future according to the tense of English.
+
+The tense of the Infinitive is always the tense that was used by the speaker in Direct Statement; e.g. "He said he was ill." The actual words were, "I am ill." Therefore use the Present Infinitive.
+
+### Examples
+
+(a) Caesar per exploratores cognovit et montem a suis teneri et Helvetios castra movisse.
+
+_Caesar ascertained through scouts that the mountain was being held by his own men, and that the Helvetii had moved their camp._
+
+## Price and Value.
+
+The 'Genitive of Value' (tanti, quanti, minoris, minimi, magni, pluris, flocci, etc .- which are properly Locatives) is only to be used of indefinite value with verbs of estimating or valuing.
+
+If the price is exactly stated the Ablative of Price (which is really an Abl. of Instrument) must be used.
+
+e.g. Multis talentis emptam domum nihili aestimat. _A house bought for many talents he values at nothing._
+
+## Partitive Genitive
+
+Britannorum fortissimi = _Bravest of/among the Britons._
+
+nimis, parum, satis, aliquid virtutis = _too much, too little, enough, some courage_
+
+## Passive of Intransitive Verbs
+
+**Rule 9.** Intransitive Verbs cannot be used personally in the Passive, but they can be used impersonally:
+
+e.g. Pugnatum est diu = _the battle lasted long._ Concurritur undique = _men run together from all sides._
+
+We can often express the same English by an intrans. or by a trans. verb:
+
+e.g.
+- _The Romans are helped_ = succurritur Romanis, or juvantur Romani.
+- _I was commanded_ = imperatum est mihi, or jussus sum.
+- _I was advised_ = suasum est mihi, or monitus sum.
+
+N.B .- Remember that all "Dative Verbs" (i.e. all verbs that govern the Dative only) are Intransitive.
