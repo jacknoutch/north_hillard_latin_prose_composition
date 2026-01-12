@@ -94,20 +94,20 @@
 8. Tanta erat ejus fortitudo ut omnes eum laudarent vellentque eum sequi,
 9. Tam facile hoc fecit ut non defessus sit.
 10. Tales erant hae arbores ut non eas ascendere possemus.
-11. 
+    
 ## EXERCISE 8.
 
-1. Ita laboremus ut omnes nos laudent. 
- 2, Tot milites advenerant ut castra plena essent.
-2. Toties mare transivimus ut tempestates non timeamus.
-3. Toties me rogavit ut librum ei dederim.
-4. Copiae hostium tantae sunt ut eas despicere non possimus.
-5. Adeo territi sumus ut omnes fugeremus.
-6. Tot homines occisi sunt ut non rursus pugnaremus.
-7. Tam ignavi sunt ut in proelium redire non audeant.
-8. Satis validi sumus ut te servemus.
-9. Non satis validi eramus ut contra eos pugnaremus.
-10. Tam validi sunt ut laborare semper velint, neque fessi fiant.
+1. Ita laboremus ut omnes nos laudent.
+2. Tot milites advenerant ut castra plena essent.
+3. Toties mare transivimus ut tempestates non timeamus.
+4. Toties me rogavit ut librum ei dederim.
+5. Copiae hostium tantae sunt ut eas despicere non possimus.
+6. Adeo territi sumus ut omnes fugeremus.
+7. Tot homines occisi sunt ut non rursus pugnaremus.
+8. Tam ignavi sunt ut in proelium redire non audeant.
+9. Satis validi sumus ut te servemus.
+10. Non satis validi eramus ut contra eos pugnaremus.
+11. Tam validi sunt ut laborare semper velint, neque fessi fiant.
 
 ## EXERCISE 9.
 
