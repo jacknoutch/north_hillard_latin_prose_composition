@@ -1836,3 +1836,395 @@ Vidit quidam somnio ovum a summo cubili suspensum. Qui quum postero die amicum q
 ## EXERCISE 200.
 
 Hic quum patria falso crimine expulsus esset tamen non destitit quum facultas oblata erat (facultate oblata) ei pro virili parte servire. Non enim is fuit qui suum commodum reipublicae anteponeret, et affirmabat cives suos se cum opus esset revocaturos; quod ad tempus (ad id temporis) se velle in exsilio manere. Mox autem potestas facta est studii monstrandi. Conjuratio enim a nonnullis perditis facta est qui magistratibus interfectis ipsi summam imperii usurparent. In hoc discrimine cives exsulis memores nuntios mittunt qui eum rogarent ut sibi subveniret. Qui omnium injuriarum quas passus erat oblitus adventu suo civibus qui sese tam injuste usi erant salutem attulit.
+
+## EXERCISE 201.
+
+Rutilius non dignus fuit qui proconsul fieret. Profectus enim ex Asia dum Ephesum visit cujus urbis cives Dianam colunt templum illius deae spoliaverat; et multa alia fecit quae omnibus Romanis morum antiquorum displicerent. Verum etiam quum furtum admiserat id joco excusabat (jocum habebat quo id excusaret). Dixit quidem se libenter parva aurea pocula capere quae statuae deorum manibus porrectis tenebant (tenerent). Comitibus autem rogantibus nonne existimaret se aliquando poenas daturum esse respondit deos eum non esse punituros qui commoda precatus ipse caperet donum quod primum offerrent. Senex quoque eadem quae juvenis faciebat—moriturus enim “Unius quidem rei,” inquit, “me jamdudum paenitet quod aureum pallium quo Jupiter in templo suo in Messenia vestitus est non abstuli. Potui enim laneum pro aureo reddere.”
+
+## EXERCISE 202.
+
+1.  Si hoc facere potes statim faciendum est.
+2.  Si hoc facere possem statim facerem.
+3.  Pauperibus si indigere videbantur semper pecuniam dederunt.
+4.  Si captivi effugerint nos poenas dabimus.
+5.  Si tibi meo consilio opus esse existimarem te juvare conarer.
+6.  Si statim profecti essent inprovidos hostes invenissent.
+7.  Non jam adessem si amicorum consilio paruissem.
+8.  Nisi jussero ne domum reliqueris.
+9.  Si auxilium rogabantur libenter id dabant.
+10. Si auxilium rogati essent libenter oportuit dare.
+11. Semper si digni eramus qui juvaremur nos juvabant.
+
+## EXERCISE 203.
+
+1.  Ne promiseris unquam nisi fidem praestare potes.
+2.  Si ad castra pervenerimus tuti erimus.
+3.  Nisi flumen tam altum esset potuimus id pedibus transire.
+4.  Se prudentiores praebuissent si copias statim exposuissent.
+5.  Erres si me hoc de industria fecisse putes.
+6.  Si quis irae moderari non potest oneri est amicis.
+7.  Sive te laudat sive culpat scis te jure egisse.
+8.  Si novae copiae venissent hostes coacti essent obsidione desistere.
+9.  Si arma sument contra patriam digni erunt qui capitis damnentur.
+10. Si quem videbat (viderat) indigna patientem semper eum adjuvare conabatur.
+11. Si modo tacuissemus non talia mala jam pateremur.
+
+## EXERCISE 204.
+
+1.  Nisi mihi irrisisset forsitan ei ignossem.
+2.  Dummodo me timeant oderint.
+3.  Si Caesar pontem in Rheno fecisset facile Germani in potestatem ejus essent redacti.
+4.  Si statim hostes adoriemur sine dubio eos vincemus.
+5.  Meus si frater esset nihilominus eum damnarem.
+6.  Nunquam bellum L. Scipioni commissum esset nisi P. Scipio se eum comitaturum esse promisisset.
+7.  Nisi tributum esset impositum Macedones feliciores nunc quam sub suis regibus essent.
+8.  Si quis mihi injuriam fecit legibus non vi poenas de eo sumo.
+9.  Si modo Italiam intraverimus recto itinere Romam vos ducam.
+10. Nisi quis ambitu utitur consulatum petere minime ei prodest.
+11. Seu Romam ieris seu hic manseris ego non urbe excedam.
+
+## EXERCISE 205.
+
+1.  Poetae fame moriuntur Romae nisi divites eos sublevant.
+2.  Si recto cursu Romam petemus hac nocte in Capitolio epulabimur.
+3.  Antiquitus si quis se aptum ad regendum praebebat plerumque consul creabatur.
+4.  Sive hic nuntius verus est sive falsus nobis ubi sumus manendum est.
+5.  Certo nuntium tibi ad tempus attulissem si modo potuissem.
+6.  Si hostes statim nos aggredientur metuo ne non eis resistere possimus.
+7.  Si hoc te rogem jure irascaris.
+8.  Si (quum) domum redieris multos amicos invenies.
+9.  Nisi quondam pauper fuissem non jam divitiis fruerer.
+10. Si Gracchus regnum petiit jure interfectus est.
+
+## EXERCISE 206.
+
+1.  Nos primae aciei si occisa erit succedemus.
+2.  Si adessem quid agendum esset scirem.
+3.  Nisi eum admonueris tribus diebus oblitus erit.
+4.  Si adesse posset hanc rogationem jam profecto suaderet.
+5.  Si cras adsit hanc rogationem suadeat.
+6.  Si Fabius majorem in republica auctoritatem habuisset nunquam Varro consul creatus esset.
+7.  Si quid contra leges egerit de eo poenas sumite.
+8.  Si quis contra leges quid agit puniendus est.
+9.  Si quis eum conspiciat comprehendatur.
+10. Jam in carcere esset si modo eum comprehendere potuissemus.
+
+## EXERCISE 207.
+
+1.  Si contra rempublicam conjurarunt digni sunt qui supplicio afficiantur.
+2.  Nisi conjurassent jam in urbe viverent.
+3.  Si ad litus perveneris poteris in navem conscendere.
+4.  Si meo consilio paruisses tuas divitias servasses.
+5.  Si eos scelerum paenitebit eis ignoscetur.
+6.  Nisi huic parces odio eris omnibus.
+7.  Si sibi consuluisset Caesaris amicitiam non amisisset.
+8.  Si auxilium Poenis submittamus odium Romanorum subeamus.
+9.  Si tui visendi causa venerint jube eos manere donec ego adveniam.
+10. Oportet te divitiis bene uti si vis beatus esse.
+11. Sive voluisti sive non hoc facere debuisti.
+
+## EXERCISE 208.
+
+Multos et fortissimos proditione commilitones amisimus et ab amicis sumus relicti. Non tamen desperandum est et si vincere non poterimus mori saltem summa laude malimus quam in potestatem venire barbarorum qui nos summis doloribus afficient. Si majores nostri maximos illos Persarum exercitus sustinere noluissent adhuc penes barbaros Graecia esset. Nos autem si talibus nos praestiterimus dignos haud minus patriam juvabimus. Di ipsi laesae fidei ultores a nobis stabunt; quin immo quum violatum foedus aegre ferant in aciem nos sequentur pro nobis certabunt.
+
+## EXERCISE 209.
+
+Imperator ita apud suos contionatus est: “Videtis milites quantae sint hostium copiae et quam inexpugnabilem locum teneant. Si eos statim adoriemur sine dubio magnam cladem accipiemus. Sin autem illi loco relicto nos aggredientur bonam spem victoriae habeamus; nam flumen altum eis prius transeundum est et collis praeruptus ascendendus quam ad nostras munitiones pervenire possint.” His verbis summa difficultate suis persuasit ut intra munitiones manerent, quod consilium saluti fuit exercitui; nam si Romani hostes adorti essent qui et numero et loco superiores erant sine dubio victi essent.
+
+## EXERCISE 210.
+
+Mortuo Tib. Graccho C. Blosius miro modo amicitiam praestitit. Quum enim Senatus decrevisset ut si quis cum Graccho consensisset puniretur Blosius apud consules accusatus amicitiae excusatione utebatur. “Seu judices,” inquit, “me damnabunt seu me absolvent semper gaudebo me Gracchi fuisse amicum. Si vos consules me jubeatis me ipsum ea lege servare ut Gracchum accusem non ita me incolumem faciam. Si moriendum erit moriar amicis fidelis.” Dubitant consules; tandem roganti alteri “Num si Gracchus templum Jovis incendere jussisset id fecisses?” Blosius respondit “Non ille jussisset.”
+
+## EXERCISE 211.
+
+Adventu ducis conjuratorum cognito praefectus castelli suis convocatis ita locutus est: “Si quidem omnia proficerent non existimarem me oportere eos quibus praesim consulere. Quum vero hostes jam adsint neque nos satis frumenti comparaverimus si quis timidus adest aut si quis non animo paratus est usque ad mortem pro rege nostro pugnare abeat neve nobis hic obsessis oneri sit. Si potero eum incolumem in Celtica fluvii ripa exponam.” Si rex ipse milites allocutus esset non potuerunt plus studii praestare quam hac oratione audita praestiterunt; nec si quis abeundi cupidus fuit ausus est fateri.
+
+## EXERCISE 212.
+
+1.  Si optimus quisque periit quis ad rempublicam administrandam superest?
+2.  Si suos unquam laborantes viderat ipse eos adjuvare conabatur.
+3.  Imperatum est ut quisque suam salutem peteret.
+4.  Maxime nostra interest num quis nobis absentibus adfuerit cognoscere.
+5.  Diu equus amissus est neque quisquam eum reperire potest usquam.
+6.  Negavit quemquam sibi ut pecuniam acciperet persuasisso.
+7.  Si capta fuerit urbs hostis opinor nemini civium parcet.
+8.  Nostri quum aliquamdiu munitionibus se tenuissent tandem in hostem eruptionem fecerunt.
+9.  Philosophus quidam dixit ignem omnium rerum originem esse.
+10. Haud dubium est quin nonnulli hostes nos a tergo adoriri conentur.
+
+## EXERCISE 213.
+
+1.  Ego regressus certior factus sum aliquem mei visendi causa venisse.
+2.  Quam celerrime regressus sum nec quemquam apud me reperire potui.
+3.  Ecquis te rogavit quid faciendum esset?
+4.  Si quis neget spem ullam esse a civibus interficiatur.
+5.  Volo quemvis (quemlibet) mittere cognitum quid agatur.
+6.  Nescio quis dixit vitam longam summum esse malum.
+7.  Aliquamdiu affirmatum est optimum quemque nostrorum militum periisse.
+8.  Non dubium est quin perierint neque unquam corpora usquam reperta sunt.
+9.  Quum Romam rediero comperiam num quis meam domum emerit.
+10. Imperatum est ut si quis domos diripuisset (diriperet) interficeretur.
+
+## EXERCISE 214.
+
+Si post tantam victoriam Galli statim fugientes persecuti essent Roma profecto fuisset capta, adeo regressis iis qui ex acie effugerant cives erant metu perculsi attonitique. Galli tamen haud tantam esse victoriam rati quanta revera fuit epulando castrisque spoliandis se dediderunt. Multis igitur qui ex urbe voluerunt excedere occasio fugiendi data est; ii autem qui manebant se parare ad urbem defendendam poterant; qui reliqua urbe deserta in Capitolium se contulerunt quod firmo vallo muniverunt. Pro certo enim habebant si Galli oppugnarent (oppugnassent) sibi opus fore omnium virium.
+
+## EXERCISE 215.
+
+Parum quidem dubitari potest quin hujus cladis seu proditione seu inscientia auctores in primis fuerint duces. Exercitus enim si solita via iter fecisset advenisset incolumis postridieque aequo Marte contendere potuit. Breviore tamen usi tramite per agros ducente iter invenerunt ex alia parte palude ex alia rupibus obsaeptum. Quo cognito dux legatis convocatis “Si ultra progressi erimus,” inquit, “in periculum adducemur ut ab hostibus inopinantes opprimamur; sin pedem rettulerimus serius fortasse adveniemus. Si modo certum iter tenuissemus jam ad urbem appropinquaretur.” Ad quae nemo statim respondit; et priusquam consilium captum esset clamor est sublatus hostes instare.
+
+## EXERCISE 216.
+
+Juvenis quidam Lacedaemonius nomine Isadas hoc in certamine praeter omnes enituit. Neque arma neque vestem induerat, hastam solam altera manu altera gladium ferebat. Ita armatus summo ardore domo egressus primus in pugnam procurrit. Qui quum omni ictu mortiferam plagam infligeret omnes qui impetum ejus sustinebant ipse incolumis prostravit. Seu tam miro spectaculo hostes attoniti sunt seu ipsi di ob egregiam virtutem eum servaverunt constat neminem unquam tam mirifica praestitisse. Proelio autem confecto Ephori ut ferunt virtutis causa coronam ei decreverunt; quod tamen inermis tanto periculo se objecerat (objecisset) mille drachmis eum mulctaverunt.
+
+## EXERCISE 217.
+
+Ipso die quo patres num magistrum equitum deberent Romam revocare deliberabant nuntius allatus est eum eductis copiis quae in castris relictae essent proelioque cum Samnitibus commisso gravem cladem accepisse. Itaque dictator ne moratus quidem ut patrum sententias cognosceret ad castra quam celerrime rediit. Magister equitum ad tribunal arcessitus et rogatus cur ille cui salus Populi Romani commissa esset injussu dictatoris legiones quas castris tenere esset jussus in aciem eduxisset hoc solum respondere poterat: se exstitimasse legionibus quibus praeesset si quando data esset facultas pro bono Populi Romani uti oportere.
+
+## EXERCISE 218.
+
+Princeps quidam Indicus ab Hispanis captus est; qui quod ille inter suos pollebat utramque manum desecuerunt eo consilio ut eum rursus in se arma ferre prohiberent. Ille tamen hanc injuriam ulciscendi cupidus domum regressus suos incitabat ne solitam virtutem se defecisse Hispanos existimare sinerent; qui quum crudelitatem qua Hispani in eum comitesque ejus usi erant viderent incensis domibus ne quis regredi vellet obstinatis animis aut Hispanos expellere aut in acie perire in colonias Hispanicas invaserunt. Saucius autem princeps dum res geritur sagittas quas pugnantibus praeberet ore suo ferebat.
+
+## EXERCISE 219.
+
+Romani quidem certiores facti de clade quam acceperat Regulus magnam classem ad superstites reducendos instruxerunt. Poeni autem jure rati constantiam Romanorum una victoria non fractum iri ipsi novam classem aedificare coeperunt quae se ab alia incursione defenderet. Verum frustra conati sunt Clypeam ante redigere quam Romani ad eam pervenire possent. Praesidium enim exiguum mira quadam virtute omnibus oppugnationibus repulsis usque ad proximam aestatem restiterunt, quo tempore classis Romana advenit. Proelio navali contra promontorium Hermaeum facto victores Romani Clypeae defensores qui salutem tam bene meruerant in naves exceperunt.
+
+## EXERCISE 220.
+
+Si quidem Hanno cui imperium jam permissum est exemplo Hamilcaris usus esset Romani sine dubio victi essent. Ille autem quum imperium paulisper modo obtinuisset fide omnino se indignum praebuit. Nam si quando ex parte rem prospere gesserat non potuit fortuna uti; et quum certam victoriam se judice (ut existimavit ipse) reportasset castra ex inopinato ejus negligentia capta sunt. Tanto in discrimine Poeni quum non possent sperare virum quo tam injuste usi essent sibi subventurum esse summam imperii Hamilcari iterum detulerunt; qui patria omnibus rebus anteposita eam recipere non recusavit. Deinde et disciplina severa et studio et auctoritate apud principes Numidicos hostibus justo proelio victis aliquot urbes quae defecerant recepit.
+
+## EXERCISE 221.
+
+Ulysses in Phaeaciam insulam ejectus omni hospitio affectus est quo illis temporibus hospites ubique utebantur. Ab Nausicaa enim regis filia quae ei prima occurrit ad patris regiam ductus vestibus quas optimas texuerant puellae donatus est epulisque quas optimas hospites praebere poterant acceptus. Postridie ludis celebratis rogatus ut eis interesset eum honorem primo recusavit; postea autem injuriis regis filii lacessitus qui solus officii sui erga hospitem oblitus est tantas fere vires quantas bello Trojano praestitit et Phaeaces suis ludis superavit.
+
+## EXERCISE 222.
+
+Tib. Gracchus si quis alius dignus fuit qui a suis civibus beneficiis afficeretur. Natus enim patre qui Hispaniam pacaverat—id quod multi alii consules re infecta reliquerant—et natu conjunctus cum utroque Africano facile potuit principatum usurpare si voluisset legibus parere neque conatus esset eas mutare. Sed iter ei per Etruriam ad primam suam provinciam faciendum fuit; quae terra tunc deserta liberis nudata a servis culta eum tantum commovit ut constitueret aut remedium aliquod reperire aut in conatu (conatus) perire. Optimus quisque Romanorum legibus quas tulit favebat et nisi tribunus quidam ei obstitisset opus plerisque—ne dicam omnes—approbantibus perfecisset.
+
+## EXERCISE 223.
+
+1.  Quanquam non majestatis damnati sunt magnas injurias reipublicae intulerunt.
+2.  Etiamsi hoc neges nemo tibi credat.
+3.  Quamvis magnus sit hostium numerus non nobis desperandum est.
+4.  Etsi consilia sua comperta esse sciebant simulabant tamen se insontes esse.
+5.  Te hoc facere volo etsi non ipse fecissem.
+6.  Dux quanquam saepe rem prospere gesserat copiis suis displicebat.
+7.  Certum est mihi vera dicere etiamsi inimici mihi mortem minentur.
+8.  Caesari quamquam jam maximas pecunias mutuatus erat nihilominus credebatur.
+9.  Quamvis quinquies me decepisset nihilominus ei confisus essem.
+10. Satis sim contentus etiamsi paulisper in exsilium ire cogar.
+
+## EXERCISE 224.
+
+1.  Etsi magnum pretium mihi offerat non fundum vendam.
+2.  Romam hodie adveniendum est quamvis multa impediant.
+3.  Quanquam eum nocentem esse pro certo habeo id agam ut eum absolvam.
+4.  Quamvis exercitus ejus magnus sit una acie non omnia periclitabitur.
+5.  Etiamsi totius Galliae princeps esset non ei parcerem.
+6.  Quamquam totius hujus regionis ditissimus erat exiguam pecuniam pauperibus dedit.
+7.  Quanquam di a nobis stant gladio opus erit.
+8.  Etsi optimae essent legionum mearum tamen ad Pompeium eas remitterem.
+9.  Caesar duas legiones a Pompeio missas etsi suarum erant optimae ad eum remisit.
+10. Quamvis magnum periculum subirem non tali causa id vitare conarer.
+
+## EXERCISE 225.
+
+1.  Quivis tacere potest etiamsi iratus est.
+2.  Constituerant tacere quamvis multi cruciatus sibi infligerentur.
+3.  Aliquamdiu restiterunt quamquam pro certo habebant spem nullam salutis esse.
+4.  Quum credam te velle mihi prodesse tamen non possum tuum auxilium accipere.
+5.  Nunquam tibi credam etsi te jurejurando obstringas.
+6.  Hoc discrimine socii defecerunt quamquam promiserant se in officio mansuros.
+7.  Etiamsi exercitus dimissus erit milites tamen erimus.
+8.  Diu ferociter pugnatum est etsi numero hostibus multo inferiores fuimus.
+9.  Non debes talia coram aliis dicere quamvis ea vera esse existimes.
+10. Etsi conatus est dolorem celare tamen non est dubium quin hoc aegre tulerit.
+
+## EXERCISE 226.
+
+1.  Quanquam jamdudum in externa terra habitabant institutis majorum utebantur.
+2.  Recusarunt quominus hoc facerent quamvis sibi prodesset.
+3.  Hostibus non cedemus quamvis magnae eorum copiae sint.
+4.  Etsi hostibus numero inferiores erant locum summa constantia tenebant.
+5.  Quum callidus esset tamen nos decipere non potuit.
+6.  Non possum ei confidere etsi promittat se fidem praestaturum esse.
+7.  Quanquam tam pauperes erant non potuimus eis auxilium offerre.
+8.  Quamvis magna sit imperatoris potestas tamen ratio ab eo reipublicae semper est reddenda.
+9.  Etsi rei fiant sine dubio absolvantur.
+10. Ad necem deducti sunt etsi dux promiserat se eos conservaturum esse.
+
+## EXERCISE 227.
+
+Lucullus quamquam saepe rem prospere gesserat non potuit bellum cum Mithradate gestum conficere. Rex enim postquam Triarium justo proelio Zelae vicit hac victoria contentus in montes se receperat. Jussit quidem Lucullus suos persequi; qui tamen quamvis magna duci cupido esset regis capiendi eum sequi noluerunt. Plerique enim ab Italia viginti fere annos abfuerant et ex quo tempore Lucullus imperium obtinuit multa erant passi. Nam Lucullus etsi bonus imperator erat nihil ejus comitatis praestabat quae militum studium conciliat; idem dum inopia sui afficiuntur magno luxu ipse usus erat. Evenit igitur ut exercitus defendere quidem Pontum a Mithradate vellet haud tamen omnino alterum bellum suscipere.
+
+## EXERCISE 228.
+
+Caesar etiamsi exercitus sibi oppositus multo major fuisset nihilominus ex hoc bello victor evasisset. Tanta enim erat et disciplina et in re militari usus suorum ut quamvis adversa esset fortuna nunquam animum demitterent. Quod in bello Dyrrhachino praesertim manifestum erat. Quanquam enim oppugnatis munitionibus quas tanto labore fecerant defensores inde expulsi sunt nihil tamen erat pavoris neque milites passim per regionem diffugerunt; sed ii qui cladi supererant via in montes ducente conferto agmine se receperunt. Postridie igitur Caesar exercitum habuit restitutum qui quamvis deminutus pericula fortiter obire paratus erat.
+
+## EXERCISE 229.
+
+Quamvis omnibus diversae sint sententiae de moribus Scipionis nemo potest dubitare quin miram quandam auctoritatem apud suos acquisiverit. Si quidem nonnunquam de ejus jussis clam querebantur tamen nemo fuit quin vellet proelio commisso capitis periculum pro eo subire; idque etsi manifestum fuit se ipsum pro sua parte nunquam conari suos conservare sed obstinato esse animo quamvis multi suorum occiderentur hostes profligare. Qua de causa accidit ut Romani quanquam multi et potentes hostes eis simul obsisterent victores tot proeliis evaderent.
+
+## EXERCISE 230.
+
+Athenienses quum tot civitates defecissent tamen immotam constantiam praestabant; qui quanquam ipsi duas totius classis partes praebebant libenter Lacedaemoniis summam imperii non solum terra sed etiam mari permiserunt. Themistocles ille conatus est aliquid ejus studii quod in Atheniensibus excitaverat ceteris etiam Graecis injicere. Qui nisi tantum sapientiae quantum virtutis praestitisset de libertate Graeciae actum esset. Ejus autem consilio socii se jurejurando obstrinxerunt fore ut usque ad mortem resisterent et si res prospere evenissent Delphico deo decimam partem bonorum voverent omnium civitatum Graecarum quae se Persis sua sponte dedidissent (in deditionem venissent).
+
+## EXERCISE 231.
+
+1.  Se gessit quasi fureret.
+2.  Sicut meritus est praemio est affectus.
+3.  Pugnabat velut salus civitatis in se uno poneretur.
+4.  Omnia providi perinde ac evenerunt.
+5.  Sicut tu putabas id solum egit ut nos deciperet.
+6.  Rempublicam administrat non sicut res postulat sed quasi ceteris ipse futurus esset exemplo.
+7.  Non aeque ac putas nobis studet.
+8.  Haud eadem facit ac promittit.
+9.  Ut magni meam ipsius salutem ita civitatis multo pluris aestimo.
+10. Tibi invideo ut rebus publicis vacuo.
+11. Ut in tali discrimine diu quidem dubium erat utri essent victuri.
+12. Ut saepe fit opere nondum perfecto defessus erat.
+
+## EXERCISE 232.
+
+1.  In flumen irruerunt quasi insani essent.
+2.  Nostri victi sunt sicut ego praedixi.
+3.  Oportet nos uti aliis perinde ac volumus eos nobis uti.
+4.  Animadversum est eum (visus est) saepe se convertere tanquam si quis se sequeretur.
+5.  Ut in tanto discrimine tantam prudentiam quantam poterant praestiterunt.
+6.  Videre aliud est ac credere.
+7.  Non dubium est quin nobis minus sit otii quam nostris majoribus.
+8.  Non eadem semper fecerunt ac promiserant.
+9.  Proelium commiserunt quasi nullo cladis timore afficerentur.
+10. Graeci non eisdem virtutibus ac Romani insignes erant.
+11. Se in flumen projecit quasi revera vellet inimicum servare.
+12. Ut in tanto discrimine dux solus immotus permansit.
+
+## EXERCISE 233.
+
+Proelio Zamae facto Hannibal eandem constantiam atque aciei instruendae peritiam quam quattuordecim ante annos pugna Cannensi praestiterat. Fortuna tamen jam adversa erat et in proelium iniit quasi hoc ipse non ignoraret. Elephanti autem qui saepe Poenis saluti fuerant jam Romanorum clamoribus territi in suos conversi primam aciem turbaverunt. Mercenarii milites in prima acie constiterunt; quos se recipientes Poeni secunda acie instructi inter ordines suos nolebant admittere et in eos velut in hostes impetum fecerunt. Quod non praeter opinionem Hannibalis factum est. Tertiae igitur aciei veteranis ex Italia deductis imperavit ut impetu facto turbam tumultuariam ex acie pellerent. Quo facto tandem proelium cum Romanis redintegratum est.
+
+## EXERCISE 234.
+
+Nuntii sicut jussi sunt cives certiores fecerunt tribus diebus domos illis relinquendas atque in alium locum discedendum esse. Hi primo nihil responderunt quasi quid postularetur non intelligerent; princeps autem qui ut in tali re se intrepide gerebat nuntios rogavit ut qua de causa haec postularent certius exponerent. Ad quae illi responderunt se ea solum quae sibi mandata essent agere. Tunc ex toto vico magni clamores gemitusque coorti sunt velut poenam mortis subirent universique nuntiis circumfusi sunt tanto furore iraque usi quantum si hi ipsi malorum fuissent auctores praestare potuerunt.
+
+## EXERCISE 235.
+
+Antiochus incursionem in Aegyptum primo vere fecerat. Accidit autem perinde atque aliqui suorum praedixerant; nam simul atque Alexandriam appropinquavit legatus quidam Romanus nomine Popilius eum aggressus litteras a Senatu missas porrexit. Quibus perlectis rex respondit se suis amicis ad consilium convocatis de re deliberaturum. Popilius tamen regi virga circumscripto imperavit ne eum locum prius relinqueret quam responsum sibi dedisset. Nec roganti regi quicquam respondit sed tacitus adstitit quasi non audiret donec rex audacia legati perterritus promisit se omnia quae Senatus decerneret facturum. Eodem modo Romani quocunque ierant se gerebant quasi ipsi imperium orbis terrarum obtinerent.
+
+## EXERCISE 236.
+
+Cicero certior factus se ab Antonio proscriptum esse quum ad villam quae haud procul ab mari erat confugisset in navem conscendit eo consilio ut in Macedoniam transiret. Sed aliquoties in altum evectus et adversis ventis repulsus tandem professus se in patria quam toties servasset moriturum esse ad villam regressus est. Tunc quum cubitum iisset bene ut in tanto periculo dormivit. Servi tamen quasi periculum ejus providerent excitatum eum et in lectica positum per silvas ad mare vexerunt. Mox autem milites qui ad hoc missi erant eum consecuti sunt; qui quum advenissent vetuit ille servos resistere et cervicibus e lectica porrectis milites opus perficere jussit.
+
+## EXERCISE 237.
+
+1.  Sibi obsides traderent quos postulasset.
+2.  Cur ei illum sequi noluissent.
+3.  Se nolle eos prodere qui suam fidem sequerentur.
+4.  Num ille putaret se solum hoc scire.
+5.  Si hoc faceret omnes illum laudaturos esse.
+6.  Si se secuti essent ad urbem tutos eos perventuros fuisse.
+7.  Progrederentur ut in hostem invaderent.
+8.  Sui se sequerentur: se facile hostem victuros esse.
+9.  Non semper sibi consulendum esse.
+10. Eos tempestate prohibitos esse ad portum pervenire.
+11. Illo die insignem victoriam se reportasse.
+
+## EXERCISE 238.
+
+1.  Cur sociis persuasissent ut deficerent?
+2.  Statim discederent neve unquam ad illum locum redirent.
+3.  Se illis antea dixisse qualis eventus pugnae futurus esset.
+4.  Modo sibi darent quae eos rogasset se discessurum esse.
+5.  Quando sperarent novas copias quas exspectarent adventuras esse?
+6.  Se muros expugnasse; non tamen arcem in suis manibus esse.
+7.  Ne illi de salute desperarent.
+8.  Illos debuisse auxilium sibi celerius submittere.
+9.  Num eum furere qui talia diceret?
+10. Quod si verum esset se recusare quominus eos diutius adjuvaret.
+11. Nisi auxilium pervenisset omnes cives fame morituros fuisse.
+
+## EXERCISE 239.
+
+1.  Cur illi in suam patriam invasissent.
+2.  In patriam illi redirent.
+3.  Poenis se adortis eorum septingentos ducentos suorum interfectos esse.
+4.  Ne sociorum injurias obliviscerentur sed ulciscerentur celeriter.
+5.  Illo die majorem virtutem illos praestitisse quam eos.
+6.  Quum Romam rediissent se de illis rebus quaestionem habituros esse.
+7.  Se non posse jam illos adjuvare; si postridie venissent se quid agere posset deliberaturum esse.
+8.  Tribus ante diebus se castra relinquere potuisse; jam seu vellent seu nollent illic cogi manere.
+9.  Cives illum orare atque obtestari ut regressus rempublicam servaret.
+10. Si domi suae maneret certo ab iis illum oppugnatum iri.
+
+## EXERCISE 240.
+
+1.  Ubi ea nocte manere possent?
+2.  Se pro certo non habere se ad eos tempore perventurum.
+3.  Se duas legiones quas habuisset ad Pompeium misisse.
+4.  Illic nullam esse salutem aut sibi aut illi.
+5.  Si fidem praestaret eum jam (tunc) ibi adfuturum esse.
+6.  Omnes meminissent libertatem sibi in illo uno proelio positam esse.
+
+## EXERCISE 241.
+
+Deinde Labienus locutus est de Caesaris copiis contemptim. Ne illum esse exercitum arbitrarentur qui Galliam Germaniamque devicisset. Se quidem ipsum omnibus in iis regionibus factis proeliis adfuisse nec temere quod non cognosset affirmare. Minimam vero partem illius exercitus superesse; multos enim pestilentia periisse multos domum esse regressos. Nonne audiissent factas esse Brundisii legiones ex sauciis illic relictis? Copias quas coram viderent tirones esse et plerasque ex coloniis Transpadanis conscriptas. Robur autem exercitus duabus pugnis Dyrrhachii factis periisse. Se denique juraturum nunquam se nisi victorem in castra regressurum esse; ceteri eodem consilio uterentur.
+
+## EXERCISE 242.
+
+Apud Livium scriptum invenimus Appium patribus convocatis affirmasse se surdum esse velle ne turpia consilia quae illo die nomini Romano dedecori essent audiret. Se maxime deplorare mutatum illorum animum qui longe alius esset ac priore tempore. Quo tanti spiritus quo virtus fugisset? Nonne olim jactassent se Alexandro ipsi si juventute sua in Italiam ausus esset invadere non cessuros fuisse? Ne Lucanis jam Graeculisque id traderent quod patres sui gladio nacti essent.
+
+## EXERCISE 243.
+
+Pacis conditiones quamvis graves eae solum erant quas in tali re exspectarent. Hannibal autem suis manibus de rostro oratorem detraxit qui ut bellum duceretur suadebat. Quamobrem irato populo quod ita oratorum libertatem deminuisset respondit sibi ignoscendum esse si postquam sex et triginta annos in castris meruisset institutorum fori oblivisceretur. Apud Livium scriptum invenimus conditiones ab Scipione et magistratibus Carthaginiensium constitutas et Romam ad senatum relatas ab illo acceptas esse, et quod satis severas esse existimabat et quod verebatur ne illis rejectis Poeni bellum renovarent.
+
+## EXERCISE 244.
+
+Deinde convocato concilio dux ita locutus: sibi jam constituendum esse num in loco perstare magis prodesset an dum jam esset facultas se recipere. Novas enim copias quas diu exspectassent nondum advenisse; quod ad se attineret se credere non parem esse hostibus exercitum suum. Scire tamen se virtuti patientiaeque suorum posse confidere et si illi voluissent se paratum esse quam diutissime resistere. Sententias aperte dicerent; se enim nihil invitis illis facturum esse. Cujus orationis quum dux finem fecisset alia ab alio sententia edita tandem constituerunt quum tot essent hostes prudentius esse se recipere neque gravis cladis periculum subire.
+
+## EXERCISE 245.
+
+Caesar quum de actis Senatus nuntius allatus esset apud milites contionatus est. Quid patres egissent qua causa egissent exposuit. Novem annos se suosque reipublicae fideliter servisse et multas victorias reportasse. Germanos se ultra Rhenum expulisse Galliam fecisse provinciam Romanam; senatum jam violatis legibus munus abrogasse tribunis quod oratione se defenderent; affirmavisse rempublicam periclitari Italiamque in arma convocasse quum ipse nullam iis injuriam intulisset. Deinde milites quos Pompeius seditiosos esse putabat consensu affirmarunt se ducem tribunosque secuturos esse. Toto ex exercitu unus solus legatus se infidelem praebuit.
+
+## EXERCISE 246.
+
+Sulla devictis inimicis imperioque sumpto Senatum convocatum summo ardore postulavit ut C. Marius hostis decerneretur. Neque quisquam ei se opposuit donec Scaevola sententiam rogatus dicere recusavit. Qui quum Sulla eum voce minaci sententiam rogitaret respondit illi quidem licere manus militum ostentare quibus curiam cinxisset licere mortem sibi identidem minari; nunquam tamen se coactum iri dicere Marium a quo respublica Romana servata esset Romae esse hostem.
+
+## EXERCISE 247.
+
+His temporibus sunt qui cupere videantur non modo leges mutare—id quod forsitan laude dignum sit—sed totam rempublicam evertere. Talis viri orationem heri audiebam apud turbam artificum in foro ita contionantis: Quis esset qui inter se dominaretur? Quis esset cui divitias congererent dum ipsi pecunia panis causa emendi carerent? Illos ipsos responsum posse dare nec sibi opus esse declarare. Patres satis valere ut aequas leges fieri prohiberent; M. Crassum quotannis consulatum sibi suisque amicis emere. Unum solum esse remedium: ex urbe eos expellerent; flammis et sanguine eos docerent quantam plebi injuriam intulissent.
+
+## EXERCISE 248.
+
+Tertio jam die postquam copiae Roma profectae sunt tristis nuntius allatus est hostes exercitu Romano a. d. IV Id. Mart. profligato jam urbe Coriolis et omnibus agris bonisque sociorum potitos esse. Nuntius quidem rettulit se solum ex acie superesse; hostes recenti victoria elatos instare neque amplius tria millia passuum jam sine dubio ab urbe abesse. Adeo autem feroces eos esse ingenio ut pro certo haberet fore ut nemini quamvis seni infirmoque parceretur. Quo audito patres legatos mittere constituerunt qui aggredienti hosti obviam irent et pacem peterent.
+
+## EXERCISE 249.
+
+Victoriam haud ancipitem jam reportaverat et pro certo habebat bellum mox prospere eventurum, cum spes omnis perdita est quod milites bellum continuare recusarunt. Affirmabant enim se laboribus confectos esse neque in meliorem spem belli conficiendi venire. Quare patria et si quid cordi esset relinquenda mala omnia subeunda essent ut imperator victoriae irritae laudem adipisceretur? Si quidem hostes sequerentur se non posse eos in castellis montanis consequi, et ipsas victorias quas jam reportassent multo Romanorum sanguine stetisse.
+
+## EXERCISE 250.
+
+Imperator autem respondit neminem quidem magis quam se suis consulere, stultorum tamen esse commoda victoriae paene exploratae perdere. Ne arbitrarentur se bellum modo suscepisse ut laudem sibi adipisceretur; illos enim secum fructus victoriae aeque participes fore et hostibus profligatis posse spoliis hostium auctos domum statim redire. Praeterea hostes etsi in montes confugerent nondum eo pervenisse, et signis confestim motis fore ut eos priusquam ad locum tutum se recepissent facile consequerentur.
+
+## EXERCISE 251.
+
+Ne crederent, id quod vulgo in urbe jactaretur, se consulatum eo consilio petere ut provinciam acquireret divitiasque quas tot senatores civitatibus imperio Romano subjectis abriperent. Num eos putare se, Catoni quondam conjunctissimum, adeo animo mutatum esse? Immo se malle spem omnem honorum abjicere quam tantae infamiae occurrere. Se nuper audisse publicanos Ciliciae amicum suum Ciceronem rogasse ut sibi legionarios traderet per quos vectigalia colligerent ; eum primo quidem recusasse, postea tamen precibus superatum esse. Quin ipsos milites, nisi Romani essent, quominus tam crudeli operi interessent recusaturos. Verum conarentur philosophiae studere et malorum oblivisci quae sanare non possent.
+
+## EXERCISE 252.
+
+Hac nocte rex parvam comitum manum circum se collectam paucis verbis valere jussit. Fortunam illorum tamdiu cum sua conjunctam esse ut non nisi ultima necessitate coactus talia verba ederet. Si quid spei jam restaret se fide et auxilio eorum ultra usurum, neve crederent se parvi ea facere. Paucos enim illos esse qui secum rebus prosperis fructi jam rebus se adversis oppressum deserere nollent, cujus rei summas se eis gratias habere. Jam vero saluti eorum consulendum, pro qua postero die se traditurum esse. Cur eos secum perdere oporteret? Cum rebelles se ipsum in potestate habuissent, fieri posse ut illos sinerent quocunque vellent effugere.
+
+## EXERCISE 253.
+
+Imperator de ingenti hac multitudine certior factus consilio legatorum convocato ita locutus est : “Illos jam cernere quantum sibi periculum instaret. Colles armis signisque opertos esse et imperatorem Graecum bellis et victoriis esse assuetum ; salutem suam in consensu esse positam ; sibi modo imperarent, se paratum esse imperium duci meliori concedere.” Cum in tanto discrimine etiam inimici plausu demonstrarent se ei confidere, haec addidit : “praemio victoriae confisi ne locum fugae ignavis relinquerent ; navibus et impedimentis ustis in illo loco proelium committerent.” Qua sententia consensu omnium probata, dux acie instructa hostium impetum exspectavit. Fortasse nesciebat in eo loco Caesarem et Pompeium olim de imperio orbis terrarum decertasse.
+
+## EXERCISE 254.
+
+Se potuisse in Hispaniam ire ubi fratrem participem laborum habiturus fuerit et Hasdrubalem hostem pro Hannibale. Sed cum oram legens audisset hostes in Galliam advenisse, se statim egressum equitibus praemissis castra usque ad Rhodanum movisse. Experiri se jam cupere num Carthago illis viginti annis novum genus civium edidisset, an eidem essent quos Eryce dimissos tam parvi aestimassent. Se quidem velle pro honore modo dimicari neque ipsa pro vita, sed pro Italia ipsa et pro domibus certari ; neque alterum exercitum a tergo esse qui illis victis *(nisi illi vicissent)* hosti obstaret. Reputaret quisque Senatum se spectare, et fortunam Romae in sua virtute constare.
+
+## EXERCISE 255.
+
+Interea Poeni, qui sciebant quam exiguae sibi copiae navales Lilybaei essent, neque dubitabant quin locus defendi non posset nisi auxilium ferretur *(latum esset)*, novas copias statim mittere constituerunt. Hannibal igitur, Hamilcaris filius, quam celerrime ad Siciliam cum quinquaginta navibus et decem milibus militum missus est. Qui, cum classe inter Aegates insulas contra Lilybaeum sitas navigans, tempus opperitur quo per scopulos et saxa portum cingentia se insinuare possit. Tandem ventum nactus secundum navem solvit, suisque ad certamen confertis, audacia successu digna per aditum angustum penetravit. Interim Romani, quorum naves in ancoris stabant, ejus temeritate attoniti pro certo habebant eum in scopulos allisum iri.
+
+## EXERCISE 256.
+
+Atrociter et tumultuose pugnatum est. Primo impetu pelluntur oppugnatores atque e ducibus fortissimis, dum strictis ensibus castellum expugnant, nonnulli occiduntur. Mox iterum, fortuna secundiore, adgrediuntur. Ex alio in alium locum pulsi sunt Indi, et summa ferocitate certantes pedem gradatim rettulerunt. Plerique veteranorum occisi sunt ; et post pugnam et longam et cruentam Philippus et dux sociorum cum globo bellatorum, qui adhuc supererant, e castello regressi ad virgulta silvae vicinae confugiunt. Incendunt victores casas et castella ; mox omnia flammis corripiuntur ; senum, mulierum, infantium, multi inter flammas perierunt.
