@@ -958,18 +958,18 @@ Tertia circiter vigilia Moscova profecti sumus, ne ullus tumultus ab amicis nost
 
 ## EXERCISE 99.
 
-Ars scribendi. 
-Ars scribendi litteras. 
-Parendo legibus. 
-Mutandis legibus. 
-Civitatis servandae causa. 
-Amicis placendi causa. 
-Civitatis juvandae causa. 
-Amicos servandi causa. 
-Subveniendi civitati causa. 
-Ad nocendum Gallis. 
-Ad regem servandum. 
-Ad serviendum regi.
+- Ars scribendi.
+- Ars scribendi litteras.
+- Parendo legibus.
+- Mutandis legibus.
+- Civitatis servandae causa.
+- Amicis placendi causa.
+- Civitatis juvandae causa.
+- Amicos servandi causa.
+- Subveniendi civitati causa.
+- Ad nocendum Gallis.
+- Ad regem servandum.
+- Ad serviendum regi.
 
 ## EXERCISE 100.
 
