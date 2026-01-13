@@ -240,3 +240,79 @@ e.g.
 - _I was advised_ = suasum est mihi, or monitus sum.
 
 N.B .- Remember that all "Dative Verbs" (i.e. all verbs that govern the Dative only) are Intransitive.
+
+## Direct Command or Petition¹
+
+**Rule 10.** 
+- Second Person.
+  - If positive = Imperative.
+  - If negative =
+    - (a) Ne with Perfect Subj.
+    - (b) Imperat. of nolo with Inf.
+- First and Third Persons. Present Subj., with ne if negative.
+
+### Examples.
+
+- _Do not buy this horse_ = Hunc equum ne emeris. Hunc equum noli emere.
+- _Let us (not) buy this horse_ = Hunc equum (ne) emamus.
+
+When a command is double, and the second part negative, use neu or neve instead of neque, before the second part.
+
+e.g.
+
+- Maneamus in urbe neve discedamus. _Let us remain in the city and not depart._
+- Ne iratus sis neve me reliqueris. _Do not be angry or leave me._
+
+¹ This is inserted here for convenience of revision before doing Indirect Command.
+
+## Indirect Command and Petition
+
+In the sentences "He commands the building of a bridge," "He demands the payment of the money," the verbs 'commands' and 'demands' govern direct objects. But usually the place of this direct object is taken by a clause ; e.g. "He commands that the bridge be built," "He demands that the moncy be paid." these clauses are "noun sentences," and are as truly the objects of the principal verbs as the nouns 'building' and 'payment' in the first sentences. These object-sentences after verbs of asking and commanding are what we mean by "Indirect Commands."
+
+**Rule 11.** Indirect Commands are expressed in Latin by ut (when positive) ne (when negative) with the Subjunctive.
+
+The construction is exactly the same as that of Final Sentences.
+
+Exceptions.- Jubeo, veto, take Present Infinitive. Avoid jubeo . . non, for which impero ne or veto must be used.
+
+Neu (neve) is used for neque in Indirect as in DirectCommands and Final Sentences.
+
+### Examples.
+
+- (a) Persuadet Rauracis ut una cum Helvetiis proficiscantur. _He persuades the Rauraci to set out with the Helvetii._
+- (b) Pontem, qui erat ad Genavam, jubet rescindi. _He orders the bridge at Geneva to be broken dou._
+- (c) Se gladio transfixit ne fame periret neve ab hostibus caperetur. _He fell on his sword that he might not die of hunger or be taken by the enemy._
+
+## Words That May Introduce Statements and Commands
+
+**Rule 12. The verbs moneo, persuadeo, suadeo, may introduce either an Indirect statement or an Indirect command.** In the former case, of course, they take Acc. with Inf. E.g. in the sentence "I will persuade him that this journey is dangerous," the word "persuade" introduces a statement; but in "I will persuade him to abandon this journey" it introduces a command.
+
+### Example
+
+Civitati persuasit ut de finibus suis exirent: perfacile esse totius Galliae imperio potiri. _He persuaded the State to migrate from their territories (Ind. command) ; saying that it was easy to become supreme in Gaul (Ind. statement)._
+
+There is a similar ambiguity in the use of the English "tell," which may introduce either statement or command; e.g. "I told him the journey was dangerous," and "I told him to abandon the journey."
+
+## Dative of Purpose, or Predicative Dative
+
+- Exitio est avidum mare nautis. _The greedy sea is a destruction to sailors._
+- Hosti ludibrio esse. _To be a laughing-stock to the enemy._
+- Auxilio Caesari mittitur. _He is sent to the help of Caesar._
+
+These Datives are never qualified by an epithet, except the simplest of quantity; e.g. magno dedecori esse = _to be a great disgrace_. They are almost always accompanied by a Dativus Commodi, as nautis, hosti, Cacsari in the above examples.
+
+## Ablatives of Origin, Separation, Association.¹
+
+1. Jove natus = Son of Jupiter.
+2. Libera nos metu = Free us from fear.
+3. Divitiis abundat = He has plenty of money.
+
+¹ Earlier exercises on the Ablative are given on pages 36, 37.
+
+## Ablatives of Respect and Manner.
+
+1. Numero superiores = _Greater in number._
+2. Summa diligentia naves armare = _To fit ships with great care._
+
+The Ablative of Manner must have an epithet, except in a few words: e.g. jure (_rightly_), injuria (_wrongly_), fraude (_treacheronsly_), silentio (_in silence_), etc. If there is no epithet use cum: e.g. cum diligentia naves armare.
+
