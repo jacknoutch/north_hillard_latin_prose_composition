@@ -20,6 +20,10 @@ Submit a pull request if any errors are found.
 
 ## Description
 
+### Exercises
+
+Exercise titles have been standardised to `Exercise 1A` where the format is the number followed, where applicable, by a capital A or B for which track.
+
 ### Special Vocabularies
 
 `special_vocabularies.md` is a Markdown transcription of the Special Vocabularies at pages 204 to 238.
